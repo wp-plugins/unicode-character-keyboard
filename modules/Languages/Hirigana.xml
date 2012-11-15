@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Version 1.0 by Terry O'Brien -->
+<characterSet name="Hirigana" type="Languages" description="Hirigana" >
+    <characterSetResource>http://www.unicode.org/charts/PDF/U3040.pdf</characterSetResource>
+
+    <characterSubset name="Vowels" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#12354;">Upper Case a</characterDefinition>
+            <characterDefinition character="&amp;#12356;">Upper Case i</characterDefinition>
+            <characterDefinition character="&amp;#12358;">Upper Case u</characterDefinition>
+            <characterDefinition character="&amp;#12360;">Upper Case e</characterDefinition>
+            <characterDefinition character="&amp;#12362;">Upper Case o</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#12353;">Lower Case a</characterDefinition>
+            <characterDefinition character="&amp;#12355;">Lower Case i</characterDefinition>
+            <characterDefinition character="&amp;#12357;">Lower Case u</characterDefinition>
+            <characterDefinition character="&amp;#12359;">Lower Case e</characterDefinition>
+            <characterDefinition character="&amp;#12361;">Lower Case o</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+    <characterSubset name="Consonants" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#12435;">n</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+    <characterSubset name="Consonant-Vowel Combinations" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#12363;">ka</characterDefinition>
+            <characterDefinition character="&amp;#12365;">ki</characterDefinition>
+            <characterDefinition character="&amp;#12367;">ku</characterDefinition>
+            <characterDefinition character="&amp;#12369;">ke</characterDefinition>
+            <characterDefinition character="&amp;#12371;">ko</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#12364;">ga</characterDefinition>
+            <characterDefinition character="&amp;#12366;">gi</characterDefinition>
+            <characterDefinition character="&amp;#12368;">gu</characterDefinition>
+            <characterDefinition character="&amp;#12370;">ge</characterDefinition>
+            <characterDefinition character="&amp;#12372;">go</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#12373;">sa</characterDefinition>
+            <characterDefinition character="&amp;#12375;">si</characterDefinition>
+            <characterDefinition character="&amp;#12377;">su</characterDefinition>
+            <characterDefinition character="&amp;#12379;">se</characterDefinition>
+            <characterDefinition character="&amp;#12381;">so</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#12374;">za</characterDefinition>
+            <characterDefinition character="&amp;#12376;">zi</characterDefinition>
+            <characterDefinition character="&amp;#12378;">zu</characterDefinition>
+            <characterDefinition character="&amp;#12380;">ze</characterDefinition>
+            <characterDefinition character="&amp;#12382;">zo</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#12383;">ta</characterDefinition>
+            <characterDefinition character="&amp;#12385;">ti</characterDefinition>
+            <characterDefinition character="&amp;#12388;">tu</characterDefinition>
+            <characterDefinition character="&amp;#12390;">te</characterDefinition>
+            <characterDefinition character="&amp;#12392;">to</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#12384;">da</characterDefinition>
+            <characterDefinition character="&amp;#12386;">di</characterDefinition>
+            <characterDefinition character="&amp;#12389;">du</characterDefinition>
+            <characterDefinition character="&amp;#12391;">de</characterDefinition>
+            <characterDefinition character="&amp;#12393;">do</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#12394;">na</characterDefinition>
+            <characterDefinition character="&amp;#12395;">ni</characterDefinition>
+            <characterDefinition character="&amp;#12396;">nu</characterDefinition>
+            <characterDefinition character="&amp;#12397;">ne</characterDefinition>
+            <characterDefinition character="&amp;#12398;">no</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#12399;">ha</characterDefinition>
+            <characterDefinition character="&amp;#12402;">hi</characterDefinition>
+            <characterDefinition character="&amp;#12405;">hu</characterDefinition>
+            <characterDefinition character="&amp;#12408;">he</characterDefinition>
+            <characterDefinition character="&amp;#12411;">ho</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#12400;">ba</characterDefinition>
+            <characterDefinition character="&amp;#12403;">bi</characterDefinition>
+            <characterDefinition character="&amp;#12406;">bu</characterDefinition>
+            <characterDefinition character="&amp;#12409;">be</characterDefinition>
+            <characterDefinition character="&amp;#12412;">bo</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#12401;">pa</characterDefinition>
+            <characterDefinition character="&amp;#12404;">pi</characterDefinition>
+            <characterDefinition character="&amp;#12407;">pu</characterDefinition>
+            <characterDefinition character="&amp;#12410;">pe</characterDefinition>
+            <characterDefinition character="&amp;#12413;">po</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#12414;">ma</characterDefinition>
+            <characterDefinition character="&amp;#12415;">mi</characterDefinition>
+            <characterDefinition character="&amp;#12416;">mu</characterDefinition>
+            <characterDefinition character="&amp;#12417;">me</characterDefinition>
+            <characterDefinition character="&amp;#12418;">mo</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#12420;">ya</characterDefinition>
+            <characterDefinition character="&amp;#12422;">yu</characterDefinition>
+            <characterDefinition character="&amp;#12424;">yo</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#12425;">ra</characterDefinition>
+            <characterDefinition character="&amp;#12426;">ri</characterDefinition>
+            <characterDefinition character="&amp;#12427;">ru</characterDefinition>
+            <characterDefinition character="&amp;#12428;">re</characterDefinition>
+            <characterDefinition character="&amp;#12429;">ro</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#12431;">wa</characterDefinition>
+            <characterDefinition character="&amp;#12432;">wi</characterDefinition>
+            <characterDefinition character="&amp;#12433;">we</characterDefinition>
+            <characterDefinition character="&amp;#12434;">wo</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#12436;">vu </characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+    <characterSubset name="Lower Case" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#12387;">Lower Case tu</characterDefinition>
+            <characterDefinition character="&amp;#12419;">Lower Case ya</characterDefinition>
+            <characterDefinition character="&amp;#12421;">Lower Case yu</characterDefinition>
+            <characterDefinition character="&amp;#12423;">Lower Case yo</characterDefinition>
+            <characterDefinition character="&amp;#12430;">Lower Case wa</characterDefinition>
+            <characterDefinition character="&amp;#12437;">Lower Case ka</characterDefinition>
+            <characterDefinition character="&amp;#12438;">Lower Case ke</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+    <characterSubset name="Combinations" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#12441;">Combining Katakana-Hiragana Voiced Sound Mark</characterDefinition>
+            <characterDefinition character="&amp;#12442;">Combining Katakana-Hiragana Semi-voiced Sound Mark</characterDefinition>
+            <characterDefinition character="&amp;#12443;">Katakana-Hiragana Voiced Sound Mark</characterDefinition>
+            <characterDefinition character="&amp;#12444;">Katakana-Hiragana Semi-voiced Sound Mark</characterDefinition>
+            <characterDefinition character="&amp;#12445;">Hiragana Iteration mark</characterDefinition>
+            <characterDefinition character="&amp;#12446;">Hiragana Voiced Iteration Mark</characterDefinition>
+            <characterDefinition character="&amp;#12447;">Hiragana Digraph Yori</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+</characterSet>

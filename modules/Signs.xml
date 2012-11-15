@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Version 1.0 by Terry O'Brien -->
+<characterSet name="Signs" type="Symbols" description="Signs" >
+
+    <characterSubset name="Caution Signs" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#9760;">Skull and Crossbones</characterDefinition>
+            <characterDefinition character="&amp;#9761;">Caution Sign</characterDefinition>
+            <characterDefinition character="&amp;#9762;">Radioactive Sign</characterDefinition>
+            <characterDefinition character="&amp;#9763;">Biohazard Sign</characterDefinition>
+            <characterDefinition character="&amp;#9854;">Permanent Paper Sign</characterDefinition>
+            <characterDefinition character="&amp;#9855;">Wheelchair Symbol</characterDefinition>
+            <characterDefinition character="&amp;#9888;">Warning Sign</characterDefinition>
+            <characterDefinition character="&amp;#9889;">High Voltage Sign</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+    <characterSubset name="Sexual Identification and Relation Signs" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#9792;">Female Sign</characterDefinition>
+            <characterDefinition character="&amp;#9794;">Male Sign</characterDefinition>
+            <characterDefinition character="&amp;#9890;">Doubled Female Sign</characterDefinition>
+            <characterDefinition character="&amp;#9891;">Doubled Male Sign</characterDefinition>
+            <characterDefinition character="&amp;#9892;">Interlocked Female and Male Sign</characterDefinition>
+            <characterDefinition character="&amp;#9893;">Male and Female Sign</characterDefinition>
+            <characterDefinition character="&amp;#9894;">Male with Stroke Sign</characterDefinition>
+            <characterDefinition character="&amp;#9895;">Male with Stroke and Male and Female Sign</characterDefinition>
+            <characterDefinition character="&amp;#9896;">Vertical Male with Stroke Sign</characterDefinition>
+            <characterDefinition character="&amp;#9897;">Horizontal Male with Stroke Sign</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#9901;">Marriage Symbol</characterDefinition>
+            <characterDefinition character="&amp;#9902;">Divorce Symbol</characterDefinition>
+            <characterDefinition character="&amp;#9903;">Unmarried Partnership Symbol</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+</characterSet>

@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Version 1.0 by Terry O'Brien -->
+<characterSet name="Mathematics" type="Mathematics" description="Mathematicsl Symbols" >
+
+    <characterSubset name="Symbols" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#8240;">Per Mil (1/1000th)</characterDefinition>
+            <characterDefinition character="&amp;#8869;">Orthogonal to / Perpendicular</characterDefinition>
+            <characterDefinition character="&amp;#8736;">Angle</characterDefinition>
+            <characterDefinition character="&amp;#8260;">Fraction Slash</characterDefinition>
+            <characterDefinition character="&amp;#170;">Feminine Ordinal Indicator</characterDefinition>
+            <characterDefinition character="&amp;#186;">Masculine Ordinal Indicator</characterDefinition>
+            <characterDefinition character="&amp;#8704;">For All</characterDefinition>
+            <characterDefinition character="&amp;#8705;">Complement</characterDefinition>
+            <characterDefinition character="&amp;#8706;">Partial Differential</characterDefinition>
+            <characterDefinition character="&amp;#8707;">There Exists</characterDefinition>
+            <characterDefinition character="&amp;#8708;">There Does Not Exist</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#8709;">Empty Set</characterDefinition>
+            <characterDefinition character="&amp;#8710;">Increment</characterDefinition>
+            <characterDefinition character="&amp;#8711;">Nabla, Backward Difference</characterDefinition>
+            <characterDefinition character="&amp;#8712;">Element Of</characterDefinition>
+            <characterDefinition character="&amp;#8713;">Not an Element Of</characterDefinition>
+            <characterDefinition character="&amp;#8714;">Small Element Of</characterDefinition>
+            <characterDefinition character="&amp;#8715;">Contains as Member</characterDefinition>
+            <characterDefinition character="&amp;#8716;">Does Not Contain as Member</characterDefinition>
+            <characterDefinition character="&amp;#8717;">Small Contains as Member</characterDefinition>
+            <characterDefinition character="&amp;#8718;">End of Proof</characterDefinition>
+            <characterDefinition character="&amp;#8719;">N-ary Product</characterDefinition>
+            <characterDefinition character="&amp;#8720;">N-ary Coproduct</characterDefinition>
+            <characterDefinition character="&amp;#8721;">N-ary Summation</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#8722;">Minus Sign</characterDefinition>
+            <characterDefinition character="&amp;#177;">Plus/Minus Symbol</characterDefinition>
+            <characterDefinition character="&amp;#8723;">Minus-or-Plus Sign</characterDefinition>
+            <characterDefinition character="&amp;#8724;">Dot Plus</characterDefinition>
+            <characterDefinition character="&amp;#8725;">Division Slash</characterDefinition>
+            <characterDefinition character="&amp;#8726;">Set Minus</characterDefinition>
+            <characterDefinition character="&amp;#8727;">Asterisk Operator</characterDefinition>
+            <characterDefinition character="&amp;#8728;">Ring Operator</characterDefinition>
+            <characterDefinition character="&amp;#8729;">Bullet Operator</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#8733;">Proportional to</characterDefinition>
+            <characterDefinition character="&amp;#8734;">Infinity</characterDefinition>
+            <characterDefinition character="&amp;#8735;">Right Angle</characterDefinition>
+            <characterDefinition character="&amp;#8736;">Angle</characterDefinition>
+            <characterDefinition character="&amp;#8737;">Measured Angle</characterDefinition>
+            <characterDefinition character="&amp;#8738;">Spherical Angle</characterDefinition>
+            <characterDefinition character="&amp;#8739;">Divides</characterDefinition>
+            <characterDefinition character="&amp;#8740;">Does Not Divide</characterDefinition>
+            <characterDefinition character="&amp;#8741;">Parallel to</characterDefinition>
+            <characterDefinition character="&amp;#8742;">Not Parallel to</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#8756;">Therefore Triangle</characterDefinition>
+            <characterDefinition character="&amp;#8757;">Because</characterDefinition>
+            <characterDefinition character="&amp;#8758;">Ratio</characterDefinition>
+            <characterDefinition character="&amp;#8759;">Proportion</characterDefinition>
+            <characterDefinition character="&amp;#8760;">Dot Minus</characterDefinition>
+            <characterDefinition character="&amp;#8761;">Excess</characterDefinition>
+            <characterDefinition character="&amp;#8762;">Geometric Proportion</characterDefinition>
+            <characterDefinition character="&amp;#8763;">Homothetic</characterDefinition>
+            <characterDefinition character="&amp;#732;">Tilde Operator</characterDefinition>
+            <characterDefinition character="&amp;#8765;">Reversed Tilde</characterDefinition>
+            <characterDefinition character="&amp;#8766;">Inverted Lazy S</characterDefinition>
+            <characterDefinition character="&amp;#8767;">Sine Wave</characterDefinition>
+            <characterDefinition character="&amp;#8768;">Wreath Product</characterDefinition>
+            <characterDefinition character="&amp;#8769;">Not Tilde</characterDefinition>
+            <characterDefinition character="&amp;#8770;">Minus Tilde</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#8771;">Asymptotically Equal To</characterDefinition>
+            <characterDefinition character="&amp;#8772;">Not Asymptotically Equal To</characterDefinition>
+            <characterDefinition character="&amp;#8773;">Approximately Equal To</characterDefinition>
+            <characterDefinition character="&amp;#8774;">Approximately But Not Actually Equal To</characterDefinition>
+            <characterDefinition character="&amp;#8775;">Neither Approximately nor Actually Equal To</characterDefinition>
+            <characterDefinition character="&amp;#8776;">Almost Equal To</characterDefinition>
+            <characterDefinition character="&amp;#8777;">Not Almost Equal To</characterDefinition>
+            <characterDefinition character="&amp;#8778;">Almost Equal or Equal To</characterDefinition>
+            <characterDefinition character="&amp;#8779;">Triple Tilde</characterDefinition>
+            <characterDefinition character="&amp;#8780;">All Equal To</characterDefinition>
+            <characterDefinition character="&amp;#8781;">Equivalent To</characterDefinition>
+            <characterDefinition character="&amp;#8782;">Geometrically Equivalent To</characterDefinition>
+            <characterDefinition character="&amp;#8783;">Gifference Between</characterDefinition>
+            <characterDefinition character="&amp;#8784;">Approaches the Limit</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#8785;">Geometrically Equal To</characterDefinition>
+            <characterDefinition character="&amp;#8786;">Approximately Equal To Or the Image of</characterDefinition>
+            <characterDefinition character="&amp;#8787;">Image of or Approximately Equal To</characterDefinition>
+            <characterDefinition character="&amp;#8788;">Colon Equals</characterDefinition>
+            <characterDefinition character="&amp;#8789;">Equals Colon</characterDefinition>
+            <characterDefinition character="&amp;#8790;">Ring in Equal To</characterDefinition>
+            <characterDefinition character="&amp;#8791;">Ring Equal To</characterDefinition>
+            <characterDefinition character="&amp;#8792;">Corresponds to</characterDefinition>
+            <characterDefinition character="&amp;#8793;">Estimates</characterDefinition>
+            <characterDefinition character="&amp;#8794;">Equiangular to</characterDefinition>
+            <characterDefinition character="&amp;#8795;">Star Equals</characterDefinition>
+            <characterDefinition character="&amp;#8796;">Delta Equal To</characterDefinition>
+            <characterDefinition character="&amp;#8797;">Equal To By Definition</characterDefinition>
+            <characterDefinition character="&amp;#8798;">Measured By</characterDefinition>
+            <characterDefinition character="&amp;#8799;">Questioned Equal To</characterDefinition>
+            <characterDefinition character="&amp;#8800;">Not Equal To</characterDefinition>
+            <characterDefinition character="&amp;#8801;">Identical to</characterDefinition>
+            <characterDefinition character="&amp;#8802;">Not Identical to</characterDefinition>
+            <characterDefinition character="&amp;#8803;">Strictly Equivalent to</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#8804;">Less Than or Equal To</characterDefinition>
+            <characterDefinition character="&amp;#8805;">Greater Than or Equal To</characterDefinition>
+            <characterDefinition character="&amp;#8806;">Less-Than Over Equal To</characterDefinition>
+            <characterDefinition character="&amp;#8807;">Greater-Than Over Equal To</characterDefinition>
+            <characterDefinition character="&amp;#8808;">Less-Than But Not Equal To</characterDefinition>
+            <characterDefinition character="&amp;#8809;">Greater-Than But Not Equal To</characterDefinition>
+            <characterDefinition character="&amp;#8810;">Much Less-Than</characterDefinition>
+            <characterDefinition character="&amp;#8811;">Much Greater-Than</characterDefinition>
+            <characterDefinition character="&amp;#8812;">Between</characterDefinition>
+            <characterDefinition character="&amp;#8813;">Not Equivalent to</characterDefinition>
+            <characterDefinition character="&amp;#8814;">Not Less-Than</characterDefinition>
+            <characterDefinition character="&amp;#8815;">Not Greater-Than</characterDefinition>
+            <characterDefinition character="&amp;#8816;">Neither Less-Than nor Equal To</characterDefinition>
+            <characterDefinition character="&amp;#8817;">Neither Greater-Than nor Equal To</characterDefinition>
+            <characterDefinition character="&amp;#8818;">Less-Than or Equivalent to</characterDefinition>
+            <characterDefinition character="&amp;#8819;">Greater-Than or Equivalent to</characterDefinition>
+            <characterDefinition character="&amp;#8820;">Neither Less-Than nor Equivalent to</characterDefinition>
+            <characterDefinition character="&amp;#8821;">Neither Greater-Than nor Equivalent to</characterDefinition>
+            <characterDefinition character="&amp;#8822;">Less-Than or Greater-Than</characterDefinition>
+            <characterDefinition character="&amp;#8823;">Greater-Than or Less-Than</characterDefinition>
+            <characterDefinition character="&amp;#8824;">Neither Less-Than nor Greater-Than</characterDefinition>
+            <characterDefinition character="&amp;#8825;">Neither Greater-Than nor Less-Than</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#8826;">Precedes</characterDefinition>
+            <characterDefinition character="&amp;#8827;">Succeeds</characterDefinition>
+            <characterDefinition character="&amp;#8828;">Precedes or Equal to</characterDefinition>
+            <characterDefinition character="&amp;#8829;">Succeeds or Equal to</characterDefinition>
+            <characterDefinition character="&amp;#8830;">Precedes or Equivalent to</characterDefinition>
+            <characterDefinition character="&amp;#8831;">Succeeds or Equivalent to</characterDefinition>
+            <characterDefinition character="&amp;#8832;">Does Not Precede</characterDefinition>
+            <characterDefinition character="&amp;#8833;">Does Not Succeed</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#8834;">Subset of</characterDefinition>
+            <characterDefinition character="&amp;#8835;">Superset of</characterDefinition>
+            <characterDefinition character="&amp;#8836;">Not a Subset of</characterDefinition>
+            <characterDefinition character="&amp;#8837;">Not a Superset of</characterDefinition>
+            <characterDefinition character="&amp;#8838;">Subset of or Equal To</characterDefinition>
+            <characterDefinition character="&amp;#8839;">Superset of or Equal To</characterDefinition>
+            <characterDefinition character="&amp;#8840;">Neither a Subset of nor Equal To</characterDefinition>
+            <characterDefinition character="&amp;#8841;">Neither a Superset of nor Equal To</characterDefinition>
+            <characterDefinition character="&amp;#8842;">Subset of With Not Equal To</characterDefinition>
+            <characterDefinition character="&amp;#8843;">Superset of With Not Equal To</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#8844;">Multiset</characterDefinition>
+            <characterDefinition character="&amp;#8845;">Multiset Multiplication</characterDefinition>
+            <characterDefinition character="&amp;#8846;">Multiset Union</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#8847;">Square Image of</characterDefinition>
+            <characterDefinition character="&amp;#8848;">Square Original of</characterDefinition>
+            <characterDefinition character="&amp;#8849;">Square Image of or Equal To</characterDefinition>
+            <characterDefinition character="&amp;#8850;">Square Original of or Equal To</characterDefinition>
+            <characterDefinition character="&amp;#8851;">Square Cap</characterDefinition>
+            <characterDefinition character="&amp;#8852;">Square Cup</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#8866;">Right Tack</characterDefinition>
+            <characterDefinition character="&amp;#8867;">Left Tack</characterDefinition>
+            <characterDefinition character="&amp;#8868;">Down Tack</characterDefinition>
+            <characterDefinition character="&amp;#8869;">Up Tack</characterDefinition>
+            <characterDefinition character="&amp;#8870;">Assertion</characterDefinition>
+            <characterDefinition character="&amp;#8871;">Models</characterDefinition>
+            <characterDefinition character="&amp;#8872;">True</characterDefinition>
+            <characterDefinition character="&amp;#8873;">Forces</characterDefinition>
+            <characterDefinition character="&amp;#8874;">Triple Vertical Bar Right Turnstile</characterDefinition>
+            <characterDefinition character="&amp;#8875;">Double Vertical Bar Double Right Turnstile</characterDefinition>
+            <characterDefinition character="&amp;#8876;">Does Not Prove</characterDefinition>
+            <characterDefinition character="&amp;#8877;">Not True</characterDefinition>
+            <characterDefinition character="&amp;#8878;">Does Not Force</characterDefinition>
+            <characterDefinition character="&amp;#8879;">Negated Double Vertical Bar Double Right Turnstile</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#8880;">Precedes Under Relation</characterDefinition>
+            <characterDefinition character="&amp;#8881;">Succeeds Under Relation</characterDefinition>
+            <characterDefinition character="&amp;#8882;">Normal Subgroup of</characterDefinition>
+            <characterDefinition character="&amp;#8883;">Contains as Hormal Subgroup</characterDefinition>
+            <characterDefinition character="&amp;#8884;">Normal Subgroup of or Equal To</characterDefinition>
+            <characterDefinition character="&amp;#8885;">Contains as Normal Subgroup or Equal To</characterDefinition>
+            <characterDefinition character="&amp;#8886;">Original of</characterDefinition>
+            <characterDefinition character="&amp;#8887;">Image of</characterDefinition>
+            <characterDefinition character="&amp;#8888;">Multimap</characterDefinition>
+            <characterDefinition character="&amp;#8889;">Hermitian Conjugate Matrix</characterDefinition>
+            <characterDefinition character="&amp;#8890;">Intercalate</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#8894;">Right Angle with Arc</characterDefinition>
+            <characterDefinition character="&amp;#8895;">Right Triangle</characterDefinition>
+            <characterDefinition character="&amp;#8896;">N-ary Logical And</characterDefinition>
+            <characterDefinition character="&amp;#8897;">N-ary Logical Or</characterDefinition>
+            <characterDefinition character="&amp;#8898;">N-ary Intersection</characterDefinition>
+            <characterDefinition character="&amp;#8899;">N-ary Union</characterDefinition>
+            <characterDefinition character="&amp;#8900;">Diamond Operator</characterDefinition>
+            <characterDefinition character="&amp;#8901;">Dot Operator</characterDefinition>
+            <characterDefinition character="&amp;#8902;">Star Operator</characterDefinition>
+            <characterDefinition character="&amp;#8903;">Division Multiplication</characterDefinition>
+            <characterDefinition character="&amp;#8904;">Bowtie</characterDefinition>
+            <characterDefinition character="&amp;#8905;">Left Normal Factor Semidirect Product</characterDefinition>
+            <characterDefinition character="&amp;#8906;">Right Normal Factor Semidirect Product</characterDefinition>
+            <characterDefinition character="&amp;#8907;">Left Semidirect Product</characterDefinition>
+            <characterDefinition character="&amp;#8908;">Right Semidirect Product</characterDefinition>
+            <characterDefinition character="&amp;#8909;">Reversed Tilde Equals</characterDefinition>
+            <characterDefinition character="&amp;#8910;">Curly Logical Or</characterDefinition>
+            <characterDefinition character="&amp;#8911;">Curly Logical And</characterDefinition>
+            <characterDefinition character="&amp;#8912;">Double Subset</characterDefinition>
+            <characterDefinition character="&amp;#8913;">Double Superset</characterDefinition>
+            <characterDefinition character="&amp;#8914;">Double Intersection</characterDefinition>
+            <characterDefinition character="&amp;#8915;">Double Union</characterDefinition>
+            <characterDefinition character="&amp;#8916;">Pitchfork</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#8917;">Equal and Parallel to</characterDefinition>
+            <characterDefinition character="&amp;#8918;">Less-Than with Dot</characterDefinition>
+            <characterDefinition character="&amp;#8919;">Greater-Than with Dot</characterDefinition>
+            <characterDefinition character="&amp;#8920;">Very Much Less-Than</characterDefinition>
+            <characterDefinition character="&amp;#8921;">Very Much Greater-Than</characterDefinition>
+            <characterDefinition character="&amp;#8922;">Less-Than Equal To or Greater-Than</characterDefinition>
+            <characterDefinition character="&amp;#8923;">Greater-Than Equal To or Less-Than</characterDefinition>
+            <characterDefinition character="&amp;#8924;">Equal To or Less-Than</characterDefinition>
+            <characterDefinition character="&amp;#8925;">Equal To or Greater-Than</characterDefinition>
+            <characterDefinition character="&amp;#8926;">Equal To or Precedes</characterDefinition>
+            <characterDefinition character="&amp;#8927;">Equal To or Succeeds</characterDefinition>
+            <characterDefinition character="&amp;#8928;">Does Not Precede or Equal</characterDefinition>
+            <characterDefinition character="&amp;#8929;">Does Not Succeed or Equal</characterDefinition>
+            <characterDefinition character="&amp;#8930;">Not Square Image of or Equal To</characterDefinition>
+            <characterDefinition character="&amp;#8931;">Not Square Original of or Equal To</characterDefinition>
+            <characterDefinition character="&amp;#8932;">Square Image of or Not Equal To</characterDefinition>
+            <characterDefinition character="&amp;#8933;">Square Original of or Not Equal To</characterDefinition>
+            <characterDefinition character="&amp;#8934;">Less-Than but Not Equivalent to</characterDefinition>
+            <characterDefinition character="&amp;#8935;">Greater-Than But Not Equivalent to</characterDefinition>
+            <characterDefinition character="&amp;#8936;">Precedes But Not Equivalent to</characterDefinition>
+            <characterDefinition character="&amp;#8937;">Succeeds But Not Equivalent to</characterDefinition>
+            <characterDefinition character="&amp;#8938;">Not Normal Subgroup of</characterDefinition>
+            <characterDefinition character="&amp;#8939;">Does Not Contain as Normal Subgroup</characterDefinition>
+            <characterDefinition character="&amp;#8940;">Not Normal Subgroup of or Equal To</characterDefinition>
+            <characterDefinition character="&amp;#8941;">Does Not Contain as Normal Subgroup or Equal</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#8942;">Vertical Ellipsis</characterDefinition>
+            <characterDefinition character="&amp;#8943;">Midline Horizontal Ellipsis</characterDefinition>
+            <characterDefinition character="&amp;#8944;">Up Right Diagonal Ellipsis</characterDefinition>
+            <characterDefinition character="&amp;#8945;">Down Right Diagonal Ellipsis</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#8946;">Element Of with Long Horizontal Stroke</characterDefinition>
+            <characterDefinition character="&amp;#8947;">Element Of with Vertical Bar at End of Horizontal Stroke</characterDefinition>
+            <characterDefinition character="&amp;#8948;">Small Element Of with Vertical Bar at End of Horizontal Stroke</characterDefinition>
+            <characterDefinition character="&amp;#8949;">Element Of with Dot Above</characterDefinition>
+            <characterDefinition character="&amp;#8950;">Element Of with Overbar</characterDefinition>
+            <characterDefinition character="&amp;#8951;">Small Element Of with Overbar</characterDefinition>
+            <characterDefinition character="&amp;#8952;">Element Of with Underbar</characterDefinition>
+            <characterDefinition character="&amp;#8953;">Element Of with Two Horizontal Strokes</characterDefinition>
+            <characterDefinition character="&amp;#8954;">Contains with Long Horizontal Stroke</characterDefinition>
+            <characterDefinition character="&amp;#8955;">Contains with Vertical Bar at End of Horizontal Stroke</characterDefinition>
+            <characterDefinition character="&amp;#8956;">Small Contains with Vertical Bar at End of Horizontal Stroke</characterDefinition>
+            <characterDefinition character="&amp;#8957;">Contains with Overbar</characterDefinition>
+            <characterDefinition character="&amp;#8958;">Small Contains with Overbar</characterDefinition>
+            <characterDefinition character="&amp;#8959;">Z Notation Bag Membership</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+    <characterSubset name="Operators" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#62;">Greater Than</characterDefinition>
+            <characterDefinition character="&amp;#60;">Less Than</characterDefinition>
+            <characterDefinition character="&amp;#8776;">Approximately</characterDefinition>
+            <characterDefinition character="&amp;#247;">Division Sign</characterDefinition>
+            <characterDefinition character="&amp;#215;">Multiplication Sign</characterDefinition>
+            <characterDefinition character="&amp;#176;">Degree Symbol</characterDefinition>
+            <characterDefinition character="&amp;#172;">Not Symbol</characterDefinition>
+            <characterDefinition character="&amp;#181;">Micro</characterDefinition>
+            <characterDefinition character="&amp;#8901;">Dot Operator</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+    <characterSubset name="Logical Operators" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#8743;">Logical And</characterDefinition>
+            <characterDefinition character="&amp;#8744;">Logical Or</characterDefinition>
+            <characterDefinition character="&amp;#8745;">Intersection</characterDefinition>
+            <characterDefinition character="&amp;#8746;">Union</characterDefinition>
+            <characterDefinition character="&amp;#8891;">Xor</characterDefinition>
+            <characterDefinition character="&amp;#8892;">Nand</characterDefinition>
+            <characterDefinition character="&amp;#8893;">Nor</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+    <characterSubset name="Circled Operators" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#8853;">Circled Plus</characterDefinition>
+            <characterDefinition character="&amp;#8854;">Circled Minus</characterDefinition>
+            <characterDefinition character="&amp;#8855;">Circled Multiplication</characterDefinition>
+            <characterDefinition character="&amp;#8856;">Circled Division Slash</characterDefinition>
+            <characterDefinition character="&amp;#8857;">Circled Dot Operator</characterDefinition>
+            <characterDefinition character="&amp;#8858;">Circled Ring Operator</characterDefinition>
+            <characterDefinition character="&amp;#8859;">Circled Asterisk Operator</characterDefinition>
+            <characterDefinition character="&amp;#8860;">Circled Equals</characterDefinition>
+            <characterDefinition character="&amp;#8861;">Circled Dash</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+    <characterSubset name="Squared Operators" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#8862;">Squared Plus</characterDefinition>
+            <characterDefinition character="&amp;#8863;">Squared Minus</characterDefinition>
+            <characterDefinition character="&amp;#8864;">Squared Multiplication</characterDefinition>
+            <characterDefinition character="&amp;#8865;">Squared Dot Operator</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+    <characterSubset name="Integrals" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#8747;">Integral Sign</characterDefinition>
+            <characterDefinition character="&amp;#8748;">Double Integral</characterDefinition>
+            <characterDefinition character="&amp;#8749;">Triple Integral</characterDefinition>
+            <characterDefinition character="&amp;#8750;">Contour Integral</characterDefinition>
+            <characterDefinition character="&amp;#8751;">Surface Integral</characterDefinition>
+            <characterDefinition character="&amp;#8752;">Volume Integral</characterDefinition>
+            <characterDefinition character="&amp;#8753;">Clockwise Integral</characterDefinition>
+            <characterDefinition character="&amp;#8754;">Clockwise Contour Integral</characterDefinition>
+            <characterDefinition character="&amp;#8755;">Anti-Clockwise Contour Integral</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+    <characterSubset name="Fractions" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#188;">1/4 Fraction One Quarter</characterDefinition>
+            <characterDefinition character="&amp;#189;">1/2 Fraction One Half</characterDefinition>
+            <characterDefinition character="&amp;#190;">3/4 Fraction Three Quarters</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#8585;">0/3 Fraction Zero Thrids</characterDefinition>
+            <characterDefinition character="&amp;#8531;">1/3 Fraction One Third</characterDefinition>
+            <characterDefinition character="&amp;#8532;">2/3 Fraction Two Thirds</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#8533;">1/5 Fraction One Fifth</characterDefinition>
+            <characterDefinition character="&amp;#8534;">2/5 Fraction Two Fifths</characterDefinition>
+            <characterDefinition character="&amp;#8535;">3/5 Fraction Three Fifths</characterDefinition>
+            <characterDefinition character="&amp;#8536;">4/5 Fraction Four Fifths</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#8537;">1/6 Fraction One Sixth</characterDefinition>
+            <characterDefinition character="&amp;#8538;">5/6 Fraction Five Sixths</characterDefinition>
+            <characterDefinition character="&amp;#8539;">1/8 Fraction One Eighth</characterDefinition>
+            <characterDefinition character="&amp;#8540;">3/8 Fraction Three Eighths</characterDefinition>
+            <characterDefinition character="&amp;#8541;">5/8 Fraction Five Eighths</characterDefinition>
+            <characterDefinition character="&amp;#8542;">7/8 Fraction Seven Eighths</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#8543;">1/ Fraction Numerator One</characterDefinition>
+            <characterDefinition character="&amp;#8528;">1/7 Fraction One Seventh</characterDefinition>
+            <characterDefinition character="&amp;#8529;">1/9 Fraction One Ninth</characterDefinition>
+            <characterDefinition character="&amp;#8530;">1/10 Fraction One Tenth</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+    <characterSubset name="Prime" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#8242;">Single Prime</characterDefinition>
+            <characterDefinition character="&amp;#8243;">Double Prime</characterDefinition>
+            <characterDefinition character="&amp;#8244;">Triple Prime</characterDefinition>
+            <characterDefinition character="&amp;#8245;">Reversed Prime</characterDefinition>
+            <characterDefinition character="&amp;#8246;">Reversed Double Prime</characterDefinition>
+            <characterDefinition character="&amp;#8247;">Reversed Triple Prime</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+    <characterSubset name="Roots" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#8730;">Square Root Radical</characterDefinition>
+            <characterDefinition character="&amp;#8731;">Cube Root</characterDefinition>
+            <characterDefinition character="&amp;#8732;">Fourth Root</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+
+    <characterSetRange>Counting Rod Numerals: x1D360 - 1D37F</characterSetRange>
+    <characterSubset name="Counting Rod Numerals" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x1D360;">Digit One</characterDefinition>
+            <characterDefinition character="&amp;#x1D361;">Digit Two</characterDefinition>
+            <characterDefinition character="&amp;#x1D362;">Digit Three</characterDefinition>
+            <characterDefinition character="&amp;#x1D363;">Digit Four</characterDefinition>
+            <characterDefinition character="&amp;#x1D364;">Digit Five</characterDefinition>
+            <characterDefinition character="&amp;#x1D365;">Digit Six</characterDefinition>
+            <characterDefinition character="&amp;#x1D366;">Digit Seven</characterDefinition>
+            <characterDefinition character="&amp;#x1D367;">Digit Eight</characterDefinition>
+            <characterDefinition character="&amp;#x1D368;">Digit Nine</characterDefinition>
+            <characterDefinition character="&amp;#x1D369;">Digit Ten</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x1D36A;">Tens Digit One</characterDefinition>
+            <characterDefinition character="&amp;#x1D36B;">Tens Digit Two</characterDefinition>
+            <characterDefinition character="&amp;#x1D36C;">Tens Digit Three</characterDefinition>
+            <characterDefinition character="&amp;#x1D36D;">Tens Digit Four</characterDefinition>
+            <characterDefinition character="&amp;#x1D36E;">Tens Digit Five</characterDefinition>
+            <characterDefinition character="&amp;#x1D36F;">Tens Digit Six</characterDefinition>
+            <characterDefinition character="&amp;#x1D370;">Tens Digit Seven</characterDefinition>
+            <characterDefinition character="&amp;#x1D371;">Tens Digit Eight</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+</characterSet>

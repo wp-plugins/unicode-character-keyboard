@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Version 1.0 by Terry O'Brien -->
+<characterSet name="Arrows" type="Symbols" description="Arrows and Pointers" >
+
+    <characterSubset name="Pointers" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#9754;">Black Left Pointing Index</characterDefinition>
+            <characterDefinition character="&amp;#9755;">Black Right Pointing Index</characterDefinition>
+            <characterDefinition character="&amp;#9756;">White Left Pointing Index</characterDefinition>
+            <characterDefinition character="&amp;#9757;">White Up Pointing Index</characterDefinition>
+            <characterDefinition character="&amp;#9758;">White Right Pointing Index</characterDefinition>
+            <characterDefinition character="&amp;#9759;">White Down Pointing Index</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+    <characterSubset name="Simple Arrows" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#8592;">Left Arrow</characterDefinition>
+            <characterDefinition character="&amp;#8593;">Up Arrow</characterDefinition>
+            <characterDefinition character="&amp;#8594;">Right Arrow</characterDefinition>
+            <characterDefinition character="&amp;#8595;">Down Arrow</characterDefinition>
+            <characterDefinition character="&amp;#8629;">Carriage Return</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#8678;">Leftwards White Arrow</characterDefinition>
+            <characterDefinition character="&amp;#8679;">Upwards White Arrow</characterDefinition>
+            <characterDefinition character="&amp;#8680;">Rightwards White Arrow</characterDefinition>
+            <characterDefinition character="&amp;#8681;">Downwards White Arrow</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#8672;">Leftwards Dashed Arrow</characterDefinition>
+            <characterDefinition character="&amp;#8673;">Upwards Dashed Arrow</characterDefinition>
+            <characterDefinition character="&amp;#8674;">Rightwards Dashed Arrow</characterDefinition>
+            <characterDefinition character="&amp;#8675;">Downwards Dashed Arrow</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#8612;">Leftwards Arrow from Bar</characterDefinition>
+            <characterDefinition character="&amp;#8613;">Upwards Arrow from Bar</characterDefinition>
+            <characterDefinition character="&amp;#8614;">Rightwards Arrow from Bar</characterDefinition>
+            <characterDefinition character="&amp;#8615;">Downwards Arrow from Bar</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#8647;">Leftwards Paired Arrows</characterDefinition>
+            <characterDefinition character="&amp;#8648;">Upwards Paired Arrows</characterDefinition>
+            <characterDefinition character="&amp;#8649;">Rightwards Paired Arrows</characterDefinition>
+            <characterDefinition character="&amp;#8650;">Downwards Paired Arrows</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#8596;">Left-Right Arrow</characterDefinition>
+            <characterDefinition character="&amp;#8597;">Up Down Arrow</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#8602;">Leftwards Arrow with Stroke</characterDefinition>
+            <characterDefinition character="&amp;#8603;">Rightwards Arrow with Stroke</characterDefinition>
+            <characterDefinition character="&amp;#8604;">Leftwards Wave Arrow</characterDefinition>
+            <characterDefinition character="&amp;#8605;">Rightwards Wave Arrow</characterDefinition>
+            <characterDefinition character="&amp;#8610;">Leftwards Arrow with Tail</characterDefinition>
+            <characterDefinition character="&amp;#8611;">Rightwards Arrow with Tail</characterDefinition>
+            <characterDefinition character="&amp;#8617;">Leftwards Arrow with Hook</characterDefinition>
+            <characterDefinition character="&amp;#8618;">Rightwards Arrow with Hook</characterDefinition>
+            <characterDefinition character="&amp;#8619;">Leftwards Arrow with Loop</characterDefinition>
+            <characterDefinition character="&amp;#8620;">Rightwards Arrow with Loop</characterDefinition>
+            <characterDefinition character="&amp;#8666;">Leftwards Triple Arrow</characterDefinition>
+            <characterDefinition character="&amp;#8667;">Rightwards Triple Arrow</characterDefinition>
+            <characterDefinition character="&amp;#8668;">Leftwards Squiggle Arrow</characterDefinition>
+            <characterDefinition character="&amp;#8669;">Rightwards Squiggle Arrow</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#8656;">Left Double Arrow</characterDefinition>
+            <characterDefinition character="&amp;#8657;">Up Double Arrow</characterDefinition>
+            <characterDefinition character="&amp;#8658;">Right Double Arrow</characterDefinition>
+            <characterDefinition character="&amp;#8659;">Down Double Arrow</characterDefinition>
+            <characterDefinition character="&amp;#8660;">Left-Right Double Arrow</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#8695;">Leftwards Arrow with Vertical Stroke</characterDefinition>
+            <characterDefinition character="&amp;#8696;">Rightwards Arrow with Vertical Stroke</characterDefinition>
+            <characterDefinition character="&amp;#8697;">Left Right Arrow with Vertical Stroke</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#8698;">Leftwards Arrow with Double Vertical Stroke</characterDefinition>
+            <characterDefinition character="&amp;#8699;">Rightwards Arrow with Double Vertical Stroke</characterDefinition>
+            <characterDefinition character="&amp;#8700;">Left Right Arrow with Double Vertical Stroke</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#8598;">North-West Arrow</characterDefinition>
+            <characterDefinition character="&amp;#8599;">North-East Arrow</characterDefinition>
+            <characterDefinition character="&amp;#8600;">South-East Arrow</characterDefinition>
+            <characterDefinition character="&amp;#8601;">South-West Arrow</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#10529;">North West Arrow and South East Arrow</characterDefinition>
+            <characterDefinition character="&amp;#10530;">North East Arrow and South West Arrow</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+    <characterSubset name="Crossing Arrows" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#10535;">North West Arrow and North East Arrow</characterDefinition>
+            <characterDefinition character="&amp;#10536;">North East Arrow and South East Arrow</characterDefinition>
+            <characterDefinition character="&amp;#10537;">South East Arrow and South West Arrow</characterDefinition>
+            <characterDefinition character="&amp;#10538;">South West Arrow and North West Arrow</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#10541;">South East Arrow Crossing North East Arrow</characterDefinition>
+            <characterDefinition character="&amp;#10542;">North East Arrow Crossing South East Arrow</characterDefinition>
+            <characterDefinition character="&amp;#10545;">North East Arrow Crossing North West Arrow</characterDefinition>
+            <characterDefinition character="&amp;#10546;">North West Arrow Crossing North East Arrow</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#10539;">Rising Diagonal Crossing Falling Diagonal</characterDefinition>
+            <characterDefinition character="&amp;#10540;">Falling Diagonal Crossing Rising Diagonal</characterDefinition>
+            <characterDefinition character="&amp;#10543;">Falling Diagonal Crossing North East Arrow</characterDefinition>
+            <characterDefinition character="&amp;#10544;">Rising Diagonal Crossing South East Arrow</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+    <characterSubset name="Double Arrows" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#8656;">Leftwards Double Arrow</characterDefinition>
+            <characterDefinition character="&amp;#8653;">Leftwards Double Arrow with Stroke</characterDefinition>
+            <characterDefinition character="&amp;#8654;">Left-Right Double Arrow with Stroke</characterDefinition>
+            <characterDefinition character="&amp;#8658;">Rightwards Double Arrow</characterDefinition>
+            <characterDefinition character="&amp;#8655;">Rightwards Double Arrow with Stroke</characterDefinition>
+            <characterDefinition character="&amp;#8657;">Upwards Double Arrow</characterDefinition>
+            <characterDefinition character="&amp;#8659;">Downwards Double Arrow</characterDefinition>
+            <characterDefinition character="&amp;#8660;">Left Right Double Arrow</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#8661;">Up Down Double Arrow</characterDefinition>
+            <characterDefinition character="&amp;#8662;">North West Double Arrow</characterDefinition>
+            <characterDefinition character="&amp;#8663;">North East Double Arrow</characterDefinition>
+            <characterDefinition character="&amp;#8664;">South East Double Arrow</characterDefinition>
+            <characterDefinition character="&amp;#8665;">South West Double Arrow</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+    <characterSubset name="Fish Tail" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#10620;">Left Fish Tail</characterDefinition>
+            <characterDefinition character="&amp;#10621;">Right Fish Tail</characterDefinition>
+            <characterDefinition character="&amp;#10622;">Up Fish Tail</characterDefinition>
+            <characterDefinition character="&amp;#10623;">Down Fish Tail </characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+    <characterSubset name="Harpoons" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#8636;">Leftwards Harpoon with Barb Upwards</characterDefinition>
+            <characterDefinition character="&amp;#8637;">Leftwards Harpoon with Barb Downwards</characterDefinition>
+            <characterDefinition character="&amp;#8638;">Upwards Harpoon with Barb Rightwards</characterDefinition>
+            <characterDefinition character="&amp;#8639;">Upwards Harpoon with Barb Leftwards</characterDefinition>
+            <characterDefinition character="&amp;#8640;">Rightwards Harpoon with Barb Upwards</characterDefinition>
+            <characterDefinition character="&amp;#8641;">Rightwards Harpoon with Barb Downwards</characterDefinition>
+            <characterDefinition character="&amp;#8642;">Downwards Harpoon with Barb Rightwards</characterDefinition>
+            <characterDefinition character="&amp;#8643;">Downwards Harpoon with Barb Leftwards</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#8651;">Leftwards Harpoon Over Rightwards Harpoon</characterDefinition>
+            <characterDefinition character="&amp;#8652;">Rightwards Harpoon Over Leftwards Harpoon</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#10578;">Leftwards Harpoon with Barb Up to Bar</characterDefinition>
+            <characterDefinition character="&amp;#10579;">Rightwards Harpoon with Barb Up to Bar</characterDefinition>
+            <characterDefinition character="&amp;#10580;">Upwards Harpoon with Barb Right to Bar</characterDefinition>
+            <characterDefinition character="&amp;#10581;">Downwards Harpoon with Barb Right to Bar</characterDefinition>
+            <characterDefinition character="&amp;#10582;">Leftwards Harpoon with Barb Down to Bar</characterDefinition>
+            <characterDefinition character="&amp;#10583;">Rightwards Harpoon with Barb Down to Bar</characterDefinition>
+            <characterDefinition character="&amp;#10584;">Upwards Harpoon with Barb Left to Bar</characterDefinition>
+            <characterDefinition character="&amp;#10585;">Downwards Harpoon with Barb Left to Bar</characterDefinition>
+            <characterDefinition character="&amp;#10586;">Leftwards Harpoon with Barb Up From Bar</characterDefinition>
+            <characterDefinition character="&amp;#10587;">Rightwards Harpoon with Barb Up From Bar</characterDefinition>
+            <characterDefinition character="&amp;#10588;">Upwards Harpoon with Barb Right From Bar</characterDefinition>
+            <characterDefinition character="&amp;#10589;">Downwards Harpoon with Barb Right From Bar</characterDefinition>
+            <characterDefinition character="&amp;#10590;">Leftwards Harpoon with Barb Down From Bar</characterDefinition>
+            <characterDefinition character="&amp;#10591;">Rightwards Harpoon with Barb Down From Bar</characterDefinition>
+            <characterDefinition character="&amp;#10592;">Upwards Harpoon with Barb Left From Bar</characterDefinition>
+            <characterDefinition character="&amp;#10593;">Downwards Harpoon with Barb Left From Bar</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#10594;">Leftwards Harpoon with Barb Up Above Leftwards Harpoon with Barb Down</characterDefinition>
+            <characterDefinition character="&amp;#10595;">Upwards Harpoon with Barb Left Beaide Upwards Harpoon with Barb Right</characterDefinition>
+            <characterDefinition character="&amp;#10596;">Rightwards Harpoon with Barb Up Above Rightwards Harpoon with Barb Down</characterDefinition>
+            <characterDefinition character="&amp;#10597;">Downwards Harpoon with Barb Left Beaide Downwards Harpoon with Barb Right</characterDefinition>
+            <characterDefinition character="&amp;#10598;">Leftwards Harpoon with Barb Up Above Rightwards Harpoon with Barb Up</characterDefinition>
+            <characterDefinition character="&amp;#10599;">Leftwards Harpoon with Barb Down Above Rightwards Harpoon with Barb Down</characterDefinition>
+            <characterDefinition character="&amp;#10600;">Rightwards Harpoon with Barb Up Above Leftwards Harpoon with Barb Up</characterDefinition>
+            <characterDefinition character="&amp;#10601;">Rightwards Harpoon with Barb Down Above Leftwards Harpoon with Barb Down</characterDefinition>
+            <characterDefinition character="&amp;#10602;">Leftwards Harpoon with Barb Up Above Long Dash</characterDefinition>
+            <characterDefinition character="&amp;#10603;">Leftwards Harpoon with Barb Down Below Long Dash</characterDefinition>
+            <characterDefinition character="&amp;#10604;">Rightwards Harpoon with Barb Up Above Long Dash</characterDefinition>
+            <characterDefinition character="&amp;#10605;">Rightwards Harpoon with Barb Down Below Long Dash</characterDefinition>
+            <characterDefinition character="&amp;#10606;">Upwards Harpoon with Barb Left Beaide Downwards Harpoon with Barb Right</characterDefinition>
+            <characterDefinition character="&amp;#10607;">Downwards Harpoon with Barb Left Beaide Upwards Harpoon with Barb Right</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#10570;">Left Barb Up Right Barb Down Harpoon</characterDefinition>
+            <characterDefinition character="&amp;#10571;">Left Barb Down Right Barb Up Harpoon</characterDefinition>
+            <characterDefinition character="&amp;#10572;">Up Barb Right Down Barb Left Harpoon</characterDefinition>
+            <characterDefinition character="&amp;#10573;">Up Barb Left Down Barb Right Harpoon</characterDefinition>
+            <characterDefinition character="&amp;#10574;">Left Barb Up Right Barb Up Harpoon</characterDefinition>
+            <characterDefinition character="&amp;#10575;">Up Barb Right Down Barb Right Harpoon</characterDefinition>
+            <characterDefinition character="&amp;#10576;">Left Barb Down Right Barb Down Harpoon</characterDefinition>
+            <characterDefinition character="&amp;#10577;">Up Barb Left Down Barb Left Harpoon</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+    <characterSubset name="Circular Arrows" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#8630;">Anti-Clockwise Top Semicircle Arrow</characterDefinition>
+            <characterDefinition character="&amp;#8634;">Anti-Clockwise Open Circle Arrow</characterDefinition>
+            <characterDefinition character="&amp;#10226;">Anti-Clockwise Gapped Circle Arrow</characterDefinition>
+            <characterDefinition character="&amp;#10560;">Anti-Clockwise Closed Circle Arrow</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#8631;">Clockwise Top Semicircle Arrow</characterDefinition>
+            <characterDefinition character="&amp;#8635;">Clockwise Open Circle Arrow</characterDefinition>
+            <characterDefinition character="&amp;#10227;">Clockwise Gapped Circle Arrow</characterDefinition>
+            <characterDefinition character="&amp;#10561;">Clockwise Closed Circle Arrow</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#10552;">Right-Side Arc Clockwise Arrow</characterDefinition>
+            <characterDefinition character="&amp;#10556;">Top Arc Clockwise Arrow with Minus</characterDefinition>
+            <characterDefinition character="&amp;#10558;">Lower Right Semi-Circular Clockwise Arrow</characterDefinition>
+            <characterDefinition character="&amp;#10553;">Left-Side Arc Anti-Clockwise Arrow</characterDefinition>
+            <characterDefinition character="&amp;#10554;">Top Arc Anti-Clockwise Arrow</characterDefinition>
+            <characterDefinition character="&amp;#10555;">Bottom Arc Anti-Clockwise Arrow</characterDefinition>
+            <characterDefinition character="&amp;#10557;">Top Arc Anti-Clockwise Arrow with Plus</characterDefinition>
+            <characterDefinition character="&amp;#10559;">Lower Left Semi-Circular Anti-Clockwise Arrow</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+    <characterSubset name="Corner Arrows" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#10548;">Arrow Pointing Rightwards Then Curving Upwards</characterDefinition>
+            <characterDefinition character="&amp;#10549;">Arrow Pointing Rightwards Then Curving Downwards</characterDefinition>
+            <characterDefinition character="&amp;#10550;">Arrow Pointing Downwards Then Curving Leftwards</characterDefinition>
+            <characterDefinition character="&amp;#10551;">Arrow Pointing Downwards Then Curving Rightwards</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#8624;">Upwards Arrow with Tip Leftwards</characterDefinition>
+            <characterDefinition character="&amp;#8625;">Upwards Arrow with Tip Rightwards</characterDefinition>
+            <characterDefinition character="&amp;#8626;">Downwards Arrow with Tip Leftwards</characterDefinition>
+            <characterDefinition character="&amp;#8627;">Downwards Arrow with Tip Rightwards</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#8628;">Rightwards Arrow with Corner Downwards</characterDefinition>
+            <characterDefinition character="&amp;#8629;">Downwards Arrow with Corner Leftwards</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#10531;">North West Arrow with Hook</characterDefinition>
+            <characterDefinition character="&amp;#10532;">North East Arrow with Hook</characterDefinition>
+            <characterDefinition character="&amp;#10533;">South East Arrow with Hook</characterDefinition>
+            <characterDefinition character="&amp;#10534;">South West Arrow with Hook</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+    <characterSubset name="Two-Headed Arrows" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#8606;">Leftwards Two-Headed Arrow</characterDefinition>
+            <characterDefinition character="&amp;#8607;">Upwards Two-Headed Arrow</characterDefinition>
+            <characterDefinition character="&amp;#8608;">Rightwards Two-Headed Arrow</characterDefinition>
+            <characterDefinition character="&amp;#8609;">Downwards Two-Headed Arrow</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#10496;">Rightwards Two-Headed Arrow with Vertical Stroke</characterDefinition>
+            <characterDefinition character="&amp;#10497;">Rightwards Two-Headed Arrow with Double Vertical Stroke</characterDefinition>
+            <characterDefinition character="&amp;#10501;">Rightwards Two-Headed Arrow From Bar</characterDefinition>
+            <characterDefinition character="&amp;#10512;">Rightwards Two-Headed Triple Dash Arrow</characterDefinition>
+            <characterDefinition character="&amp;#10518;">Rightwards Two-Headed Arrow with Tail</characterDefinition>
+            <characterDefinition character="&amp;#10519;">Rightwards Two-Headed Arrow with Tail with Vertical Stroke</characterDefinition>
+            <characterDefinition character="&amp;#10520;">Rightwards Two-Headed Arrow with Tail with Double Vertical Stroke</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#10569;">Upwards Two-Headed Arrow From Small Circle</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+    <characterSubset name="Supplemental Arrows" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#8616;">Up Down Arrow with Base</characterDefinition>
+            <characterDefinition character="&amp;#8621;">Left Right Wave Arrow</characterDefinition>
+            <characterDefinition character="&amp;#8622;">Left Right Arrow with Stroke</characterDefinition>
+            <characterDefinition character="&amp;#8623;">Downwards Zigzag Arrow</characterDefinition>
+            <characterDefinition character="&amp;#8632;">North West Arrow to Long Bar</characterDefinition>
+            <characterDefinition character="&amp;#8633;">Leftwards Arrow to Bar Over Rightwards Arrow to Bar</characterDefinition>
+            <characterDefinition character="&amp;#8644;">Rightwards Arrow Over Leftwards Arrow</characterDefinition>
+            <characterDefinition character="&amp;#8645;">Upwards Arrow Leftwards of Downwards Arrow</characterDefinition>
+            <characterDefinition character="&amp;#8646;">Leftwards Arrow Over Rightwards Arrow</characterDefinition>
+            <characterDefinition character="&amp;#8670;">Upwards Arrow with Double Stroke</characterDefinition>
+            <characterDefinition character="&amp;#8671;">Downwards Arrow with Double Stroke</characterDefinition>
+            <characterDefinition character="&amp;#8676;">Leftwards Arrow to Bar</characterDefinition>
+            <characterDefinition character="&amp;#8677;">Rightwards Arrow to Bar</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#8682;">Upwards White Arrow from Bar</characterDefinition>
+            <characterDefinition character="&amp;#8683;">Upwards White Arrow on Pedestal</characterDefinition>
+            <characterDefinition character="&amp;#8684;">Upwards White Arrow on Pedestal with Horizontal Bar</characterDefinition>
+            <characterDefinition character="&amp;#8685;">Upwards White Arrow on Pedestal with Vertical Bar</characterDefinition>
+            <characterDefinition character="&amp;#8686;">Upwards White Double Arrow</characterDefinition>
+            <characterDefinition character="&amp;#8687;">Upwards White Double Arrow on Pedestal</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#8688;">Rightwards White Arrow from wall</characterDefinition>
+            <characterDefinition character="&amp;#8689;">North West Arrow to Corner</characterDefinition>
+            <characterDefinition character="&amp;#8690;">South East Arrow to Corner</characterDefinition>
+            <characterDefinition character="&amp;#8691;">Up Down White Arrow</characterDefinition>
+            <characterDefinition character="&amp;#8692;">Right Arrow with Small Circle</characterDefinition>
+            <characterDefinition character="&amp;#8693;">Downwards Arrow Leftwards of Upwards Arrow</characterDefinition>
+            <characterDefinition character="&amp;#8694;">Three Rightwards Arrows</characterDefinition>
+            <characterDefinition character="&amp;#8701;">Leftwards Open-Headed Arrow</characterDefinition>
+            <characterDefinition character="&amp;#8702;">Rightwards Open-Headed Arrow</characterDefinition>
+            <characterDefinition character="&amp;#8703;">Left Right Open-Headed Arrow</characterDefinition>
+            <characterDefinition character="&amp;#10132;">Heavy Wide-Headed Rightwards Arrow</characterDefinition>
+            <characterDefinition character="&amp;#10136;">Heavy South East Arrow</characterDefinition>
+            <characterDefinition character="&amp;#10137;">Heavy Rightwards Arrow</characterDefinition>
+            <characterDefinition character="&amp;#10138;">Heavy North East Arrow</characterDefinition>
+            <characterDefinition character="&amp;#10139;">Drafting Point Rightwards Arrow</characterDefinition>
+            <characterDefinition character="&amp;#10140;">Heavy Round-Tipped Rightwards Arrow</characterDefinition>
+            <characterDefinition character="&amp;#10141;">Triangle-Headed Rightwards Arrow</characterDefinition>
+            <characterDefinition character="&amp;#10142;">Heavy Triangle-Headed Rightwards Arrow</characterDefinition>
+            <characterDefinition character="&amp;#10143;">Dashed Triangle-Headed Rightwards Arrow</characterDefinition>
+            <characterDefinition character="&amp;#10144;">Heavy Dashed Triangle-Headed Rightwards Arrow</characterDefinition>
+            <characterDefinition character="&amp;#10145;">Black Rightwards Arrow</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#10146;">Three-Dimensional Top-Lighted Rightwards Arrowhead</characterDefinition>
+            <characterDefinition character="&amp;#10147;">Three-Dimensional Bottom-Lighted Rightwards Arrowhead</characterDefinition>
+            <characterDefinition character="&amp;#10148;">Black Rightwards Arrowhead</characterDefinition>
+            <characterDefinition character="&amp;#10149;">Heavy Black Curved Downwards and Rightwards Arrow</characterDefinition>
+            <characterDefinition character="&amp;#10150;">Heavy Black Curved Upwards and Rightwards Arrow</characterDefinition>
+            <characterDefinition character="&amp;#10151;">Squat Black Rightwards Arrow</characterDefinition>
+            <characterDefinition character="&amp;#10152;">Heavy Concave-Pointed Black Rightwards Arrow</characterDefinition>
+            <characterDefinition character="&amp;#10153;">Right-Shaded White Rightwards Arrow</characterDefinition>
+            <characterDefinition character="&amp;#10154;">Left-Shaded White Rightwards Arrow</characterDefinition>
+            <characterDefinition character="&amp;#10155;">Back-Tilted Shadowed White Rightwards Arrow</characterDefinition>
+            <characterDefinition character="&amp;#10156;">Front-Tilted Shadowed White Rightwards Arrow</characterDefinition>
+            <characterDefinition character="&amp;#10157;">Heavy Lower Right-Shadowed White Rightwards Arrow</characterDefinition>
+            <characterDefinition character="&amp;#10158;">Heavy Upper Right-Shadowed White Rightwards Arrow</characterDefinition>
+            <characterDefinition character="&amp;#10159;">Notched Lower Right-Shadowed White Rightwards Arrow</characterDefinition>
+            <characterDefinition character="&amp;#10161;">Notched Upper Right-Shadowed White Rightwards Arrow</characterDefinition>
+            <characterDefinition character="&amp;#10162;">Circled Heavy White Rightwards Arrow</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#10163;">White-Feathered Rightwards Arrow</characterDefinition>
+            <characterDefinition character="&amp;#10164;">Black-Feathered South East Arrow</characterDefinition>
+            <characterDefinition character="&amp;#10165;">Black-Feathered Rightwards Arrow</characterDefinition>
+            <characterDefinition character="&amp;#10166;">Black-Feathered North East Arrow</characterDefinition>
+            <characterDefinition character="&amp;#10167;">Heavy Black-Feathered South East Arrow</characterDefinition>
+            <characterDefinition character="&amp;#10168;">Heavy Black-Feathered Rightwards Arrow</characterDefinition>
+            <characterDefinition character="&amp;#10169;">Heavy Black-Feathered North East Arrow</characterDefinition>
+            <characterDefinition character="&amp;#10170;">Teardrop-Barbed Rightwards Arrow</characterDefinition>
+            <characterDefinition character="&amp;#10171;">Heavy Teardrop-Shanked Rightwards Arrow</characterDefinition>
+            <characterDefinition character="&amp;#10172;">Wedge-Tailed Rightwards Arrow</characterDefinition>
+            <characterDefinition character="&amp;#10173;">Heavy Wedge-Tailed Rightwards Arrow</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#10174;">Open-Outlined Rightwards Arrow </characterDefinition>
+            <characterDefinition character="&amp;#10224;">Upwards Quadruple Arrow</characterDefinition>
+            <characterDefinition character="&amp;#10225;">Downwards Quadruple Arrow</characterDefinition>
+            <characterDefinition character="&amp;#10228;">Right Arrow with Circled Plus</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#10229;">Long Leftwards Arrow</characterDefinition>
+            <characterDefinition character="&amp;#10230;">Long Rightwards Arrow</characterDefinition>
+            <characterDefinition character="&amp;#10231;">Long Left Right Arrow</characterDefinition>
+            <characterDefinition character="&amp;#10232;">Long Leftwards Double Arrow</characterDefinition>
+            <characterDefinition character="&amp;#10233;">Long Rightwards Double Arrow</characterDefinition>
+            <characterDefinition character="&amp;#10234;">Long Left Right Double Arrow</characterDefinition>
+            <characterDefinition character="&amp;#10235;">Long Leftwards Arrow From Bar</characterDefinition>
+            <characterDefinition character="&amp;#10236;">Long Rightwards Arrow From Bar</characterDefinition>
+            <characterDefinition character="&amp;#10237;">Long Leftwards Double Arrow From Bar</characterDefinition>
+            <characterDefinition character="&amp;#10238;">Long Rightwards Double Arrow From Bar</characterDefinition>
+            <characterDefinition character="&amp;#10239;">Long Rightwards Squiggle Arrow </characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#10498;">Leftwards Double Arrow with Vertical Stroke</characterDefinition>
+            <characterDefinition character="&amp;#10499;">Rightwards Double Arrow with Vertical Stroke</characterDefinition>
+            <characterDefinition character="&amp;#10500;">Left Right Double Arrow with Vertical Stroke</characterDefinition>
+            <characterDefinition character="&amp;#10502;">Leftwards Double Arrow From Bar</characterDefinition>
+            <characterDefinition character="&amp;#10503;">Rightwards Double Arrow From Bar</characterDefinition>
+            <characterDefinition character="&amp;#10504;">Downwards Arrow with Horizontal Stroke</characterDefinition>
+            <characterDefinition character="&amp;#10505;">Upwards Arrow with Horizontal Stroke</characterDefinition>
+            <characterDefinition character="&amp;#10506;">Upwards Triple Arrow</characterDefinition>
+            <characterDefinition character="&amp;#10507;">Downwards Triple Arrow</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#10508;">Leftwards Double Dash Arrow</characterDefinition>
+            <characterDefinition character="&amp;#10509;">Rightwards Double Dash Arrow</characterDefinition>
+            <characterDefinition character="&amp;#10510;">Leftwards Triple Dash Arrow</characterDefinition>
+            <characterDefinition character="&amp;#10511;">Rightwards Triple Dash Arrow</characterDefinition>
+            <characterDefinition character="&amp;#10513;">Rightwards Arrow with Dotten Stem</characterDefinition>
+            <characterDefinition character="&amp;#10514;">Upwards Arrow to Bar</characterDefinition>
+            <characterDefinition character="&amp;#10515;">Downwards Arrow to Bar</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#10516;">Rightwards Arrow with Tail with Vertical Stroke</characterDefinition>
+            <characterDefinition character="&amp;#10517;">Rightwards Arrow with Tail with Double Vertical Stroke</characterDefinition>
+            <characterDefinition character="&amp;#10521;">Leftwards Arrow-Tail</characterDefinition>
+            <characterDefinition character="&amp;#10522;">Rightwards Arrow-Tail</characterDefinition>
+            <characterDefinition character="&amp;#10523;">Leftwards Double Arrow-Tail</characterDefinition>
+            <characterDefinition character="&amp;#10524;">Rightwards Double Arrow-Tail</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#10525;">Leftwards Arrow to Black Diamond</characterDefinition>
+            <characterDefinition character="&amp;#10526;">Rightwards Arrow to Black Diamond</characterDefinition>
+            <characterDefinition character="&amp;#10527;">Leftwards Arrow From Bar to Black Diamond</characterDefinition>
+            <characterDefinition character="&amp;#10528;">Rightwards Arrow From Bar to Black Diamond</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#10547;">Wave Arrow Pointing Directly Right</characterDefinition>
+            <characterDefinition character="&amp;#10562;">Rightwards Arrow Above Short Leftwards Arrow</characterDefinition>
+            <characterDefinition character="&amp;#10563;">Leftwards Arrow Above Short Rightwards Arrow</characterDefinition>
+            <characterDefinition character="&amp;#10564;">Short Rightwards Arrow Above Leftwards Arrow</characterDefinition>
+            <characterDefinition character="&amp;#10567;">Rightwards Arrow Through X</characterDefinition>
+            <characterDefinition character="&amp;#10568;">Left Right Arrow Through Small Circle</characterDefinition>
+            <characterDefinition character="&amp;#10608;">Right Double Arrow with Rounded Head</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#10609;">Equals Sign Above Rightwards Arrow</characterDefinition>
+            <characterDefinition character="&amp;#10565;">Rightwards Arrow with Plus Below</characterDefinition>
+            <characterDefinition character="&amp;#10566;">Leftwards Arrow with Plus Below</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#10610;">Tilde Operator Above Rightwards Arrow</characterDefinition>
+            <characterDefinition character="&amp;#10611;">Leftwards Arrow Above Tilde Operator</characterDefinition>
+            <characterDefinition character="&amp;#10612;">Rightwards Arrow Above Tilde Operator</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#10613;">Rightwards Arrow Above Almost Equal to</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#10614;">Less-Than Above Leftwards Arrow</characterDefinition>
+            <characterDefinition character="&amp;#10615;">Leftwards Arrow Through Less-Than</characterDefinition>
+            <characterDefinition character="&amp;#10616;">Greater-Than Above Rightwards Arrow</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#10617;">Subset Above Rightwards Arrow</characterDefinition>
+            <characterDefinition character="&amp;#10618;">Leftwards Arrow Through Subset</characterDefinition>
+            <characterDefinition character="&amp;#10619;">Superset Above Leftwards Arrow</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+</characterSet>

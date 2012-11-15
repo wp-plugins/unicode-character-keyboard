@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Version 1.0 by Terry O'Brien -->
+
+<characterSet name="Russian" type="Languages" description="Russian Character Set" >
+    <characterSubset name="Upper Case Letters">
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x0410;">Cyrillic Upper Case Letter A </characterDefinition>
+            <characterDefinition character="&amp;#x0411;">Cyrillic Upper Case Letter BE </characterDefinition>
+            <characterDefinition character="&amp;#x0412;">Cyrillic Upper Case Letter VE </characterDefinition>
+            <characterDefinition character="&amp;#x0413;">Cyrillic Upper Case Letter GHE </characterDefinition>
+            <characterDefinition character="&amp;#x0414;">Cyrillic Upper Case Letter DE </characterDefinition>
+            <characterDefinition character="&amp;#x0415;">Cyrillic Upper Case Letter IE </characterDefinition>
+            <characterDefinition character="&amp;#x0416;">Cyrillic Upper Case Letter ZHE </characterDefinition>
+            <characterDefinition character="&amp;#x0417;">Cyrillic Upper Case Letter ZE </characterDefinition>
+            <characterDefinition character="&amp;#x0418;">Cyrillic Upper Case Letter I </characterDefinition>
+            <characterDefinition character="&amp;#x0419;">Cyrillic Upper Case Letter SHORT I </characterDefinition>
+            <characterDefinition character="&amp;#x041A;">Cyrillic Upper Case Letter KA </characterDefinition>
+            <characterDefinition character="&amp;#x041B;">Cyrillic Upper Case Letter EL </characterDefinition>
+            <characterDefinition character="&amp;#x041C;">Cyrillic Upper Case Letter EM </characterDefinition>
+            <characterDefinition character="&amp;#x041D;">Cyrillic Upper Case Letter EN </characterDefinition>
+            <characterDefinition character="&amp;#x041E;">Cyrillic Upper Case Letter O </characterDefinition>
+            <characterDefinition character="&amp;#x041F;">Cyrillic Upper Case Letter PE </characterDefinition>
+            <characterDefinition character="&amp;#x0420;">Cyrillic Upper Case Letter ER </characterDefinition>
+            <characterDefinition character="&amp;#x0421;">Cyrillic Upper Case Letter ES </characterDefinition>
+            <characterDefinition character="&amp;#x0422;">Cyrillic Upper Case Letter TE </characterDefinition>
+            <characterDefinition character="&amp;#x0423;">Cyrillic Upper Case Letter U </characterDefinition>
+            <characterDefinition character="&amp;#x0424;">Cyrillic Upper Case Letter EF </characterDefinition>
+            <characterDefinition character="&amp;#x0425;">Cyrillic Upper Case Letter HA </characterDefinition>
+            <characterDefinition character="&amp;#x0426;">Cyrillic Upper Case Letter TSE </characterDefinition>
+            <characterDefinition character="&amp;#x0427;">Cyrillic Upper Case Letter CHE </characterDefinition>
+            <characterDefinition character="&amp;#x0428;">Cyrillic Upper Case Letter SHA </characterDefinition>
+            <characterDefinition character="&amp;#x0429;">Cyrillic Upper Case Letter SHCHA </characterDefinition>
+            <characterDefinition character="&amp;#x042A;">Cyrillic Upper Case Letter HARD SIGN </characterDefinition>
+            <characterDefinition character="&amp;#x042B;">Cyrillic Upper Case Letter YERU </characterDefinition>
+            <characterDefinition character="&amp;#x042C;">Cyrillic Upper Case Letter SOFT SIGN </characterDefinition>
+            <characterDefinition character="&amp;#x042D;">Cyrillic Upper Case Letter E </characterDefinition>
+            <characterDefinition character="&amp;#x042E;">Cyrillic Upper Case Letter YU </characterDefinition>
+            <characterDefinition character="&amp;#x042F;">Cyrillic Upper Case Letter YA </characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x0400;">Cyrillic Upper Case Letter IE WITH GRAVE</characterDefinition>
+            <characterDefinition character="&amp;#x0401;">Cyrillic Upper Case Letter IO </characterDefinition>
+            <characterDefinition character="&amp;#x0402;">Cyrillic Upper Case Letter DJE </characterDefinition>
+            <characterDefinition character="&amp;#x0403;">Cyrillic Upper Case Letter GJE </characterDefinition>
+            <characterDefinition character="&amp;#x0404;">Cyrillic Upper Case Letter UKRAINIAN IE </characterDefinition>
+            <characterDefinition character="&amp;#x0405;">Cyrillic Upper Case Letter DZE </characterDefinition>
+            <characterDefinition character="&amp;#x0406;">Cyrillic Upper Case Letter BYELORUSSIAN-UKRAINIAN I </characterDefinition>
+            <characterDefinition character="&amp;#x0407;">Cyrillic Upper Case Letter YI </characterDefinition>
+            <characterDefinition character="&amp;#x0408;">Cyrillic Upper Case Letter JE </characterDefinition>
+            <characterDefinition character="&amp;#x0409;">Cyrillic Upper Case Letter LJE </characterDefinition>
+            <characterDefinition character="&amp;#x040A;">Cyrillic Upper Case Letter NJE </characterDefinition>
+            <characterDefinition character="&amp;#x040B;">Cyrillic Upper Case Letter TSHE </characterDefinition>
+            <characterDefinition character="&amp;#x040C;">Cyrillic Upper Case Letter KJE </characterDefinition>
+            <characterDefinition character="&amp;#x040D;">Cyrillic Upper Case Letter I WITH GRAVE </characterDefinition>
+            <characterDefinition character="&amp;#x040E;">Cyrillic Upper Case Letter SHORT U </characterDefinition>
+            <characterDefinition character="&amp;#x040F;">Cyrillic Upper Case Letter DZHE </characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x0460;">Cyrillic Upper Case Letter OMEGA</characterDefinition>
+            <characterDefinition character="&amp;#x0462;">Cyrillic Upper Case Letter YAT</characterDefinition>
+            <characterDefinition character="&amp;#x0464;">Cyrillic Upper Case Letter IOTIFIED E</characterDefinition>
+            <characterDefinition character="&amp;#x0466;">Cyrillic Upper Case Letter LITTLE YUS</characterDefinition>
+            <characterDefinition character="&amp;#x0468;">Cyrillic Upper Case Letter IOTIFIED LITTLE YUS</characterDefinition>
+            <characterDefinition character="&amp;#x046A;">Cyrillic Upper Case Letter BIG YUS</characterDefinition>
+            <characterDefinition character="&amp;#x046C;">Cyrillic Upper Case Letter IOTIFIED BIG YUS</characterDefinition>
+            <characterDefinition character="&amp;#x046E;">Cyrillic Upper Case Letter KSI</characterDefinition>
+            <characterDefinition character="&amp;#x0470;">Cyrillic Upper Case Letter PSI</characterDefinition>
+            <characterDefinition character="&amp;#x0472;">Cyrillic Upper Case Letter FITA</characterDefinition>
+            <characterDefinition character="&amp;#x0474;">Cyrillic Upper Case Letter IZHITSA</characterDefinition>
+            <characterDefinition character="&amp;#x0476;">Cyrillic Upper Case Letter IZHITSA WITH DOUBLE GRAVE ACCENT</characterDefinition>
+            <characterDefinition character="&amp;#x0478;">Cyrillic Upper Case Letter UK</characterDefinition>
+            <characterDefinition character="&amp;#x047A;">Cyrillic Upper Case Letter ROUND OMEGA</characterDefinition>
+            <characterDefinition character="&amp;#x047C;">Cyrillic Upper Case Letter OMEGA WITH TITLO</characterDefinition>
+            <characterDefinition character="&amp;#x047E;">Cyrillic Upper Case Letter OT</characterDefinition>
+            <characterDefinition character="&amp;#x0480;">Cyrillic Upper Case Letter KOPPA</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x048A;">Cyrillic Upper Case Letter SHORT I WITH TAIL</characterDefinition>
+            <characterDefinition character="&amp;#x048C;">Cyrillic Upper Case Letter SEMISOFT SIGN</characterDefinition>
+            <characterDefinition character="&amp;#x048E;">Cyrillic Upper Case Letter ER WITH TICK</characterDefinition>
+            <characterDefinition character="&amp;#x0490;">Cyrillic Upper Case Letter GHE WITH UPTURN </characterDefinition>
+            <characterDefinition character="&amp;#x0492;">Cyrillic Upper Case Letter GHE WITH STROKE</characterDefinition>
+            <characterDefinition character="&amp;#x0494;">Cyrillic Upper Case Letter GHE WITH MIDDLE HOOK</characterDefinition>
+            <characterDefinition character="&amp;#x0496;">Cyrillic Upper Case Letter ZHE WITH DESCENDER</characterDefinition>
+            <characterDefinition character="&amp;#x0498;">Cyrillic Upper Case Letter ZE WITH DESCENDER</characterDefinition>
+            <characterDefinition character="&amp;#x049A;">Cyrillic Upper Case Letter KA WITH DESCENDER</characterDefinition>
+            <characterDefinition character="&amp;#x049C;">Cyrillic Upper Case Letter KA WITH VERTICAL STROKE</characterDefinition>
+            <characterDefinition character="&amp;#x049E;">Cyrillic Upper Case Letter KA WITH STROKE</characterDefinition>
+            <characterDefinition character="&amp;#x04A0;">Cyrillic Upper Case Letter BASHKIR KA</characterDefinition>
+            <characterDefinition character="&amp;#x04A2;">Cyrillic Upper Case Letter EN WITH DESCENDER</characterDefinition>
+            <characterDefinition character="&amp;#x04A4;">Cyrillic Upper Case LIGATURE EN GHE</characterDefinition>
+            <characterDefinition character="&amp;#x04A6;">Cyrillic Upper Case Letter PE WITH MIDDLE HOOK</characterDefinition>
+            <characterDefinition character="&amp;#x04A8;">Cyrillic Upper Case Letter ABKHASIAN HA</characterDefinition>
+            <characterDefinition character="&amp;#x04AA;">Cyrillic Upper Case Letter ES WITH DESCENDER</characterDefinition>
+            <characterDefinition character="&amp;#x04AC;">Cyrillic Upper Case Letter TE WITH DESCENDER</characterDefinition>
+            <characterDefinition character="&amp;#x04AE;">Cyrillic Upper Case Letter STRAIGHT U</characterDefinition>
+            <characterDefinition character="&amp;#x04B0;">Cyrillic Upper Case Letter STRAIGHT U WITH STROKE</characterDefinition>
+            <characterDefinition character="&amp;#x04B2;">Cyrillic Upper Case Letter HA WITH DESCENDER</characterDefinition>
+            <characterDefinition character="&amp;#x04B4;">Cyrillic Upper Case LIGATURE TE TSE</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x04B6;">Cyrillic Upper Case Letter CHE WITH DESCENDER</characterDefinition>
+            <characterDefinition character="&amp;#x04B8;">Cyrillic Upper Case Letter CHE WITH VERTICAL STROKE</characterDefinition>
+            <characterDefinition character="&amp;#x04BA;">Cyrillic Upper Case Letter SHHA</characterDefinition>
+            <characterDefinition character="&amp;#x04BC;">Cyrillic Upper Case Letter ABKHASIAN CHE</characterDefinition>
+            <characterDefinition character="&amp;#x04BE;">Cyrillic Upper Case Letter ABKHASIAN CHE WITH DESCENDER</characterDefinition>
+            <characterDefinition character="&amp;#x04C1;">Cyrillic Upper Case Letter ZHE WITH BREVE</characterDefinition>
+            <characterDefinition character="&amp;#x04C3;">Cyrillic Upper Case Letter KA WITH HOOK</characterDefinition>
+            <characterDefinition character="&amp;#x04C5;">Cyrillic Upper Case Letter EL WITH TAIL</characterDefinition>
+            <characterDefinition character="&amp;#x04C7;">Cyrillic Upper Case Letter EN WITH HOOK</characterDefinition>
+            <characterDefinition character="&amp;#x04C9;">Cyrillic Upper Case Letter EN WITH TAIL</characterDefinition>
+            <characterDefinition character="&amp;#x04CB;">Cyrillic Upper Case Letter KHAKASSIAN CHE</characterDefinition>
+            <characterDefinition character="&amp;#x04CD;">Cyrillic Upper Case Letter EM WITH TAIL</characterDefinition>
+            <characterDefinition character="&amp;#x04C0;">Cyrillic Upper Case Letter PALOCHKA</characterDefinition>
+            <characterDefinition character="&amp;#x04D0;">Cyrillic Upper Case Letter A WITH BREVE</characterDefinition>
+            <characterDefinition character="&amp;#x04D2;">Cyrillic Upper Case Letter A WITH DIAERESIS</characterDefinition>
+            <characterDefinition character="&amp;#x04D4;">Cyrillic Upper Case LIGATURE A IE</characterDefinition>
+            <characterDefinition character="&amp;#x04D6;">Cyrillic Upper Case Letter IE WITH BREVE</characterDefinition>
+            <characterDefinition character="&amp;#x04D8;">Cyrillic Upper Case Letter SCHWA</characterDefinition>
+            <characterDefinition character="&amp;#x04DA;">Cyrillic Upper Case Letter SCHWA WITH DIAERESIS</characterDefinition>
+            <characterDefinition character="&amp;#x04DC;">Cyrillic Upper Case Letter ZHE WITH DIAERESIS</characterDefinition>
+            <characterDefinition character="&amp;#x04DE;">Cyrillic Upper Case Letter ZE WITH DIAERESIS</characterDefinition>
+            <characterDefinition character="&amp;#x04E0;">Cyrillic Upper Case Letter ABKHASIAN DZE</characterDefinition>
+            <characterDefinition character="&amp;#x04E2;">Cyrillic Upper Case Letter I WITH MACRON</characterDefinition>
+            <characterDefinition character="&amp;#x04E4;">Cyrillic Upper Case Letter I WITH DIAERESIS</characterDefinition>
+            <characterDefinition character="&amp;#x04E6;">Cyrillic Upper Case Letter O WITH DIAERESIS</characterDefinition>
+            <characterDefinition character="&amp;#x04E8;">Cyrillic Upper Case Letter BARRED O</characterDefinition>
+            <characterDefinition character="&amp;#x04EA;">Cyrillic Upper Case Letter BARRED O WITH DIAERESIS</characterDefinition>
+            <characterDefinition character="&amp;#x04EC;">Cyrillic Upper Case Letter E WITH DIAERESIS</characterDefinition>
+            <characterDefinition character="&amp;#x04EE;">Cyrillic Upper Case Letter U WITH MACRON</characterDefinition>
+            <characterDefinition character="&amp;#x04F0;">Cyrillic Upper Case Letter U WITH DIAERESIS</characterDefinition>
+            <characterDefinition character="&amp;#x04F2;">Cyrillic Upper Case Letter U WITH DOUBLE ACUTE</characterDefinition>
+            <characterDefinition character="&amp;#x04F4;">Cyrillic Upper Case Letter CHE WITH DIAERESIS</characterDefinition>
+            <characterDefinition character="&amp;#x04F6;">Cyrillic Upper Case Letter GHE WITH DESCENDER</characterDefinition>
+            <characterDefinition character="&amp;#x04F8;">Cyrillic Upper Case Letter YERU WITH DIAERESIS</characterDefinition>
+            <characterDefinition character="&amp;#x04FA;">Cyrillic Upper Case Letter GHE WITH STROKE AND HOOK</characterDefinition>
+            <characterDefinition character="&amp;#x04FC;">Cyrillic Upper Case Letter HA WITH HOOK</characterDefinition>
+            <characterDefinition character="&amp;#x04FE;">Cyrillic Upper Case Letter HA WITH STROKE</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+
+    <characterSubset name="Lower Case Letters">
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x0430;">Cyrillic Lower Case Letter A </characterDefinition>
+            <characterDefinition character="&amp;#x0431;">Cyrillic Lower Case Letter BE </characterDefinition>
+            <characterDefinition character="&amp;#x0432;">Cyrillic Lower Case Letter VE </characterDefinition>
+            <characterDefinition character="&amp;#x0433;">Cyrillic Lower Case Letter GHE </characterDefinition>
+            <characterDefinition character="&amp;#x0434;">Cyrillic Lower Case Letter DE </characterDefinition>
+            <characterDefinition character="&amp;#x0435;">Cyrillic Lower Case Letter IE </characterDefinition>
+            <characterDefinition character="&amp;#x0436;">Cyrillic Lower Case Letter ZHE </characterDefinition>
+            <characterDefinition character="&amp;#x0437;">Cyrillic Lower Case Letter ZE </characterDefinition>
+            <characterDefinition character="&amp;#x0438;">Cyrillic Lower Case Letter I </characterDefinition>
+            <characterDefinition character="&amp;#x0439;">Cyrillic Lower Case Letter SHORT I </characterDefinition>
+            <characterDefinition character="&amp;#x043A;">Cyrillic Lower Case Letter KA </characterDefinition>
+            <characterDefinition character="&amp;#x043B;">Cyrillic Lower Case Letter EL </characterDefinition>
+            <characterDefinition character="&amp;#x043C;">Cyrillic Lower Case Letter EM </characterDefinition>
+            <characterDefinition character="&amp;#x043D;">Cyrillic Lower Case Letter EN </characterDefinition>
+            <characterDefinition character="&amp;#x043E;">Cyrillic Lower Case Letter O </characterDefinition>
+            <characterDefinition character="&amp;#x043F;">Cyrillic Lower Case Letter PE </characterDefinition>
+            <characterDefinition character="&amp;#x0440;">Cyrillic Lower Case Letter ER </characterDefinition>
+            <characterDefinition character="&amp;#x0441;">Cyrillic Lower Case Letter ES </characterDefinition>
+            <characterDefinition character="&amp;#x0442;">Cyrillic Lower Case Letter TE </characterDefinition>
+            <characterDefinition character="&amp;#x0443;">Cyrillic Lower Case Letter U </characterDefinition>
+            <characterDefinition character="&amp;#x0444;">Cyrillic Lower Case Letter EF </characterDefinition>
+            <characterDefinition character="&amp;#x0445;">Cyrillic Lower Case Letter HA </characterDefinition>
+            <characterDefinition character="&amp;#x0446;">Cyrillic Lower Case Letter TSE </characterDefinition>
+            <characterDefinition character="&amp;#x0447;">Cyrillic Lower Case Letter CHE </characterDefinition>
+            <characterDefinition character="&amp;#x0448;">Cyrillic Lower Case Letter SHA </characterDefinition>
+            <characterDefinition character="&amp;#x0449;">Cyrillic Lower Case Letter SHCHA </characterDefinition>
+            <characterDefinition character="&amp;#x044A;">Cyrillic Lower Case Letter HARD SIGN </characterDefinition>
+            <characterDefinition character="&amp;#x044B;">Cyrillic Lower Case Letter YERU </characterDefinition>
+            <characterDefinition character="&amp;#x044C;">Cyrillic Lower Case Letter SOFT SIGN </characterDefinition>
+            <characterDefinition character="&amp;#x044D;">Cyrillic Lower Case Letter E </characterDefinition>
+            <characterDefinition character="&amp;#x044E;">Cyrillic Lower Case Letter YU </characterDefinition>
+            <characterDefinition character="&amp;#x044F;">Cyrillic Lower Case Letter YA </characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x0450;">Cyrillic Lower Case Letter IE WITH GRAVE </characterDefinition>
+            <characterDefinition character="&amp;#x0451;">Cyrillic Lower Case Letter IO </characterDefinition>
+            <characterDefinition character="&amp;#x0452;">Cyrillic Lower Case Letter DJE </characterDefinition>
+            <characterDefinition character="&amp;#x0453;">Cyrillic Lower Case Letter GJE </characterDefinition>
+            <characterDefinition character="&amp;#x0454;">Cyrillic Lower Case Letter UKRAINIAN IE </characterDefinition>
+            <characterDefinition character="&amp;#x0455;">Cyrillic Lower Case Letter DZE </characterDefinition>
+            <characterDefinition character="&amp;#x0456;">Cyrillic Lower Case Letter BYELORUSSIAN-UKRAINIAN I </characterDefinition>
+            <characterDefinition character="&amp;#x0457;">Cyrillic Lower Case Letter YI </characterDefinition>
+            <characterDefinition character="&amp;#x0458;">Cyrillic Lower Case Letter JE </characterDefinition>
+            <characterDefinition character="&amp;#x0459;">Cyrillic Lower Case Letter LJE </characterDefinition>
+            <characterDefinition character="&amp;#x045A;">Cyrillic Lower Case Letter NJE </characterDefinition>
+            <characterDefinition character="&amp;#x045B;">Cyrillic Lower Case Letter TSHE </characterDefinition>
+            <characterDefinition character="&amp;#x045C;">Cyrillic Lower Case Letter KJE </characterDefinition>
+            <characterDefinition character="&amp;#x045D;">Cyrillic Lower Case Letter I WITH GRAVE </characterDefinition>
+            <characterDefinition character="&amp;#x045E;">Cyrillic Lower Case Letter SHORT U </characterDefinition>
+            <characterDefinition character="&amp;#x045F;">Cyrillic Lower Case Letter DZHE</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x0461;">Cyrillic Lower Case Letter OMEGA</characterDefinition>
+            <characterDefinition character="&amp;#x0463;">Cyrillic Lower Case Letter YAT</characterDefinition>
+            <characterDefinition character="&amp;#x0465;">Cyrillic Lower Case Letter IOTIFIED E</characterDefinition>
+            <characterDefinition character="&amp;#x0467;">Cyrillic Lower Case Letter LITTLE YUS</characterDefinition>
+            <characterDefinition character="&amp;#x0469;">Cyrillic Lower Case Letter IOTIFIED LITTLE YUS</characterDefinition>
+            <characterDefinition character="&amp;#x046B;">Cyrillic Lower Case Letter BIG YUS</characterDefinition>
+            <characterDefinition character="&amp;#x046D;">Cyrillic Lower Case Letter IOTIFIED BIG YUS</characterDefinition>
+            <characterDefinition character="&amp;#x046F;">Cyrillic Lower Case Letter KSI</characterDefinition>
+            <characterDefinition character="&amp;#x0471;">Cyrillic Lower Case Letter PSI</characterDefinition>
+            <characterDefinition character="&amp;#x0473;">Cyrillic Lower Case Letter FITA</characterDefinition>
+            <characterDefinition character="&amp;#x0475;">Cyrillic Lower Case Letter IZHITSA</characterDefinition>
+            <characterDefinition character="&amp;#x0477;">Cyrillic Lower Case Letter IZHITSA WITH DOUBLE GRAVE ACCENT</characterDefinition>
+            <characterDefinition character="&amp;#x0479;">Cyrillic Lower Case Letter UK</characterDefinition>
+            <characterDefinition character="&amp;#x047B;">Cyrillic Lower Case Letter ROUND OMEGA</characterDefinition>
+            <characterDefinition character="&amp;#x047D;">Cyrillic Lower Case Letter OMEGA WITH TITLO</characterDefinition>
+            <characterDefinition character="&amp;#x047F;">Cyrillic Lower Case Letter OT</characterDefinition>
+            <characterDefinition character="&amp;#x0481;">Cyrillic Lower Case Letter KOPPA</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x048B;">Cyrillic Lower Case Letter SHORT I WITH TAIL</characterDefinition>
+            <characterDefinition character="&amp;#x048D;">Cyrillic Lower Case Letter SEMISOFT SIGN</characterDefinition>
+            <characterDefinition character="&amp;#x048F;">Cyrillic Lower Case Letter ER WITH TICK</characterDefinition>
+            <characterDefinition character="&amp;#x0491;">Cyrillic Lower Case Letter GHE WITH UPTURN </characterDefinition>
+            <characterDefinition character="&amp;#x0493;">Cyrillic Lower Case Letter GHE WITH STROKE</characterDefinition>
+            <characterDefinition character="&amp;#x0495;">Cyrillic Lower Case Letter GHE WITH MIDDLE HOOK</characterDefinition>
+            <characterDefinition character="&amp;#x0497;">Cyrillic Lower Case Letter ZHE WITH DESCENDER</characterDefinition>
+            <characterDefinition character="&amp;#x0499;">Cyrillic Lower Case Letter ZE WITH DESCENDER</characterDefinition>
+            <characterDefinition character="&amp;#x049B;">Cyrillic Lower Case Letter KA WITH DESCENDER</characterDefinition>
+            <characterDefinition character="&amp;#x049D;">Cyrillic Lower Case Letter KA WITH VERTICAL STROKE</characterDefinition>
+            <characterDefinition character="&amp;#x049F;">Cyrillic Lower Case Letter KA WITH STROKE</characterDefinition>
+            <characterDefinition character="&amp;#x04A1;">Cyrillic Lower Case Letter BASHKIR KA</characterDefinition>
+            <characterDefinition character="&amp;#x04A3;">Cyrillic Lower Case Letter EN WITH DESCENDER</characterDefinition>
+            <characterDefinition character="&amp;#x04A5;">Cyrillic Lower Case LIGATURE EN GHE</characterDefinition>
+            <characterDefinition character="&amp;#x04A7;">Cyrillic Lower Case Letter PE WITH MIDDLE HOOK</characterDefinition>
+            <characterDefinition character="&amp;#x04A9;">Cyrillic Lower Case Letter ABKHASIAN HA</characterDefinition>
+            <characterDefinition character="&amp;#x04AB;">Cyrillic Lower Case Letter ES WITH DESCENDER</characterDefinition>
+            <characterDefinition character="&amp;#x04AD;">Cyrillic Lower Case Letter TE WITH DESCENDER</characterDefinition>
+            <characterDefinition character="&amp;#x04AF;">Cyrillic Lower Case Letter STRAIGHT U</characterDefinition>
+            <characterDefinition character="&amp;#x04B1;">Cyrillic Lower Case Letter STRAIGHT U WITH STROKE</characterDefinition>
+            <characterDefinition character="&amp;#x04B3;">Cyrillic Lower Case Letter HA WITH DESCENDER</characterDefinition>
+            <characterDefinition character="&amp;#x04B5;">Cyrillic Lower Case LIGATURE TE TSE</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x04B7;">Cyrillic Lower Case Letter CHE WITH DESCENDER</characterDefinition>
+            <characterDefinition character="&amp;#x04B9;">Cyrillic Lower Case Letter CHE WITH VERTICAL STROKE</characterDefinition>
+            <characterDefinition character="&amp;#x04BB;">Cyrillic Lower Case Letter SHHA</characterDefinition>
+            <characterDefinition character="&amp;#x04BD;">Cyrillic Lower Case Letter ABKHASIAN CHE</characterDefinition>
+            <characterDefinition character="&amp;#x04BF;">Cyrillic Lower Case Letter ABKHASIAN CHE WITH DESCENDER</characterDefinition>
+            <characterDefinition character="&amp;#x04C2;">Cyrillic Lower Case Letter ZHE WITH BREVE</characterDefinition>
+            <characterDefinition character="&amp;#x04C4;">Cyrillic Lower Case Letter KA WITH HOOK</characterDefinition>
+            <characterDefinition character="&amp;#x04C6;">Cyrillic Lower Case Letter EL WITH TAIL</characterDefinition>
+            <characterDefinition character="&amp;#x04C8;">Cyrillic Lower Case Letter EN WITH HOOK</characterDefinition>
+            <characterDefinition character="&amp;#x04CA;">Cyrillic Lower Case Letter EN WITH TAIL</characterDefinition>
+            <characterDefinition character="&amp;#x04CC;">Cyrillic Lower Case Letter KHAKASSIAN CHE</characterDefinition>
+            <characterDefinition character="&amp;#x04CE;">Cyrillic Lower Case Letter EM WITH TAIL</characterDefinition>
+            <characterDefinition character="&amp;#x04CF;">Cyrillic Lower Case Letter PALOCHKA</characterDefinition>
+            <characterDefinition character="&amp;#x04D1;">Cyrillic Lower Case Letter A WITH BREVE</characterDefinition>
+            <characterDefinition character="&amp;#x04D3;">Cyrillic Lower Case Letter A WITH DIAERESIS</characterDefinition>
+            <characterDefinition character="&amp;#x04D5;">Cyrillic Lower Case LIGATURE A IE</characterDefinition>
+            <characterDefinition character="&amp;#x04D7;">Cyrillic Lower Case Letter IE WITH BREVE</characterDefinition>
+            <characterDefinition character="&amp;#x04D9;">Cyrillic Lower Case Letter SCHWA</characterDefinition>
+            <characterDefinition character="&amp;#x04DB;">Cyrillic Lower Case Letter SCHWA WITH DIAERESIS</characterDefinition>
+            <characterDefinition character="&amp;#x04DD;">Cyrillic Lower Case Letter ZHE WITH DIAERESIS</characterDefinition>
+            <characterDefinition character="&amp;#x04DF;">Cyrillic Lower Case Letter ZE WITH DIAERESIS</characterDefinition>
+            <characterDefinition character="&amp;#x04E1;">Cyrillic Lower Case Letter ABKHASIAN DZE</characterDefinition>
+            <characterDefinition character="&amp;#x04E3;">Cyrillic Lower Case Letter I WITH MACRON</characterDefinition>
+            <characterDefinition character="&amp;#x04E5;">Cyrillic Lower Case Letter I WITH DIAERESIS</characterDefinition>
+            <characterDefinition character="&amp;#x04E7;">Cyrillic Lower Case Letter O WITH DIAERESIS</characterDefinition>
+            <characterDefinition character="&amp;#x04E9;">Cyrillic Lower Case Letter BARRED O</characterDefinition>
+            <characterDefinition character="&amp;#x04EB;">Cyrillic Lower Case Letter BARRED O WITH DIAERESIS</characterDefinition>
+            <characterDefinition character="&amp;#x04ED;">Cyrillic Lower Case Letter E WITH DIAERESIS</characterDefinition>
+            <characterDefinition character="&amp;#x04EF;">Cyrillic Lower Case Letter U WITH MACRON</characterDefinition>
+            <characterDefinition character="&amp;#x04F1;">Cyrillic Lower Case Letter U WITH DIAERESIS</characterDefinition>
+            <characterDefinition character="&amp;#x04F3;">Cyrillic Lower Case Letter U WITH DOUBLE ACUTE</characterDefinition>
+            <characterDefinition character="&amp;#x04F5;">Cyrillic Lower Case Letter CHE WITH DIAERESIS</characterDefinition>
+            <characterDefinition character="&amp;#x04F7;">Cyrillic Lower Case Letter GHE WITH DESCENDER</characterDefinition>
+            <characterDefinition character="&amp;#x04F9;">Cyrillic Lower Case Letter YERU WITH DIAERESIS</characterDefinition>
+            <characterDefinition character="&amp;#x04FB;">Cyrillic Lower Case Letter GHE WITH STROKE AND HOOK</characterDefinition>
+            <characterDefinition character="&amp;#x04FD;">Cyrillic Lower Case Letter HA WITH HOOK</characterDefinition>
+            <characterDefinition character="&amp;#x04FF;">Cyrillic Lower Case Letter HA WITH STROKE</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+
+    <characterSubset name="Miscellaneous">
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x0482;">Cyrillic THOUSANDS SIGN</characterDefinition>
+            <characterDefinition character="&amp;#x0483;">COMBINING Cyrillic TITLO</characterDefinition>
+            <characterDefinition character="&amp;#x0484;">COMBINING Cyrillic PALATALIZATION</characterDefinition>
+            <characterDefinition character="&amp;#x0485;">COMBINING Cyrillic DASIA PNEUMATA</characterDefinition>
+            <characterDefinition character="&amp;#x0486;">COMBINING Cyrillic PSILI PNEUMATA</characterDefinition>
+            <characterDefinition character="&amp;#x0487;">COMBINING Cyrillic POKRYTIE</characterDefinition>
+            <characterDefinition character="&amp;#x0488;">COMBINING Cyrillic HUNDRED THOUSANDS SIGN</characterDefinition>
+            <characterDefinition character="&amp;#x0489;">COMBINING Cyrillic MILLIONS SIGN</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+
+</characterSet>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Version 1.0 by Terry O'Brien -->
+<characterSet name="Astrology" type="Symbols" description="Astrological and Astronomical Signs and Symbols" >
+
+    <characterSubset name="Planetary Signs">
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#9793;">Earth</characterDefinition>
+            <characterDefinition character="&amp;#9789;">First Quarter Crescent Moon</characterDefinition>
+            <characterDefinition character="&amp;#9790;">Last Quarter Crescent Moon</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#9791;">Mercury</characterDefinition>
+            <characterDefinition character="&amp;#9792;">Venus</characterDefinition>
+            <characterDefinition character="&amp;#9794;">Mars</characterDefinition>
+            <characterDefinition character="&amp;#9795;">Jupiter</characterDefinition>
+            <characterDefinition character="&amp;#9796;">Saturn</characterDefinition>
+            <characterDefinition character="&amp;#9797;">Uranus</characterDefinition>
+            <characterDefinition character="&amp;#9798;">Neptune</characterDefinition>
+            <characterDefinition character="&amp;#9799;">Pluto</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+
+    <characterSetRange>Moon Phases: x1F311 - x1F319</characterSetRange>
+    <characterSubset name="Moon Phases">
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x1F311;">New Moon</characterDefinition>
+            <characterDefinition character="&amp;#x1F312;">Waxing Cresent Moon</characterDefinition>
+            <characterDefinition character="&amp;#x1F313;">First Quarter Moon</characterDefinition>
+            <characterDefinition character="&amp;#x1F314;">Waxing Gibbous Moon</characterDefinition>
+            <characterDefinition character="&amp;#x1F315;">Full Moon</characterDefinition>
+            <characterDefinition character="&amp;#x1F316;">Waning Gibbous Moon</characterDefinition>
+            <characterDefinition character="&amp;#x1F317;">Last Quarter Moon</characterDefinition>
+            <characterDefinition character="&amp;#x1F318;">Waning Crescent Moon</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x1F319;">Crescent Moon</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+
+    <characterSubset name="Asteroids" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#9907;">Ceres</characterDefinition>
+            <characterDefinition character="&amp;#9908;">Pallas</characterDefinition>
+            <characterDefinition character="&amp;#9909;">Juno</characterDefinition>
+            <characterDefinition character="&amp;#9910;">Vesta</characterDefinition>
+            <characterDefinition character="&amp;#9911;">Chiron</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+    <characterSubset name="Astrological Signs" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#9800;">Aries</characterDefinition>
+            <characterDefinition character="&amp;#9801;">Taurus</characterDefinition>
+            <characterDefinition character="&amp;#9802;">Gemini</characterDefinition>
+            <characterDefinition character="&amp;#9803;">Cancer</characterDefinition>
+            <characterDefinition character="&amp;#9804;">Leo</characterDefinition>
+            <characterDefinition character="&amp;#9805;">Virgo</characterDefinition>
+            <characterDefinition character="&amp;#9806;">Libra</characterDefinition>
+            <characterDefinition character="&amp;#9807;">Scorpius</characterDefinition>
+            <characterDefinition character="&amp;#9808;">Sagittarius</characterDefinition>
+            <characterDefinition character="&amp;#9809;">Capricorn</characterDefinition>
+            <characterDefinition character="&amp;#9810;">Aquarius</characterDefinition>
+            <characterDefinition character="&amp;#9811;">Pisces</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+    <characterSubset name="Astrological Symbols" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#9738;">Ascending Node</characterDefinition>
+            <characterDefinition character="&amp;#9739;">Descending Node</characterDefinition>
+            <characterDefinition character="&amp;#9740;">Conjunction</characterDefinition>
+            <characterDefinition character="&amp;#9741;">Opposition</characterDefinition>
+            <characterDefinition character="&amp;#9732;">Comet</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+</characterSet>

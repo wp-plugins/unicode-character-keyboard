@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Version 1.0 by Terry O'Brien -->
+<characterSet name="LetterLike" type="Literary" description="Letter-Like Symbols" >
+
+    <characterSubset name="Letters" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#8450;">Double Struck Upper Case c</characterDefinition>
+            <characterDefinition character="&amp;#8461;">Double Struck Upper Case h</characterDefinition>
+            <characterDefinition character="&amp;#8469;">Double Struck Upper Case n</characterDefinition>
+            <characterDefinition character="&amp;#8473;">Double Struck Upper Case p</characterDefinition>
+            <characterDefinition character="&amp;#8474;">Double Struck Upper Case q</characterDefinition>
+            <characterDefinition character="&amp;#8477;">Double Struck Upper Case r</characterDefinition>
+            <characterDefinition character="&amp;#8484;">Double Struck Upper Case z</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#8493;">Black Letter Upper Case c</characterDefinition>
+            <characterDefinition character="&amp;#8460;">Black Letter Upper Case h</characterDefinition>
+            <characterDefinition character="&amp;#8465;">Black Letter Upper Case i</characterDefinition>
+            <characterDefinition character="&amp;#8476;">Black Letter Upper Case r</characterDefinition>
+            <characterDefinition character="&amp;#8488;">Black Letter Upper Case z</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#8492;">Script Upper Case b</characterDefinition>
+            <characterDefinition character="&amp;#8496;">Script Upper Case e</characterDefinition>
+            <characterDefinition character="&amp;#8497;">Script Upper Case f</characterDefinition>
+            <characterDefinition character="&amp;#8459;">Script Upper Case h</characterDefinition>
+            <characterDefinition character="&amp;#8464;">Script Upper Case i</characterDefinition>
+            <characterDefinition character="&amp;#8466;">Script Upper Case l</characterDefinition>
+            <characterDefinition character="&amp;#8499;">Script Upper Case m</characterDefinition>
+            <characterDefinition character="&amp;#8472;">Script Upper Case p</characterDefinition>
+            <characterDefinition character="&amp;#8475;">Script Upper Case r</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#8495;">Script Lower Case e</characterDefinition>
+            <characterDefinition character="&amp;#8458;">Script Lower Case g</characterDefinition>
+            <characterDefinition character="&amp;#8467;">Script Lower Case l</characterDefinition>
+            <characterDefinition character="&amp;#8500;">Script Lower Case o</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#8517;">Double Struck Ilatic Upper Case d</characterDefinition>
+            <characterDefinition character="&amp;#8518;">Double Struck Ilatic Lower Case d</characterDefinition>
+            <characterDefinition character="&amp;#8599;">Double Struck Ilatic Lower Case e</characterDefinition>
+            <characterDefinition character="&amp;#8520;">Double Struck Ilatic Lower Case i</characterDefinition>
+            <characterDefinition character="&amp;#8521;">Double Struck Ilatic Lower Case j</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#8498;">Turned Upper Case f</characterDefinition>
+            <characterDefinition character="&amp;#8526;">Turned Lower Case f</characterDefinition>
+            <characterDefinition character="&amp;#8506;">Rotated Upper Case q</characterDefinition>
+            <characterDefinition character="&amp;#8513;">Turned Sans Serif Upper Case g</characterDefinition>
+            <characterDefinition character="&amp;#8514;">Turned Sans Serif Upper Case l</characterDefinition>
+            <characterDefinition character="&amp;#8515;">Reversed Sans Serif Upper Case l</characterDefinition>
+            <characterDefinition character="&amp;#8516;">Turned Sans Serif Upper Case y</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+    <characterSubset name="Greek" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#8508;">Double Struck Lower Case pi</characterDefinition>
+            <characterDefinition character="&amp;#8509;">Double Struck Lower Case gamma</characterDefinition>
+            <characterDefinition character="&amp;#8510;">Double Struck Upper Case gamma</characterDefinition>
+            <characterDefinition character="&amp;#8511;">Double Struck Upper Case pi</characterDefinition>
+            <characterDefinition character="&amp;#8489;">Turned Greek Lower Case Iota</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+    <characterSubset name="Hebrew" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#8501;">Alef Symbol</characterDefinition>
+            <characterDefinition character="&amp;#8502;">Bet Symbol</characterDefinition>
+            <characterDefinition character="&amp;#8503;">Gimel Symbol</characterDefinition>
+            <characterDefinition character="&amp;#8504;">Dalet Symbol</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+    <characterSubset name="Signs and Symbols" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#8468;">l b Bar Symbol</characterDefinition>
+            <characterDefinition character="&amp;#8452;">Center Line Symbol</characterDefinition>
+            <characterDefinition character="&amp;#8485;">Ounce Sign</characterDefinition>
+            <characterDefinition character="&amp;#8486;">Ohm Sign</characterDefinition>
+            <characterDefinition character="&amp;#8487;">Inverted Ohm Sign</characterDefinition>
+            <characterDefinition character="&amp;#8491;">Angstrom Sign</characterDefinition>
+            <characterDefinition character="&amp;#8494;">Estimated Symbol</characterDefinition>
+            <characterDefinition character="&amp;#8523;">Turned Ampersand</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#8451;">Degrees Celsius</characterDefinition>
+            <characterDefinition character="&amp;#8457;">Degrees Fahrenheit</characterDefinition>
+            <characterDefinition character="&amp;#8490;">Degrees Kelvin</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#8481;">Telephone Sign</characterDefinition>
+            <characterDefinition character="&amp;#8507;">Facsimile Sign</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+    <characterSubset name="Miscellaneous" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#8448;">Account Of</characterDefinition>
+            <characterDefinition character="&amp;#8449;">Addressed to the Subject</characterDefinition>
+            <characterDefinition character="&amp;#8453;">Care Of</characterDefinition>
+            <characterDefinition character="&amp;#8454;">Cada Una</characterDefinition>
+            <characterDefinition character="&amp;#8455;">Euler Constant</characterDefinition>
+            <characterDefinition character="&amp;#8456;">Scruple</characterDefinition>
+            <characterDefinition character="&amp;#8462;">Planck Constant</characterDefinition>
+            <characterDefinition character="&amp;#8463;">Planck Constant Over Two pi</characterDefinition>
+            <characterDefinition character="&amp;#8470;">Numero Sign</characterDefinition>
+            <characterDefinition character="&amp;#8478;">Prescription Take</characterDefinition>
+            <characterDefinition character="&amp;#8479;">Response</characterDefinition>
+            <characterDefinition character="&amp;#8483;">Cersicle</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#8505;">Information Source</characterDefinition>
+            <characterDefinition character="&amp;#8512;">Double Struck N-ary Summation</characterDefinition>
+            <characterDefinition character="&amp;#8522;">Property Line</characterDefinition>
+            <characterDefinition character="&amp;#8524;">Per Sign</characterDefinition>
+            <characterDefinition character="&amp;#8525;">Aktieselskab</characterDefinition>
+            <characterDefinition character="&amp;#8527;">Symbol for Samaritan Source</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+</characterSet>

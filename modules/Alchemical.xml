@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Version 1.0 by Terry O'Brien -->
+<characterSet name="Alchemical" type="Symbols" description="Alchemical Symbols" >
+    <characterSetResource>http://www.unicode.org/charts/PDF/U1F700.pdf</characterSetResource>
+    <characterSetRange>x1F700 - x1F77F</characterSetRange>
+    <characterSetFont name="Symbola" url="http://greekfonts.teilar.gr/" />
+
+    <characterSubset name="Symbology" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#128768;">Alchemical Symbol for Quintessence</characterDefinition>
+            <characterDefinition character="&amp;#128769;">Alchemical Symbol for Air</characterDefinition>
+            <characterDefinition character="&amp;#128770;">Alchemical Symbol for Fire</characterDefinition>
+            <characterDefinition character="&amp;#128771;">Alchemical Symbol for Earth</characterDefinition>
+            <characterDefinition character="&amp;#128772;">Alchemical Symbol for Water</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+    <characterSubset name="Compounds" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#128773;">Alchemical Symbol for Aquafortis</characterDefinition>
+            <characterDefinition character="&amp;#128774;">Alchemical Symbol for Aqua Regia-1</characterDefinition>
+            <characterDefinition character="&amp;#128775;">Alchemical Symbol for Aqua Regia-2</characterDefinition>
+            <characterDefinition character="&amp;#128776;">Alchemical Symbol for Aqua Vitae-1</characterDefinition>
+            <characterDefinition character="&amp;#128777;">Alchemical Symbol for Aqua Vitae-2</characterDefinition>
+            <characterDefinition character="&amp;#128778;">Alchemical Symbol for Vinegar-1</characterDefinition>
+            <characterDefinition character="&amp;#128779;">Alchemical Symbol for Vinegar-2</characterDefinition>
+            <characterDefinition character="&amp;#128780;">Alchemical Symbol for Vinegar-3</characterDefinition>
+            <characterDefinition character="&amp;#128781;">Alchemical Symbol for Sulfur</characterDefinition>
+            <characterDefinition character="&amp;#128782;">Alchemical Symbol for Philosophers Sulfu</characterDefinition>
+            <characterDefinition character="&amp;#128783;">Alchemical Symbol for Black Sulfur</characterDefinition>
+            <characterDefinition character="&amp;#128784;">Alchemical Symbol for Mercury Sublimate-1</characterDefinition>
+            <characterDefinition character="&amp;#128785;">Alchemical Symbol for Mercury Sublimate-2</characterDefinition>
+            <characterDefinition character="&amp;#128786;">Alchemical Symbol for Mercury Sublimate-3</characterDefinition>
+            <characterDefinition character="&amp;#128787;">Alchemical Symbol for Cinnabar</characterDefinition>
+            <characterDefinition character="&amp;#128788;">Alchemical Symbol for Salt</characterDefinition>
+            <characterDefinition character="&amp;#128789;">Alchemical Symbol for Nitre</characterDefinition>
+            <characterDefinition character="&amp;#128790;">Alchemical Symbol for Vitriol-1</characterDefinition>
+            <characterDefinition character="&amp;#128791;">Alchemical Symbol for Vitriol-2</characterDefinition>
+            <characterDefinition character="&amp;#128792;">Alchemical Symbol for Rock Salt-1</characterDefinition>
+            <characterDefinition character="&amp;#128793;">Alchemical Symbol for Rock Salt-2</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#128794;">Alchemical Symbol for Gold</characterDefinition>
+            <characterDefinition character="&amp;#128795;">Alchemical Symbol for Silver</characterDefinition>
+            <characterDefinition character="&amp;#128796;">Alchemical Symbol for Iron Ore-1</characterDefinition>
+            <characterDefinition character="&amp;#128797;">Alchemical Symbol for Iron Ore-2</characterDefinition>
+            <characterDefinition character="&amp;#128798;">Alchemical Symbol for Crocus of Iron</characterDefinition>
+            <characterDefinition character="&amp;#128799;">Alchemical Symbol for Regulus of Iron</characterDefinition>
+            <characterDefinition character="&amp;#128800;">Alchemical Symbol for Copper Ore</characterDefinition>
+            <characterDefinition character="&amp;#128801;">Alchemical Symbol for Iron-copper Ore</characterDefinition>
+            <characterDefinition character="&amp;#128802;">Alchemical Symbol for Sublimate of Copper</characterDefinition>
+            <characterDefinition character="&amp;#128803;">Alchemical Symbol for Crocus of Copper-1</characterDefinition>
+            <characterDefinition character="&amp;#128804;">Alchemical Symbol for Crocus of Copper-2</characterDefinition>
+            <characterDefinition character="&amp;#128805;">Alchemical Symbol for Copper Antimoniate</characterDefinition>
+            <characterDefinition character="&amp;#128806;">Alchemical Symbol for Salt of Copper Antimoniate</characterDefinition>
+            <characterDefinition character="&amp;#128807;">Alchemical Symbol for Sublimate of Salt of Copper</characterDefinition>
+            <characterDefinition character="&amp;#128808;">Alchemical Symbol for Verdigris</characterDefinition>
+            <characterDefinition character="&amp;#128809;">Alchemical Symbol for Tin Ore</characterDefinition>
+            <characterDefinition character="&amp;#128810;">Alchemical Symbol for Lead Ore</characterDefinition>
+            <characterDefinition character="&amp;#128811;">Alchemical Symbol for Antimony Ore</characterDefinition>
+            <characterDefinition character="&amp;#128812;">Alchemical Symbol for Sublimate of Antimony</characterDefinition>
+            <characterDefinition character="&amp;#128813;">Alchemical Symbol for Salt of Antimony</characterDefinition>
+            <characterDefinition character="&amp;#128814;">Alchemical Symbol for Sublimate of Salt of Antimony</characterDefinition>
+            <characterDefinition character="&amp;#128815;">Alchemical Symbol for Vinegar of Antimony</characterDefinition>
+            <characterDefinition character="&amp;#128816;">Alchemical Symbol for Regulus of Antimony-1</characterDefinition>
+            <characterDefinition character="&amp;#128817;">Alchemical Symbol for Regulus of Antimony-2</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#128818;">Alchemical Symbol for Regulus-1</characterDefinition>
+            <characterDefinition character="&amp;#128819;">Alchemical Symbol for Regulus-2</characterDefinition>
+            <characterDefinition character="&amp;#128820;">Alchemical Symbol for Regulus-3</characterDefinition>
+            <characterDefinition character="&amp;#128821;">Alchemical Symbol for Regulus-4</characterDefinition>
+            <characterDefinition character="&amp;#128822;">Alchemical Symbol for Alkali-1</characterDefinition>
+            <characterDefinition character="&amp;#128823;">Alchemical Symbol for Alkali-2</characterDefinition>
+            <characterDefinition character="&amp;#128824;">Alchemical Symbol for Marcasite</characterDefinition>
+            <characterDefinition character="&amp;#128825;">Alchemical Symbol for Sal-ammoniac</characterDefinition>
+            <characterDefinition character="&amp;#128826;">Alchemical Symbol for Arsenic</characterDefinition>
+            <characterDefinition character="&amp;#128827;">Alchemical Symbol for Realgar-1</characterDefinition>
+            <characterDefinition character="&amp;#128828;">Alchemical Symbol for Realgar-2</characterDefinition>
+            <characterDefinition character="&amp;#128829;">Alchemical Symbol for Auripigment</characterDefinition>
+            <characterDefinition character="&amp;#128830;">Alchemical Symbol for Bismuth ore</characterDefinition>
+            <characterDefinition character="&amp;#128831;">Alchemical Symbol for Tartar-1</characterDefinition>
+            <characterDefinition character="&amp;#128832;">Alchemical Symbol for Tartar-2</characterDefinition>
+            <characterDefinition character="&amp;#128833;">Alchemical Symbol for Quick Lime</characterDefinition>
+            <characterDefinition character="&amp;#128834;">Alchemical Symbol for Borax-1</characterDefinition>
+            <characterDefinition character="&amp;#128835;">Alchemical Symbol for Borax-2</characterDefinition>
+            <characterDefinition character="&amp;#128836;">Alchemical Symbol for Borax-3</characterDefinition>
+            <characterDefinition character="&amp;#128837;">Alchemical Symbol for Alum</characterDefinition>
+            <characterDefinition character="&amp;#128838;">Alchemical Symbol for Oil</characterDefinition>
+            <characterDefinition character="&amp;#128839;">Alchemical Symbol for Spirit</characterDefinition>
+            <characterDefinition character="&amp;#128840;">Alchemical Symbol for Tincture</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#128841;">Alchemical Symbol for Gum</characterDefinition>
+            <characterDefinition character="&amp;#128842;">Alchemical Symbol for Wax</characterDefinition>
+            <characterDefinition character="&amp;#128843;">Alchemical Symbol for Powder</characterDefinition>
+            <characterDefinition character="&amp;#128844;">Alchemical Symbol for Calx</characterDefinition>
+            <characterDefinition character="&amp;#128845;">Alchemical Symbol for Tutty</characterDefinition>
+            <characterDefinition character="&amp;#128846;">Alchemical Symbol for Caput Mortuum</characterDefinition>
+            <characterDefinition character="&amp;#128847;">Alchemical Symbol for Scepter of Jove</characterDefinition>
+            <characterDefinition character="&amp;#128848;">Alchemical Symbol for Caduceus</characterDefinition>
+            <characterDefinition character="&amp;#128849;">Alchemical Symbol for Trident</characterDefinition>
+            <characterDefinition character="&amp;#128850;">Alchemical Symbol for Starred Trident</characterDefinition>
+            <characterDefinition character="&amp;#128851;">Alchemical Symbol for Lodestone</characterDefinition>
+            <characterDefinition character="&amp;#128852;">Alchemical Symbol for Soap</characterDefinition>
+            <characterDefinition character="&amp;#128853;">Alchemical Symbol for Urine</characterDefinition>
+            <characterDefinition character="&amp;#128854;">Alchemical Symbol for Horse Dung</characterDefinition>
+            <characterDefinition character="&amp;#128855;">Alchemical Symbol for Ashes</characterDefinition>
+            <characterDefinition character="&amp;#128856;">Alchemical Symbol for Pot Ashes</characterDefinition>
+            <characterDefinition character="&amp;#128857;">Alchemical Symbol for Brick</characterDefinition>
+            <characterDefinition character="&amp;#128858;">Alchemical Symbol for Powdered Brick</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+    <characterSubset name="Processes" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#128859;">Alchemical Symbol for Amalgam</characterDefinition>
+            <characterDefinition character="&amp;#128860;">Alchemical Symbol for Stratum Super Stratum-1</characterDefinition>
+            <characterDefinition character="&amp;#128861;">Alchemical Symbol for Stratum Super Stratum-2</characterDefinition>
+            <characterDefinition character="&amp;#128862;">Alchemical Symbol for Sublimation</characterDefinition>
+            <characterDefinition character="&amp;#128863;">Alchemical Symbol for Precipitate</characterDefinition>
+            <characterDefinition character="&amp;#128864;">Alchemical Symbol for Distill</characterDefinition>
+            <characterDefinition character="&amp;#128865;">Alchemical Symbol for Dissolve-1</characterDefinition>
+            <characterDefinition character="&amp;#128866;">Alchemical Symbol for Dissolve-2</characterDefinition>
+            <characterDefinition character="&amp;#128867;">Alchemical Symbol for Purify</characterDefinition>
+            <characterDefinition character="&amp;#128868;">Alchemical Symbol for Putrefaction</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+    <characterSubset name="Equipment" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#128869;">Alchemical Symbol for Crucible-1</characterDefinition>
+            <characterDefinition character="&amp;#128870;">Alchemical Symbol for Crucible-2</characterDefinition>
+            <characterDefinition character="&amp;#128871;">Alchemical Symbol for Crucible-3</characterDefinition>
+            <characterDefinition character="&amp;#128872;">Alchemical Symbol for Crucible-4</characterDefinition>
+            <characterDefinition character="&amp;#128873;">Alchemical Symbol for Crucible-5</characterDefinition>
+            <characterDefinition character="&amp;#128874;">Alchemical Symbol for Alembic</characterDefinition>
+            <characterDefinition character="&amp;#128875;">Alchemical Symbol for Bath of Mary</characterDefinition>
+            <characterDefinition character="&amp;#128876;">Alchemical Symbol for Bath of Vapours</characterDefinition>
+            <characterDefinition character="&amp;#128877;">Alchemical Symbol for Retort</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+    <characterSubset name="Duration" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#128878;">Alchemical Symbol for Hour</characterDefinition>
+            <characterDefinition character="&amp;#128879;">Alchemical Symbol for Night</characterDefinition>
+            <characterDefinition character="&amp;#128880;">Alchemical Symbol for Day-night</characterDefinition>
+            <characterDefinition character="&amp;#128881;">Alchemical Symbol for Month</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+    <characterSubset name="Amount" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#128882;">Alchemical Symbol for Half Dram</characterDefinition>
+            <characterDefinition character="&amp;#128883;">Alchemical Symbol for Half Ounce</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+</characterSet>

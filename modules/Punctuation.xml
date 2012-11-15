@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Version 1.0 by Terry O'Brien -->
+<!-- Commented subgroups do not show any characters -->
+<characterSet name="Punctuation" type="Literary" description="Punctuation Symbols" >
+
+    <characterSubset name="Symbols" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#38;">Ampersand</characterDefinition>
+            <characterDefinition character="&amp;#39;">Apostrophe</characterDefinition>
+            <characterDefinition character="&amp;#34;">Double Notes</characterDefinition>
+            <characterDefinition character="&amp;#171;">Left Double Angle Quotes</characterDefinition>
+            <characterDefinition character="&amp;#187;">Right Double Angle Quotes</characterDefinition>
+            <characterDefinition character="&amp;#223;">Sharp s / ess-zed</characterDefinition>
+            <characterDefinition character="&amp;#183;">Middle Dot</characterDefinition>
+            <characterDefinition character="&amp;#167;">Subsection Symbol</characterDefinition>
+            <characterDefinition character="&amp;#191;">Inverted Question Mark</characterDefinition>
+            <characterDefinition character="&amp;#161;">Inverted Exclamation Mark</characterDefinition>
+            <characterDefinition character="&amp;#8224;">Dagger</characterDefinition>
+            <characterDefinition character="&amp;#8225;">Double Dagger</characterDefinition>
+            <characterDefinition character="&amp;#8226;">Bullet</characterDefinition>
+            <characterDefinition character="&amp;#8227;">Triangular Bullet</characterDefinition>
+            <characterDefinition character="&amp;#8228;">One Dot Leader</characterDefinition>
+            <characterDefinition character="&amp;#8229;">Two Dot Leader</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#8230;">Horizontal Ellipsis</characterDefinition>
+            <characterDefinition character="&amp;#8231;">Hyphenation Point</characterDefinition>
+            <characterDefinition character="&amp;#8232;">Line Separator</characterDefinition>
+            <characterDefinition character="&amp;#8233;">Paragraph Separator</characterDefinition>
+            <characterDefinition character="&amp;#8239;">Narrow Non-break Space</characterDefinition>
+            <characterDefinition character="&amp;#8240;">Per Mille Sign</characterDefinition>
+            <characterDefinition character="&amp;#8241;">Per Ten Thousand Sign</characterDefinition>
+            <characterDefinition character="&amp;#8248;">Caret</characterDefinition>
+            <characterDefinition character="&amp;#8251;">Reference Mark</characterDefinition>
+            <characterDefinition character="&amp;#8252;">Double Exclamation Mark</characterDefinition>
+            <characterDefinition character="&amp;#8253;">Interrobang</characterDefinition>
+            <characterDefinition character="&amp;#8254;">Overline</characterDefinition>
+            <characterDefinition character="&amp;#8255;">Undertie</characterDefinition>
+            <characterDefinition character="&amp;#8256;">Character Tie</characterDefinition>
+            <characterDefinition character="&amp;#8257;">Caret Insertion Point</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#8258;">Asterism</characterDefinition>
+            <characterDefinition character="&amp;#8259;">Hyphen Bullet</characterDefinition>
+            <characterDefinition character="&amp;#8260;">Fraction Slash</characterDefinition>
+            <characterDefinition character="&amp;#8261;">Left Square Bracket with Quill</characterDefinition>
+            <characterDefinition character="&amp;#8262;">Right Square Bracket with Quill</characterDefinition>
+            <characterDefinition character="&amp;#8263;">Double Question Mark</characterDefinition>
+            <characterDefinition character="&amp;#8264;">Question Exclamation Mark</characterDefinition>
+            <characterDefinition character="&amp;#8265;">Exclamation Question Mark</characterDefinition>
+            <characterDefinition character="&amp;#8266;">Tironian Sign Et</characterDefinition>
+            <characterDefinition character="&amp;#8267;">Reversed Pilcrow Sign</characterDefinition>
+            <characterDefinition character="&amp;#8268;">Black Leftwards Bullet</characterDefinition>
+            <characterDefinition character="&amp;#8269;">Black Rightwards Bullet</characterDefinition>
+            <characterDefinition character="&amp;#8270;">Low Asterisk</characterDefinition>
+            <characterDefinition character="&amp;#8271;">Reversed Semicolon</characterDefinition>
+            <characterDefinition character="&amp;#8272;">Close Up</characterDefinition>
+            <characterDefinition character="&amp;#8273;">Two Asterisks Aligned Vertically</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#8274;">Commercial Minus Sign</characterDefinition>
+            <characterDefinition character="&amp;#8275;">Swung Dash</characterDefinition>
+            <characterDefinition character="&amp;#8276;">Inverted Undertie</characterDefinition>
+            <characterDefinition character="&amp;#8277;">Flower Punctuation Mark</characterDefinition>
+            <characterDefinition character="&amp;#8278;">Three Dot Punctuation</characterDefinition>
+            <characterDefinition character="&amp;#8279;">Quadruple Prime</characterDefinition>
+            <characterDefinition character="&amp;#8280;">Four Dot Punctuation</characterDefinition>
+            <characterDefinition character="&amp;#8281;">Five Dot Punctuation</characterDefinition>
+            <characterDefinition character="&amp;#8282;">Two Dot Punctuation</characterDefinition>
+            <characterDefinition character="&amp;#8283;">four Dot Mark</characterDefinition>
+            <characterDefinition character="&amp;#8284;">Dotted Cross</characterDefinition>
+            <characterDefinition character="&amp;#8285;">Tricolon</characterDefinition>
+            <characterDefinition character="&amp;#8286;">Vertical Four Dots</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+    <!--
+    <characterSubset name="Control Symbols" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#8234;">Left-to-Right Embedding</characterDefinition>
+            <characterDefinition character="&amp;#8235;">Right-to-Left Embedding</characterDefinition>
+            <characterDefinition character="&amp;#8236;">Pop Directional Formatting</characterDefinition>
+            <characterDefinition character="&amp;#8237;">Left-to-Right Override</characterDefinition>
+            <characterDefinition character="&amp;#8238;">Right-to-Left Override</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#8287;">Medium Mathematical Space</characterDefinition>
+            <characterDefinition character="&amp;#8288;">Word Joiner</characterDefinition>
+            <characterDefinition character="&amp;#8289;">Function Application</characterDefinition>
+            <characterDefinition character="&amp;#8290;">Invisible Multiplication</characterDefinition>
+            <characterDefinition character="&amp;#8291;">Invisible Separator</characterDefinition>
+            <characterDefinition character="&amp;#8292;">Invisible Plus</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#8298;">Inhibit Symmetric Swapping</characterDefinition>
+            <characterDefinition character="&amp;#8299;">Activate Symmetric Swapping</characterDefinition>
+            <characterDefinition character="&amp;#8300;">Inhibit Arabic Form Shaping</characterDefinition>
+            <characterDefinition character="&amp;#8301;">Activate Arabic Form Shaping</characterDefinition>
+            <characterDefinition character="&amp;#8302;">National Digit Shapes</characterDefinition>
+            <characterDefinition character="&amp;#8303;">Nominal Digit Shapes</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+    -->
+    <!--
+    <characterSubset name="Spacing" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#8192;">En Quad</characterDefinition>
+            <characterDefinition character="&amp;#8193;">Em Quad</characterDefinition>
+            <characterDefinition character="&amp;#8194;">En Space</characterDefinition>
+            <characterDefinition character="&amp;#8195;">Em Space</characterDefinition>
+            <characterDefinition character="&amp;#8196;">Three-per-em Space</characterDefinition>
+            <characterDefinition character="&amp;#8197;">Four-per-em Space</characterDefinition>
+            <characterDefinition character="&amp;#8198;">Six-per-em Space</characterDefinition>
+            <characterDefinition character="&amp;#8199;">Figure Space</characterDefinition>
+            <characterDefinition character="&amp;#8200;">Punctuation Space</characterDefinition>
+            <characterDefinition character="&amp;#8201;">Thin Space</characterDefinition>
+            <characterDefinition character="&amp;#8202;">Hair Space</characterDefinition>
+            <characterDefinition character="&amp;#8203;">Zero Width Space</characterDefinition>
+            <characterDefinition character="&amp;#8204;">Zero Width Non-Joiner</characterDefinition>
+            <characterDefinition character="&amp;#8205;">Zero Width Joiner</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+    -->
+    <characterSubset name="Marks" >
+    <!--
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#8206;">Left-to-Right Mark</characterDefinition>
+            <characterDefinition character="&amp;#8207;">Right-to-Left Mark</characterDefinition>
+        </characterSubsetArray>
+    -->
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#8208;">Hyphen</characterDefinition>
+            <characterDefinition character="&amp;#8209;">Non-breaking Hyphen</characterDefinition>
+            <characterDefinition character="&amp;#8210;">Figure Dash</characterDefinition>
+            <characterDefinition character="&amp;#8211;">En Dash</characterDefinition>
+            <characterDefinition character="&amp;#8212;">Em Dash</characterDefinition>
+            <characterDefinition character="&amp;#8213;">Horizontal Bar</characterDefinition>
+            <characterDefinition character="&amp;#8214;">Double Vertical Line</characterDefinition>
+            <characterDefinition character="&amp;#8215;">Double Low Line</characterDefinition>
+            <characterDefinition character="&amp;#8249;">Single Left-Pointing Angle Quotation Mark</characterDefinition>
+            <characterDefinition character="&amp;#8250;">Single Right-Pointing Angle Quotation Mark</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+    <characterSubset name="Quotes" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#8216;">Left Single Quote Mark</characterDefinition>
+            <characterDefinition character="&amp;#8217;">Right Single Quote Mark</characterDefinition>
+            <characterDefinition character="&amp;#8218;">Single Low-9 Quotation Mark</characterDefinition>
+            <characterDefinition character="&amp;#8219;">Single High-Reversed-9 Quotation Mark</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#8220;">Left Double Quotation Mark</characterDefinition>
+            <characterDefinition character="&amp;#8221;">Right Double Quotation Mark</characterDefinition>
+            <characterDefinition character="&amp;#8222;">Double Low-9 Quotation Mark</characterDefinition>
+            <characterDefinition character="&amp;#8223;">Double High-Reversed-9 Quotation Mark</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+    <characterSubset name="Annotation" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#12688;">Linking Mark</characterDefinition>
+            <characterDefinition character="&amp;#12689;">Reverse Mark</characterDefinition>
+            <characterDefinition character="&amp;#12690;">One Mark</characterDefinition>
+            <characterDefinition character="&amp;#12691;">Two Mark</characterDefinition>
+            <characterDefinition character="&amp;#12692;">Three Mark</characterDefinition>
+            <characterDefinition character="&amp;#12693;">Four Mark</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#12694;">Top Mark</characterDefinition>
+            <characterDefinition character="&amp;#12695;">Middle Mark</characterDefinition>
+            <characterDefinition character="&amp;#12696;">Bottom Mark</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#12697;">First Mark</characterDefinition>
+            <characterDefinition character="&amp;#12698;">Second Mark</characterDefinition>
+            <characterDefinition character="&amp;#12699;">Third Mark</characterDefinition>
+            <characterDefinition character="&amp;#12700;">Fourth Mark</characterDefinition>
+            <characterDefinition character="&amp;#12701;">Heaven Mark</characterDefinition>
+            <characterDefinition character="&amp;#12702;">Earth Mark</characterDefinition>
+            <characterDefinition character="&amp;#12703;">Man Mark</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+</characterSet>
