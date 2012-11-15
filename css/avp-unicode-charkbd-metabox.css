@@ -1,0 +1,14 @@
+a.avp-meta-box-control
+{
+    text-align: justify;
+    text-decoration: none;
+}
+div.avp-meta-box
+{
+    text-align: center; 
+}
+span.avp-meta-box-label
+{
+    font-style: italic;
+    font-weight: bold; 
+}
