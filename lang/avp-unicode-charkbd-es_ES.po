@@ -1,0 +1,420 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Unicode Characters Keyboard v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2012-11-09 04:30:26+0000\n"
+"Last-Translator: admin <test@test.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: Spanish\n"
+"X-Poedit-Country: SPAIN\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: avp-unicode-charkbd.php:317
+#: avp-unicode-charkbd.php:337
+#: avp-unicode-charkbd.php:367
+#: avp-unicode-charkbd.php:725
+#@ avp-unicode-charkbd
+msgid "Settings"
+msgstr "Ajustes"
+
+#: avp-unicode-charkbd.php:318
+#@ avp-unicode-charkbd
+msgid "Home"
+msgstr "Casa"
+
+#: avp-unicode-charkbd.php:332
+#@ avp-unicode-charkbd
+msgid "Unicode Keyboard"
+msgstr "Teclado Unicode"
+
+#: avp-unicode-charkbd.php:338
+#: avp-unicode-charkbd.php:679
+#@ avp-unicode-charkbd
+msgid "Manage Files"
+msgstr "Administrar Archivos"
+
+#: avp-unicode-charkbd.php:339
+#: avp-unicode-charkbd.php:973
+#@ avp-unicode-charkbd
+msgid "Display Keyboards"
+msgstr "Mostrar Teclados"
+
+#: avp-unicode-charkbd.php:340
+#: avp-unicode-charkbd.php:1048
+#: avp-unicode-charkbd.php:1064
+#@ avp-unicode-charkbd
+msgid "Customize"
+msgstr "Personalizar"
+
+#: avp-unicode-charkbd.php:1253
+#@ avp-unicode-charkbd
+msgid "Close"
+msgstr "Cerrar"
+
+#: avp-unicode-charkbd.php:1313
+#@ avp-unicode-charkbd
+msgid "Help"
+msgstr "Ayuda"
+
+#: avp-unicode-charkbd.php:425
+#: avp-unicode-charkbd.php:750
+#@ avp-unicode-charkbd
+msgid "Character set"
+msgid_plural "Character sets"
+msgstr[0] "Conjunto de caracteres"
+msgstr[1] "Conjuntos de caracteres"
+
+#: avp-unicode-charkbd.php:455
+#@ avp-unicode-charkbd
+msgid "activated"
+msgstr "activado"
+
+#: avp-unicode-charkbd.php:377
+#: avp-unicode-charkbd.php:486
+#: avp-unicode-charkbd.php:691
+#: avp-unicode-charkbd.php:741
+#: avp-unicode-charkbd.php:796
+#@ avp-unicode-charkbd
+msgid "Security check"
+msgstr "Revisión de seguridad"
+
+#: avp-unicode-charkbd.php:1268
+#@ avp-unicode-charkbd
+msgid "Click to change display to"
+msgstr "Haga clic para cambiar la pantalla a"
+
+#: avp-unicode-charkbd.php:1048
+#@ avp-unicode-charkbd
+msgid "File Elements"
+msgstr "Elementos del archivo"
+
+#: avp-unicode-charkbd.php:1048
+#@ avp-unicode-charkbd
+msgid "Set Elements"
+msgstr "Establecer los elementos"
+
+#: avp-unicode-charkbd.php:1048
+#@ avp-unicode-charkbd
+msgid "Subset Elements"
+msgstr "Elementos del subconjunto"
+
+#: avp-unicode-charkbd.php:1048
+#@ avp-unicode-charkbd
+msgid "File Template"
+msgstr "Archivo de plantilla"
+
+#: avp-unicode-charkbd.php:1048
+#@ avp-unicode-charkbd
+msgid "File Sample"
+msgstr "Ejemplo de archivo"
+
+#: avp-unicode-charkbd.php:1048
+#@ avp-unicode-charkbd
+msgid "References"
+msgstr "Referencias"
+
+#: avp-unicode-charkbd.php:390
+#: avp-unicode-charkbd.php:418
+#: avp-unicode-charkbd.php:473
+#@ avp-unicode-charkbd
+msgid "Options saved."
+msgstr "Opciones de guardado."
+
+#: avp-unicode-charkbd.php:390
+#@ avp-unicode-charkbd
+msgid "Warning: all character sets deactivated, must have one character set activated; Common set activated by default."
+msgstr "Advertencia: Todos los juegos de caracteres desactivado, debe tener un conjunto de caracteres activada; conjunto Common activado de forma predeterminada."
+
+#: avp-unicode-charkbd.php:418
+#@ avp-unicode-charkbd
+msgid "Warning: no character sets activated or deactivated."
+msgstr "Advertencia: no juegos de caracteres activada o desactivada."
+
+#: avp-unicode-charkbd.php:495
+#@ avp-unicode-charkbd
+msgid "Options initialized."
+msgstr "Opciones inicializado"
+
+#: avp-unicode-charkbd.php:495
+#@ avp-unicode-charkbd
+msgid "Common set activated, all other sets deactivated."
+msgstr "Conjunto Common activado, todos los otros conjuntos desactivado."
+
+#: avp-unicode-charkbd.php:529
+#@ avp-unicode-charkbd
+msgid "Font"
+msgstr "Fuente"
+
+#: avp-unicode-charkbd.php:529
+#@ avp-unicode-charkbd
+msgid "Font Description"
+msgstr "Descripción de la fuente"
+
+#: avp-unicode-charkbd.php:664
+#: avp-unicode-charkbd.php:831
+#@ avp-unicode-charkbd
+msgid "Uploading File"
+msgstr "Carga de archivos"
+
+#: avp-unicode-charkbd.php:664
+#: avp-unicode-charkbd.php:857
+#@ avp-unicode-charkbd
+msgid "Deleting File"
+msgstr "Eliminación de archivos"
+
+#: avp-unicode-charkbd.php:664
+#: avp-unicode-charkbd.php:916
+#@ avp-unicode-charkbd
+msgid "Error Reporting"
+msgstr "Informe de errores"
+
+#: avp-unicode-charkbd.php:699
+#, php-format
+#@ avp-unicode-charkbd
+msgid "Error: file %s upload error %s."
+msgstr "Error al cargar archivo %s de error %s."
+
+#: avp-unicode-charkbd.php:699
+#@ avp-unicode-charkbd
+msgid "Specified file not uploaded."
+msgstr "El archivo especificado no cargado."
+
+#: avp-unicode-charkbd.php:704
+#: avp-unicode-charkbd.php:709
+#: avp-unicode-charkbd.php:719
+#, php-format
+#@ avp-unicode-charkbd
+msgid "Error: file %s upload error."
+msgstr "Error: El archivo %s no se cargan"
+
+#: avp-unicode-charkbd.php:704
+#@ avp-unicode-charkbd
+msgid "File type invalid, must be \"text/xml\"."
+msgstr "Tipo de archivo no válida, debe estar \"text/xml\"."
+
+#: avp-unicode-charkbd.php:709
+#@ avp-unicode-charkbd
+msgid "File contents invalid, check error log for details."
+msgstr "Contenido del archivo no válidos, compruebe el registro de errores para obtener más información."
+
+#: avp-unicode-charkbd.php:719
+#@ avp-unicode-charkbd
+msgid "File not copied into module directory."
+msgstr "Archivo no copian en el directorio del módulo."
+
+#: avp-unicode-charkbd.php:725
+#, php-format
+#@ avp-unicode-charkbd
+msgid "Success: file %s uploaded."
+msgstr "Éxito: archivo %s cargado."
+
+#: avp-unicode-charkbd.php:746
+#@ avp-unicode-charkbd
+msgid "Error: no character set selected for delection."
+msgstr "Error: no juego de caracteres seleccionado por deleción."
+
+#: avp-unicode-charkbd.php:443
+#: avp-unicode-charkbd.php:778
+#: avp-unicode-charkbd.php:1760
+#@ avp-unicode-charkbd
+msgid "and"
+msgstr "y"
+
+#: avp-unicode-charkbd.php:782
+#@ avp-unicode-charkbd
+msgid "deleted."
+msgstr "suprimido."
+
+#: avp-unicode-charkbd.php:805
+#@ avp-unicode-charkbd
+msgid "File not deleted: unknown error on deletion."
+msgstr "Archivo no eliminado: error desconocido en la eliminación."
+
+#: avp-unicode-charkbd.php:809
+#@ avp-unicode-charkbd
+msgid "File deleted."
+msgstr "Archivo eliminado."
+
+#: avp-unicode-charkbd.php:870
+#@ avp-unicode-charkbd
+msgid "Character Set"
+msgstr "Juego de caracteres"
+
+#: avp-unicode-charkbd.php:871
+#@ avp-unicode-charkbd
+msgid "Character Set Group"
+msgstr "Carácter grupo conjunto"
+
+#: avp-unicode-charkbd.php:872
+#@ avp-unicode-charkbd
+msgid "Character Set Description"
+msgstr "Caracterización conjunto"
+
+#: avp-unicode-charkbd.php:922
+#@ avp-unicode-charkbd
+msgid "Error log file empty, unable to display."
+msgstr "Error del archivo de registro vacío, incapaz de mostrar."
+
+#: avp-unicode-charkbd.php:977
+#@ avp-unicode-charkbd
+msgid "Activated character definition sets are initially displayed, deactivated sets are not displayed; click on the header bar to toggle display."
+msgstr "Activado conjuntos de definición de caracteres se muestra inicialmente, los conjuntos desactivados no se muestran, haga clic en la barra de encabezado para cambiar de pantalla."
+
+#: avp-unicode-charkbd.php:1073
+#@ avp-unicode-charkbd
+msgid "Customize Unicode Sets"
+msgstr "Personaliza Juegos Unicode"
+
+#: avp-unicode-charkbd.php:1087
+#@ avp-unicode-charkbd
+msgid "Character Set File Elements"
+msgstr "Personajes Elementos conjunto de archivos"
+
+#: avp-unicode-charkbd.php:1103
+#@ avp-unicode-charkbd
+msgid "Character Set Elements"
+msgstr "Elementos de juego de caracteres"
+
+#: avp-unicode-charkbd.php:1140
+#@ avp-unicode-charkbd
+msgid "Character Subset and Character Definition Elements"
+msgstr "Subconjunto de caracteres y elementos de Carácter Definición"
+
+#: avp-unicode-charkbd.php:1158
+#@ avp-unicode-charkbd
+msgid "Character Set Definition File Templates"
+msgstr "Juego de caracteres plantillas de definición de archivos"
+
+#: avp-unicode-charkbd.php:1179
+#@ avp-unicode-charkbd
+msgid "Character Set Definition File Sample"
+msgstr "Definición Conjunto de caracteres del archivo de muestra"
+
+#: avp-unicode-charkbd.php:1242
+#@ avp-unicode-charkbd
+msgid "Error: Common definition set not found."
+msgstr "Error: la definición Common no conjunto encontrado."
+
+#: avp-unicode-charkbd.php:1242
+#@ avp-unicode-charkbd
+msgid "The Common set is required for proper operation, please re-install the plugin to restore the definition set."
+msgstr "El conjunto común es necesaria para el funcionamiento correcto, vuelva a instalar el plugin para restaurar el conjunto de definición."
+
+#: avp-unicode-charkbd.php:1193
+#@ avp-unicode-charkbd
+msgid "Unicode References"
+msgstr "Referencias Unicode"
+
+#: avp-unicode-charkbd.php:526
+#@ avp-unicode-charkbd
+msgid "Toggle the overall display of any given set of special characters by checking or unchecking the approproate checkbox below."
+msgstr "Cambiar la visualización global de un determinado conjunto de caracteres especiales, marcando o desmarcando la casilla de verificación approproate abajo."
+
+#: avp-unicode-charkbd.php:560
+#@ avp-unicode-charkbd
+msgid "This character set contains the following subsets:"
+msgstr "Este conjunto de caracteres contiene los siguientes subconjuntos:"
+
+#: avp-unicode-charkbd.php:572
+#@ avp-unicode-charkbd
+msgid "Character set range:"
+msgstr "Carácter rango establecido:"
+
+#: avp-unicode-charkbd.php:585
+#@ avp-unicode-charkbd
+msgid "Recommended supplemental font(s) for this category:"
+msgstr "Recomendado fuente suplementaria en esta categoría:"
+
+#: avp-unicode-charkbd.php:613
+#@ avp-unicode-charkbd
+msgid "To save the character keyboard selections, click the \"Save\" button."
+msgstr "Para guardar las selecciones de caracteres en el teclado, haga clic en \"Save\" botón."
+
+#: avp-unicode-charkbd.php:617
+#@ avp-unicode-charkbd
+msgid "To reset all pending changes and return the selections to the current state, click the \"Reset\" button."
+msgstr "Para restablecer todos los cambios pendientes y devolver las selecciones a la situación actual, haga clic en \"Reset\" botón."
+
+#: avp-unicode-charkbd.php:621
+#@ avp-unicode-charkbd
+msgid "To reset the selections to the initial state, click the \"Initialize\" button."
+msgstr "Para restablecer las selecciones a su estado inicial, haga clic en la carpeta \"Initialize\" botón."
+
+#: avp-unicode-charkbd.php:833
+#@ avp-unicode-charkbd
+msgid "Note: the character set \"Common\" cannot be overwritten or overridden."
+msgstr "Nota: el juego de caracteres \"Common\" no se pueden sobrescribir o reemplazar."
+
+#: avp-unicode-charkbd.php:841
+#@ avp-unicode-charkbd
+msgid "To upload a file, enter the file name in the input box and click the \"Upload\" button."
+msgstr "Para cargar un archivo, introduzca el nombre del archivo en el cuadro de entrada y haga clic en el \"Upload\" botón."
+
+#: avp-unicode-charkbd.php:845
+#@ avp-unicode-charkbd
+msgid "Check here to display the line-by-line file processing report in the error log."
+msgstr "Marque aquí para ver el informe del archivo línea por línea de elaboración en el registro de errores."
+
+#: avp-unicode-charkbd.php:849
+#@ avp-unicode-charkbd
+msgid "Click here to clear the upload file selection."
+msgstr "Haga clic aquí para borrar la selección de carga de archivos."
+
+#: avp-unicode-charkbd.php:859
+#@ avp-unicode-charkbd
+msgid "Note: the character set \"Common\" cannot be deleted."
+msgstr "Nota: el juego de caracteres \"Common\" no se puede eliminar."
+
+#: avp-unicode-charkbd.php:902
+#@ avp-unicode-charkbd
+msgid "To delete a character set file, select the file to be deleted and click the \"Delete\" button."
+msgstr "Para eliminar un archivo de conjunto de caracteres, seleccione el archivo que desea eliminar y haga clic en el \"Delete\" botón."
+
+#: avp-unicode-charkbd.php:906
+#@ avp-unicode-charkbd
+msgid "To reset the selections, click the \"Reset\" button."
+msgstr "Para restablecer las selecciones, haga clic en el \"Reset\" botón."
+
+#: avp-unicode-charkbd.php:939
+#@ avp-unicode-charkbd
+msgid "To delete the error log file, click the \"Delete\" button."
+msgstr "Para eliminar el archivo de registro de errores, haga clic en el \"Delete\" botón."
+
+#: avp-unicode-charkbd.php:1299
+#, php-format
+#@ avp-unicode-charkbd
+msgid "Click to toggle the display of %s special characters"
+msgstr "Haga clic para alternar la visualización de los %s caracteres especiales"
+
+#: avp-unicode-charkbd.php:858
+#@ avp-unicode-charkbd
+msgid "Select the character set definition files to be deleted by checking the appropriate checkbox below and then clicking the \"Delete\" button."
+msgstr "Seleccione los archivos de definición del juego de caracteres que desea eliminar marcando la casilla correspondiente a continuación y haga clic en la carpeta \"Delete\" botón."
+
+#: avp-unicode-charkbd.php:469
+#@ avp-unicode-charkbd
+msgid "deactivated."
+msgstr "desactivado."
+
+#: avp-unicode-charkbd.php:725
+#, php-format
+#@ avp-unicode-charkbd
+msgid "You must now go to the <a href=\"admin.php?page=avp-unicode-charkbd-menu\">%s</a> page to activate the character set."
+msgstr "Ahora debe ir a la <a href=\"admin.php?page=avp-unicode-charkbd-menu\">%s</ a> para activar el juego de caracteres."
+
+#: avp-unicode-charkbd.php:832
+#, php-format
+#@ avp-unicode-charkbd
+msgid "Select a file on the local system to upload into the \"%s/Custom\" subdirectory. Files uploaded will then need to be activated on the Settings page."
+msgstr "Seleccione un archivo en el sistema local para cargar en el directorio \"%s/Custom\" subdirectorio. Archivos subidos continuación, tendrá que ser activado en la página Configuración."
+
