@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Version 1.0 by Terry O'Brien -->
+<characterSet name="Greek" type="Languages" description="Greek and Coptic Symbols" >
+
+    <characterSubset name="Upper Case" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#913;">Upper Case alpha</characterDefinition>
+            <characterDefinition character="&amp;#914;">Upper Case beta</characterDefinition>
+            <characterDefinition character="&amp;#915;">Upper Case gamma</characterDefinition>
+            <characterDefinition character="&amp;#916;">Upper Case delta</characterDefinition>
+            <characterDefinition character="&amp;#917;">Upper Case epsilon</characterDefinition>
+            <characterDefinition character="&amp;#918;">Upper Case zeta</characterDefinition>
+            <characterDefinition character="&amp;#919;">Upper Case eta</characterDefinition>
+            <characterDefinition character="&amp;#920;">Upper Case theta</characterDefinition>
+            <characterDefinition character="&amp;#921;">Upper Case iota</characterDefinition>
+            <characterDefinition character="&amp;#922;">Upper Case kappa</characterDefinition>
+            <characterDefinition character="&amp;#923;">Upper Case lambda</characterDefinition>
+            <characterDefinition character="&amp;#924;">Upper Case mu</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#925;">Upper Case nu</characterDefinition>
+            <characterDefinition character="&amp;#926;">Upper Case xi</characterDefinition>
+            <characterDefinition character="&amp;#927;">Upper Case omicron</characterDefinition>
+            <characterDefinition character="&amp;#928;">Upper Case pi</characterDefinition>
+            <characterDefinition character="&amp;#929;">Upper Case rho</characterDefinition>
+            <characterDefinition character="&amp;#931;">Upper Case sigma</characterDefinition>
+            <characterDefinition character="&amp;#932;">Upper Case tau</characterDefinition>
+            <characterDefinition character="&amp;#933;">Upper Case upsilon</characterDefinition>
+            <characterDefinition character="&amp;#934;">Upper Case phi</characterDefinition>
+            <characterDefinition character="&amp;#935;">Upper Case chi</characterDefinition>
+            <characterDefinition character="&amp;#936;">Upper Case psi</characterDefinition>
+            <characterDefinition character="&amp;#937;">Upper Case omega</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+    <characterSubset name="Lower Case" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#945;">Lower Case alpha</characterDefinition>
+            <characterDefinition character="&amp;#946;">Lower Case beta</characterDefinition>
+            <characterDefinition character="&amp;#947;">Lower Case gamma</characterDefinition>
+            <characterDefinition character="&amp;#948;">Lower Case delta</characterDefinition>
+            <characterDefinition character="&amp;#949;">Lower Case epsilon</characterDefinition>
+            <characterDefinition character="&amp;#950;">Lower Case zeta</characterDefinition>
+            <characterDefinition character="&amp;#951;">Lower Case eta</characterDefinition>
+            <characterDefinition character="&amp;#952;">Lower Case theta</characterDefinition>
+            <characterDefinition character="&amp;#953;">Lower Case iota</characterDefinition>
+            <characterDefinition character="&amp;#954;">Lower Case kappa</characterDefinition>
+            <characterDefinition character="&amp;#955;">Lower Case lambda</characterDefinition>
+            <characterDefinition character="&amp;#956;">Lower Case mu</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#957;">Lower Case nu</characterDefinition>
+            <characterDefinition character="&amp;#958;">Lower Case xi</characterDefinition>
+            <characterDefinition character="&amp;#959;">Lower Case omicron</characterDefinition>
+            <characterDefinition character="&amp;#960;">Lower Case pi</characterDefinition>
+            <characterDefinition character="&amp;#961;">Lower Case Rho</characterDefinition>
+            <characterDefinition character="&amp;#962;">Lower Case Final sigma</characterDefinition>
+            <characterDefinition character="&amp;#963;">Lower Case sigma</characterDefinition>
+            <characterDefinition character="&amp;#964;">Lower Case tau</characterDefinition>
+            <characterDefinition character="&amp;#965;">Lower Case upsilon</characterDefinition>
+            <characterDefinition character="&amp;#966;">Lower Case phi</characterDefinition>
+            <characterDefinition character="&amp;#967;">Lower Case chi</characterDefinition>
+            <characterDefinition character="&amp;#968;">Lower Case psi</characterDefinition>
+            <characterDefinition character="&amp;#969;">Lower Case omega</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+    <characterSubset name="Upper Case Tonos" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#902;">Upper Case alpha with Tonos</characterDefinition>
+            <characterDefinition character="&amp;#904;">Upper Case epsilon with Tonos</characterDefinition>
+            <characterDefinition character="&amp;#905;">Upper Case eta with Tonos</characterDefinition>
+            <characterDefinition character="&amp;#938;">Upper Case iota with Dialytika</characterDefinition>
+            <characterDefinition character="&amp;#906;">Upper Case iota with Tonos</characterDefinition>
+            <characterDefinition character="&amp;#908;">Upper Case omicron with Tonos</characterDefinition>
+            <characterDefinition character="&amp;#939;">Upper Case upsilon with Dialytika</characterDefinition>
+            <characterDefinition character="&amp;#910;">Upper Case upsilon with Tonos</characterDefinition>
+            <characterDefinition character="&amp;#911;">Upper Case omega with Tonos</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+    <characterSubset name="Lower Case Tonos" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#940;">Lower Case alpha with Tonos</characterDefinition>
+            <characterDefinition character="&amp;#941;">Lower Case epsilon with Tonos</characterDefinition>
+            <characterDefinition character="&amp;#942;">Lower Case eta with Tonos</characterDefinition>
+            <characterDefinition character="&amp;#970;">Lower Case iota with Dialytika</characterDefinition>
+            <characterDefinition character="&amp;#943;">Lower Case iota with Tonos</characterDefinition>
+            <characterDefinition character="&amp;#912;">Lower Case iota with Dialytika and Tonos</characterDefinition>
+            <characterDefinition character="&amp;#971;">Lower Case upsilon with Dialytika</characterDefinition>
+            <characterDefinition character="&amp;#972;">Lower Case omicron with Tonos</characterDefinition>
+            <characterDefinition character="&amp;#973;">Lower Case upsilon with Tonos</characterDefinition>
+            <characterDefinition character="&amp;#944;">Lower Case upsilon with Dialytika and Tonos</characterDefinition>
+            <characterDefinition character="&amp;#974;">Lower Case omega with Tonos</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+    <characterSubset name="Upper Case Lunate" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#1017;">Upper Case Lunate sigma Symbol</characterDefinition>
+            <characterDefinition character="&amp;#1021;">Upper Case Reversed Lunate sigma Symbol</characterDefinition>
+            <characterDefinition character="&amp;#1022;">Upper Case Dotted Lunate sigma Symbol</characterDefinition>
+            <characterDefinition character="&amp;#1023;">Upper Case Reversed Dotted Lunate sigma Symbol</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+    <characterSubset name="Lower Case Lunate" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#1013;">Lunate epsilon Symbol</characterDefinition>
+            <characterDefinition character="&amp;#1014;">Reversed Lunate epsilon Symbol</characterDefinition>
+            <characterDefinition character="&amp;#1010;">Lower Case Lunate sigma Symbol</characterDefinition>
+            <characterDefinition character="&amp;#891;">Lower Case Reversed Lunate sigma Symbol</characterDefinition>
+            <characterDefinition character="&amp;#892;">Lower Case Dotted Lunate sigma Symbol</characterDefinition>
+            <characterDefinition character="&amp;#893;">Lower Case Reversed Dotted Lunate sigma Symbol</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+    <characterSubset name="Miscellaneous Upper Case" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#880;">Upper Case Archaic heta</characterDefinition>
+            <characterDefinition character="&amp;#882;">Upper Case Archaic sampi</characterDefinition>
+            <characterDefinition character="&amp;#886;">Upper Case Pamphylian digamma</characterDefinition>
+            <characterDefinition character="&amp;#984;">Upper Case Archaic koppa</characterDefinition>
+            <characterDefinition character="&amp;#986;">Upper Case stigma</characterDefinition>
+            <characterDefinition character="&amp;#988;">Upper Case digamma</characterDefinition>
+            <characterDefinition character="&amp;#990;">Upper Case koppa</characterDefinition>
+            <characterDefinition character="&amp;#992;">Upper Case sampi</characterDefinition>
+            <characterDefinition character="&amp;#1015;">Upper Case sho</characterDefinition>
+            <characterDefinition character="&amp;#1018;">Upper Case san</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+    <characterSubset name="Miscellaneous Lower Case" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#881;">Lower Case Archaic heta</characterDefinition>
+            <characterDefinition character="&amp;#883;">Lower Case Archaic sampi</characterDefinition>
+            <characterDefinition character="&amp;#887;">Lower Case Pamphylian digamma</characterDefinition>
+            <characterDefinition character="&amp;#985;">Lower Case Archaic koppa</characterDefinition>
+            <characterDefinition character="&amp;#987;">Lower Case stigma</characterDefinition>
+            <characterDefinition character="&amp;#989;">Lower Case digamma</characterDefinition>
+            <characterDefinition character="&amp;#991;">Lower Case koppa</characterDefinition>
+            <characterDefinition character="&amp;#993;">Lower Case sampi</characterDefinition>
+            <characterDefinition character="&amp;#1016;">Lower Case sho</characterDefinition>
+            <characterDefinition character="&amp;#1019;">Lower Case san</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+    <characterSubset name="Miscellaneous Symbols" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#975;">Upper Case kai Symbol</characterDefinition>
+            <characterDefinition character="&amp;#976;">beta Symbol</characterDefinition>
+            <characterDefinition character="&amp;#1012;">Upper Case theta Symbol</characterDefinition>
+            <characterDefinition character="&amp;#977;">Lower Case theta Symbol</characterDefinition>
+            <characterDefinition character="&amp;#978;">upsilon with Hook Symbol</characterDefinition>
+            <characterDefinition character="&amp;#979;">upsilon, Acute Accent and Hook Symbol</characterDefinition>
+            <characterDefinition character="&amp;#980;">upsilon with Diaeresis and Hook Symbol</characterDefinition>
+            <characterDefinition character="&amp;#981;">phi Symbol</characterDefinition>
+            <characterDefinition character="&amp;#982;">pi Symbol</characterDefinition>
+            <characterDefinition character="&amp;#983;">kai Symbol</characterDefinition>
+            <characterDefinition character="&amp;#1008;">kappa Symbol</characterDefinition>
+            <characterDefinition character="&amp;#1009;">rho Symbol</characterDefinition>
+            <characterDefinition character="&amp;#1011;">Letter yot</characterDefinition>
+            <characterDefinition character="&amp;#1020;">rho with Stroke Symbol</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#890;">Ypogegrammeni</characterDefinition>
+            <characterDefinition character="&amp;#900;">Tonos</characterDefinition>
+            <characterDefinition character="&amp;#901;">Dialytika Tonos</characterDefinition>
+            <characterDefinition character="&amp;#903;">Ano Teleia</characterDefinition>
+            <characterDefinition character="&amp;#894;">Question Mark</characterDefinition>
+            <characterDefinition character="&amp;#884;">Numeral Sign</characterDefinition>
+            <characterDefinition character="&amp;#885;">Lower Numeral Sign</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+    <characterSubset name="Coptic Upper Case" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#994;">Upper Case Shei</characterDefinition>
+            <characterDefinition character="&amp;#996;">Upper Case Fei</characterDefinition>
+            <characterDefinition character="&amp;#998;">Upper Case Khei</characterDefinition>
+            <characterDefinition character="&amp;#1000;">Upper Case Hori</characterDefinition>
+            <characterDefinition character="&amp;#1002;">Upper Case Gangia</characterDefinition>
+            <characterDefinition character="&amp;#1004;">Upper Case Shima</characterDefinition>
+            <characterDefinition character="&amp;#1006;">Upper Case Dei</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+    <characterSubset name="Coptic Lower Case" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#995;">Lower Case shei</characterDefinition>
+            <characterDefinition character="&amp;#997;">Lower Case fei</characterDefinition>
+            <characterDefinition character="&amp;#999;">Lower Case khei</characterDefinition>
+            <characterDefinition character="&amp;#1001;">Lower Case hori</characterDefinition>
+            <characterDefinition character="&amp;#1003;">Lower Case gangia</characterDefinition>
+            <characterDefinition character="&amp;#1005;">Lower Case shima</characterDefinition>
+            <characterDefinition character="&amp;#1007;">Lower Case dei</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+</characterSet>

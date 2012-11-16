@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Version 1.0 by Terry O'Brien -->
+<characterSet name="Symbols" type="Symbols" description="Symbols" >
+
+    <characterSubset name="Legal Symbols" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#174;">Registered Trademark Symbol</characterDefinition>
+            <characterDefinition character="&amp;#169;">Copyright Symbol</characterDefinition>
+            <characterDefinition character="&amp;#8482;">Trademark Symbol</characterDefinition>
+            <characterDefinition character="&amp;#8471;">Sound Tecording Mark</characterDefinition>
+            <characterDefinition character="&amp;#8480;">Service Mark</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+    <characterSubset name="Typographic Symbols" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#182;">Paragraph Symbol</characterDefinition>
+            <characterDefinition character="&amp;#184;">Cedilla</characterDefinition>
+            <characterDefinition character="&amp;#8224;">Dagger</characterDefinition>
+            <characterDefinition character="&amp;#8225;">Double Dagger</characterDefinition>
+            <characterDefinition character="&amp;#9674;">Lozenge</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+    <characterSubset name="Recylcling Symbols" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#9842;">Universal Recylcing Symbol</characterDefinition>
+            <characterDefinition character="&amp;#9843;">Recylcing Symbol for Type-1 Plastics</characterDefinition>
+            <characterDefinition character="&amp;#9844;">Recylcing Symbol for Type-2 Plastics</characterDefinition>
+            <characterDefinition character="&amp;#9845;">Recylcing Symbol for Type-3 Plastics</characterDefinition>
+            <characterDefinition character="&amp;#9846;">Recylcing Symbol for Type-4 Plastics</characterDefinition>
+            <characterDefinition character="&amp;#9847;">Recylcing Symbol for Type-5 Plastics</characterDefinition>
+            <characterDefinition character="&amp;#9848;">Recylcing Symbol for Type-6 Plastics</characterDefinition>
+            <characterDefinition character="&amp;#9849;">Recylcing Symbol for Type-7 Plastics</characterDefinition>
+            <characterDefinition character="&amp;#9850;">Recylcing Symbol for Generic Materials</characterDefinition>
+            <characterDefinition character="&amp;#9851;">Black Universal Recylcing Symbol</characterDefinition>
+            <characterDefinition character="&amp;#9852;">Recycled Paper Symbol</characterDefinition>
+            <characterDefinition character="&amp;#9853;">Partially-Recycled Paper Symbol</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+    <characterSubset name="Miscellaneous Symbols" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#9773;">Hammer and Sickle</characterDefinition>
+            <characterDefinition character="&amp;#9774;">Peace Symbol</characterDefinition>
+            <characterDefinition character="&amp;#9883;">Atom Symbol</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+</characterSet>

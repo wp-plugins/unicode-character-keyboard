@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Version 1.0 by Terry O'Brien -->
+<characterSet name="Tifinagh" type="Languages" description="Tuareg" >
+    <characterSetRange>x02D30 - x02D7F</characterSetRange>
+
+    <characterSubset name="Alphabet" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#11568;">Tifinagh Letter YA</characterDefinition>
+            <characterDefinition character="&amp;#11569;">Tifinagh Letter YAB</characterDefinition>
+            <characterDefinition character="&amp;#11570;">Tifinagh Letter YABH</characterDefinition>
+            <characterDefinition character="&amp;#11571;">Tifinagh Letter YAG</characterDefinition>
+            <characterDefinition character="&amp;#11572;">Tifinagh Letter YAGHH</characterDefinition>
+            <characterDefinition character="&amp;#11574;">Tifinagh Letter YAJ</characterDefinition>
+            <characterDefinition character="&amp;#11575;">Tifinagh Letter YAD</characterDefinition>
+            <characterDefinition character="&amp;#11576;">Tifinagh Letter YADH</characterDefinition>
+            <characterDefinition character="&amp;#11577;">Tifinagh Letter YADD</characterDefinition>
+            <characterDefinition character="&amp;#11578;">Tifinagh Letter YADDH</characterDefinition>
+            <characterDefinition character="&amp;#11579;">Tifinagh Letter YEY</characterDefinition>
+            <characterDefinition character="&amp;#11580;">Tifinagh Letter YAF</characterDefinition>
+            <characterDefinition character="&amp;#11581;">Tifinagh Letter YAK</characterDefinition>
+            <characterDefinition character="&amp;#11583;">Tifinagh Letter YAKHH</characterDefinition>
+            <characterDefinition character="&amp;#11584;">Tifinagh Letter YAH</characterDefinition>
+            <characterDefinition character="&amp;#11587;">Tifinagh Letter YAHH</characterDefinition>
+            <characterDefinition character="&amp;#11588;">Tifinagh Letter YAA</characterDefinition>
+            <characterDefinition character="&amp;#11589;">Tifinagh Letter YAKH</characterDefinition>
+            <characterDefinition character="&amp;#11591;">Tifinagh Letter YAQ</characterDefinition>
+            <characterDefinition character="&amp;#11593;">Tifinagh Letter YI</characterDefinition>
+            <characterDefinition character="&amp;#11594;">Tifinagh Letter YAZH</characterDefinition>
+            <characterDefinition character="&amp;#11597;">Tifinagh Letter YAL</characterDefinition>
+            <characterDefinition character="&amp;#11598;">Tifinagh Letter YAM</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#11599;">Tifinagh Letter YAN</characterDefinition>
+            <characterDefinition character="&amp;#11602;">Tifinagh Letter YAP</characterDefinition>
+            <characterDefinition character="&amp;#11603;">Tifinagh Letter YU</characterDefinition>
+            <characterDefinition character="&amp;#11604;">Tifinagh Letter YAR</characterDefinition>
+            <characterDefinition character="&amp;#11605;">Tifinagh Letter YARR</characterDefinition>
+            <characterDefinition character="&amp;#11606;">Tifinagh Letter YAGH</characterDefinition>
+            <characterDefinition character="&amp;#11609;">Tifinagh Letter YAS</characterDefinition>
+            <characterDefinition character="&amp;#11610;">Tifinagh Letter YASS</characterDefinition>
+            <characterDefinition character="&amp;#11611;">Tifinagh Letter YASH</characterDefinition>
+            <characterDefinition character="&amp;#11612;">Tifinagh Letter YAT</characterDefinition>
+            <characterDefinition character="&amp;#11613;">Tifinagh Letter YATH</characterDefinition>
+            <characterDefinition character="&amp;#11614;">Tifinagh Letter YACH</characterDefinition>
+            <characterDefinition character="&amp;#11615;">Tifinagh Letter YATT</characterDefinition>
+            <characterDefinition character="&amp;#11616;">Tifinagh Letter YAV</characterDefinition>
+            <characterDefinition character="&amp;#11617;">Tifinagh Letter YAW</characterDefinition>
+            <characterDefinition character="&amp;#11618;">Tifinagh Letter YAY</characterDefinition>
+            <characterDefinition character="&amp;#11619;">Tifinagh Letter YAZ</characterDefinition>
+            <characterDefinition character="&amp;#11621;">Tifinagh Letter YAZZ</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+    <characterSubset name="Tuareg" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#11582;">Tifinagh Letter TUAREG YAK</characterDefinition>
+            <characterDefinition character="&amp;#11586;">Tifinagh Letter TUAREG YAH</characterDefinition>
+            <characterDefinition character="&amp;#11590;">Tifinagh Letter TUAREG YAKH</characterDefinition>
+            <characterDefinition character="&amp;#11592;">Tifinagh Letter TUAREG YAQ</characterDefinition>
+            <characterDefinition character="&amp;#11596;">Tifinagh Letter TUAREG YAZH</characterDefinition>
+            <characterDefinition character="&amp;#11600;">Tifinagh Letter TUAREG YAGN</characterDefinition>
+            <characterDefinition character="&amp;#11601;">Tifinagh Letter TUAREG YANG</characterDefinition>
+            <characterDefinition character="&amp;#11607;">Tifinagh Letter TUAREG YAGH</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+    <characterSubset name="Other" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#11573;">Tifinagh Letter BERBER ACADEMY YAJ</characterDefinition>
+            <characterDefinition character="&amp;#11585;">Tifinagh Letter BERBER ACADEMY YAH</characterDefinition>
+            <characterDefinition character="&amp;#11595;">Tifinagh Letter AHAGGAR YAZH</characterDefinition>
+            <characterDefinition character="&amp;#11608;">Tifinagh Letter AYER YAGH</characterDefinition>
+            <characterDefinition character="&amp;#11620;">Tifinagh Letter TAWELLEMET YAZ</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+    <characterSubset name="Miscellaneous" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#11631;">Tifinagh Modifier LETTER LABIALIZATION MARK</characterDefinition>
+            <characterDefinition character="&amp;#11632;">Tifinagh Separator MARK</characterDefinition>
+            <characterDefinition character="&amp;#11647;">Tifinagh Consonant JOINER</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+</characterSet>

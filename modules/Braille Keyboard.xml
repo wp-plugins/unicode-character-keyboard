@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Version 1.0 by Terry O'Brien -->
+<characterSet name="Braille Keyboard" type="Braille" description="Braille representations in typewriter keyboard format" >
+    <characterSetRange>x02800 - x028FF</characterSetRange>
+
+    <characterSubset name="Keyboard" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#10271;">Lower Case q</characterDefinition>
+            <characterDefinition character="&amp;#10298;">Lower Case w</characterDefinition>
+            <characterDefinition character="&amp;#10257;">Lower Case e</characterDefinition>
+            <characterDefinition character="&amp;#10263;">Lower Case r</characterDefinition>
+            <characterDefinition character="&amp;#10270;">Lower Case t</characterDefinition>
+            <characterDefinition character="&amp;#10301;">Lower Case y</characterDefinition>
+            <characterDefinition character="&amp;#10277;">Lower Case u</characterDefinition>
+            <characterDefinition character="&amp;#10250;">Lower Case i</characterDefinition>
+            <characterDefinition character="&amp;#10261;">Lower Case o</characterDefinition>
+            <characterDefinition character="&amp;#10255;">Lower Case p</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#10241;">Lower Case a</characterDefinition>
+            <characterDefinition character="&amp;#10254;">Lower Case s</characterDefinition>
+            <characterDefinition character="&amp;#10265;">Lower Case d</characterDefinition>
+            <characterDefinition character="&amp;#10251;">Lower Case f</characterDefinition>
+            <characterDefinition character="&amp;#10267;">Lower Case g</characterDefinition>
+            <characterDefinition character="&amp;#10259;">Lower Case h</characterDefinition>
+            <characterDefinition character="&amp;#10266;">Lower Case j</characterDefinition>
+            <characterDefinition character="&amp;#10245;">Lower Case k</characterDefinition>
+            <characterDefinition character="&amp;#10247;">Lower Case l</characterDefinition>
+            <characterDefinition character="&amp;#10246;">Symbol Semi-Colon</characterDefinition>
+            <characterDefinition character="&amp;#10244;">Symbol Apostrophe</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#10293;">Lower Case z</characterDefinition>
+            <characterDefinition character="&amp;#10285;">Lower Case x</characterDefinition>
+            <characterDefinition character="&amp;#10249;">Lower Case c</characterDefinition>
+            <characterDefinition character="&amp;#10279;">Lower Case v</characterDefinition>
+            <characterDefinition character="&amp;#10243;">Lower Case b</characterDefinition>
+            <characterDefinition character="&amp;#10269;">Lower Case n</characterDefinition>
+            <characterDefinition character="&amp;#10253;">Lower Case m</characterDefinition>
+            <characterDefinition character="&amp;#10242;">Symbol Comma</characterDefinition>
+            <characterDefinition character="&amp;#10290;">Symbol Period</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#10240;">Space</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+    <characterSubset name="Modifiers" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#10262;">Exclamation Point</characterDefinition>
+            <characterDefinition character="&amp;#10272;">Captial Letter Follows</characterDefinition>
+            <characterDefinition character="&amp;#10300;">Number Follows</characterDefinition>
+            <characterDefinition character="&amp;#10278;">Opening Quotation Mark / Question Mark</characterDefinition>
+            <characterDefinition character="&amp;#10292;">Closing Quotation Mark</characterDefinition>
+            <characterDefinition character="&amp;#10294;">Opening / Closing Bracket</characterDefinition>
+            <characterDefinition character="&amp;#10276;">Hyphen</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+    <characterSubset name="Contractioms" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#10287;">The word AND</characterDefinition>
+            <characterDefinition character="&amp;#10273;">The letters CH</characterDefinition>
+            <characterDefinition character="&amp;#10281;">The letters SH</characterDefinition>
+            <characterDefinition character="&amp;#10252;">The letters ST</characterDefinition>
+            <characterDefinition character="&amp;#10297;">The letters TH</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+</characterSet>

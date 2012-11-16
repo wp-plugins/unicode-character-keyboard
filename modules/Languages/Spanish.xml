@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Version 1.0 by Terry O'Brien -->
+<characterSet name="Spanish" type="Languages" description="Spanish Specific Characters" >
+    <characterSubset name="Upper Case Letters" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#193;">Upper Case A Acute</characterDefinition>
+            <characterDefinition character="&amp;#201;">Upper Case E Acute</characterDefinition>
+            <characterDefinition character="&amp;#205;">Upper Case I Acute</characterDefinition>
+            <characterDefinition character="&amp;#209;">Upper Case N Tilde</characterDefinition>
+            <characterDefinition character="&amp;#211;">Upper Case O Acute</characterDefinition>
+            <characterDefinition character="&amp;#218;">Upper Case U Acute</characterDefinition>
+            <characterDefinition character="&amp;#220;">Upper Case U Umlaut</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+    <characterSubset name="Lower Case Letters" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#225;">Lower Case A Acute</characterDefinition>
+            <characterDefinition character="&amp;#233;">Lower Case E Acute</characterDefinition>
+            <characterDefinition character="&amp;#237;">Lower Case I Acute</characterDefinition>
+            <characterDefinition character="&amp;#241;">Lower Case N Tilde</characterDefinition>
+            <characterDefinition character="&amp;#243;">Lower Case O Acute</characterDefinition>
+            <characterDefinition character="&amp;#250;">Lower Case U Acute</characterDefinition>
+            <characterDefinition character="&amp;#252;">Lower Case U Umlaut</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+    <characterSubset name="Miscellaneous Punctuation and Symbols" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#191;">Inverted Question Mark</characterDefinition>
+            <characterDefinition character="&amp;#161;">Inverted Exclamation Point</characterDefinition>
+            <characterDefinition character="&amp;#186;">Masculane Ordinal</characterDefinition>
+            <characterDefinition character="&amp;#170;">Feminine Ordinal</characterDefinition>
+            <characterDefinition character="&amp;#171;">Left Double Angle Quote</characterDefinition>
+            <characterDefinition character="&amp;#187;">Right Double Angle Quote</characterDefinition>
+            <characterDefinition character="&amp;#139;">Left Single Angle Quote</characterDefinition>
+            <characterDefinition character="&amp;#155;">Right Single Angle Quote</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+</characterSet>

@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Version 1.0 by Terry O'Brien -->
+<characterSet name="Braille" type="Braille" description="Braille Representations" >
+    <characterSetRange>x02800 - x028FF</characterSetRange>
+
+    <characterSubset name="Pattern Groups 0 - 4" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#10240;">Braille Pattern Blank</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#10241;">Braille Pattern Dots-1</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#10242;">Braille Pattern Dots-2</characterDefinition>
+            <characterDefinition character="&amp;#10243;">Braille Pattern Dots-12</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#10244;">Braille Pattern Dots-3</characterDefinition>
+            <characterDefinition character="&amp;#10245;">Braille Pattern Dots-13</characterDefinition>
+            <characterDefinition character="&amp;#10246;">Braille Pattern Dots-23</characterDefinition>
+            <characterDefinition character="&amp;#10247;">Braille Pattern Dots-123</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#10248;">Braille Pattern Dots-4</characterDefinition>
+            <characterDefinition character="&amp;#10249;">Braille Pattern Dots-14</characterDefinition>
+            <characterDefinition character="&amp;#10250;">Braille Pattern Dots-24</characterDefinition>
+            <characterDefinition character="&amp;#10251;">Braille Pattern Dots-124</characterDefinition>
+            <characterDefinition character="&amp;#10252;">Braille Pattern Dots-34</characterDefinition>
+            <characterDefinition character="&amp;#10253;">Braille Pattern Dots-134</characterDefinition>
+            <characterDefinition character="&amp;#10254;">Braille Pattern Dots-234</characterDefinition>
+            <characterDefinition character="&amp;#10255;">Braille Pattern Dots-1234</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+    <characterSubset name="Pattern Group 5" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#10256;">Braille Pattern Dots-5</characterDefinition>
+            <characterDefinition character="&amp;#10257;">Braille Pattern Dots-15</characterDefinition>
+            <characterDefinition character="&amp;#10258;">Braille Pattern Dots-25</characterDefinition>
+            <characterDefinition character="&amp;#10259;">Braille Pattern Dots-125</characterDefinition>
+            <characterDefinition character="&amp;#10260;">Braille Pattern Dots-35</characterDefinition>
+            <characterDefinition character="&amp;#10261;">Braille Pattern Dots-135</characterDefinition>
+            <characterDefinition character="&amp;#10262;">Braille Pattern Dots-235</characterDefinition>
+            <characterDefinition character="&amp;#10263;">Braille Pattern Dots-1235</characterDefinition>
+            <characterDefinition character="&amp;#10264;">Braille Pattern Dots-45</characterDefinition>
+            <characterDefinition character="&amp;#10265;">Braille Pattern Dots-145</characterDefinition>
+            <characterDefinition character="&amp;#10266;">Braille Pattern Dots-245</characterDefinition>
+            <characterDefinition character="&amp;#10267;">Braille Pattern Dots-1245</characterDefinition>
+            <characterDefinition character="&amp;#10268;">Braille Pattern Dots-345</characterDefinition>
+            <characterDefinition character="&amp;#10269;">Braille Pattern Dots-1345</characterDefinition>
+            <characterDefinition character="&amp;#10270;">Braille Pattern Dots-2345</characterDefinition>
+            <characterDefinition character="&amp;#10271;">Braille Pattern Dots-12345</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+    <characterSubset name="Pattern Group 6" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#10272;">Braille Pattern Dots-6</characterDefinition>
+            <characterDefinition character="&amp;#10273;">Braille Pattern Dots-16</characterDefinition>
+            <characterDefinition character="&amp;#10274;">Braille Pattern Dots-26</characterDefinition>
+            <characterDefinition character="&amp;#10275;">Braille Pattern Dots-126</characterDefinition>
+            <characterDefinition character="&amp;#10276;">Braille Pattern Dots-36</characterDefinition>
+            <characterDefinition character="&amp;#10277;">Braille Pattern Dots-136</characterDefinition>
+            <characterDefinition character="&amp;#10278;">Braille Pattern Dots-236</characterDefinition>
+            <characterDefinition character="&amp;#10279;">Braille Pattern Dots-1236</characterDefinition>
+            <characterDefinition character="&amp;#10280;">Braille Pattern Dots-46</characterDefinition>
+            <characterDefinition character="&amp;#10281;">Braille Pattern Dots-146</characterDefinition>
+            <characterDefinition character="&amp;#10282;">Braille Pattern Dots-246</characterDefinition>
+            <characterDefinition character="&amp;#10283;">Braille Pattern Dots-1246</characterDefinition>
+            <characterDefinition character="&amp;#10284;">Braille Pattern Dots-346</characterDefinition>
+            <characterDefinition character="&amp;#10285;">Braille Pattern Dots-1346</characterDefinition>
+            <characterDefinition character="&amp;#10286;">Braille Pattern Dots-2346</characterDefinition>
+            <characterDefinition character="&amp;#10287;">Braille Pattern Dots-12346</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#10288;">Braille Pattern Dots-56</characterDefinition>
+            <characterDefinition character="&amp;#10289;">Braille Pattern Dots-156</characterDefinition>
+            <characterDefinition character="&amp;#10290;">Braille Pattern Dots-256</characterDefinition>
+            <characterDefinition character="&amp;#10291;">Braille Pattern Dots-1256</characterDefinition>
+            <characterDefinition character="&amp;#10292;">Braille Pattern Dots-356</characterDefinition>
+            <characterDefinition character="&amp;#10293;">Braille Pattern Dots-1356</characterDefinition>
+            <characterDefinition character="&amp;#10294;">Braille Pattern Dots-2356</characterDefinition>
+            <characterDefinition character="&amp;#10295;">Braille Pattern Dots-12356</characterDefinition>
+            <characterDefinition character="&amp;#10296;">Braille Pattern Dots-456</characterDefinition>
+            <characterDefinition character="&amp;#10297;">Braille Pattern Dots-1456</characterDefinition>
+            <characterDefinition character="&amp;#10298;">Braille Pattern Dots-2456</characterDefinition>
+            <characterDefinition character="&amp;#10299;">Braille Pattern Dots-12456</characterDefinition>
+            <characterDefinition character="&amp;#10300;">Braille Pattern Dots-3456</characterDefinition>
+            <characterDefinition character="&amp;#10301;">Braille Pattern Dots-13456</characterDefinition>
+            <characterDefinition character="&amp;#10302;">Braille Pattern Dots-23456</characterDefinition>
+            <characterDefinition character="&amp;#10303;">Braille Pattern Dots-123456</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+    <characterSubset name="Pattern Group 7" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#10304;">Braille Pattern Dots-7</characterDefinition>
+            <characterDefinition character="&amp;#10305;">Braille Pattern Dots-17</characterDefinition>
+            <characterDefinition character="&amp;#10306;">Braille Pattern Dots-27</characterDefinition>
+            <characterDefinition character="&amp;#10307;">Braille Pattern Dots-127</characterDefinition>
+            <characterDefinition character="&amp;#10308;">Braille Pattern Dots-37</characterDefinition>
+            <characterDefinition character="&amp;#10309;">Braille Pattern Dots-137</characterDefinition>
+            <characterDefinition character="&amp;#10310;">Braille Pattern Dots-237</characterDefinition>
+            <characterDefinition character="&amp;#10311;">Braille Pattern Dots-1237</characterDefinition>
+            <characterDefinition character="&amp;#10312;">Braille Pattern Dots-47</characterDefinition>
+            <characterDefinition character="&amp;#10313;">Braille Pattern Dots-147</characterDefinition>
+            <characterDefinition character="&amp;#10314;">Braille Pattern Dots-247</characterDefinition>
+            <characterDefinition character="&amp;#10315;">Braille Pattern Dots-1247</characterDefinition>
+            <characterDefinition character="&amp;#10316;">Braille Pattern Dots-347</characterDefinition>
+            <characterDefinition character="&amp;#10317;">Braille Pattern Dots-1347</characterDefinition>
+            <characterDefinition character="&amp;#10318;">Braille Pattern Dots-2347</characterDefinition>
+            <characterDefinition character="&amp;#10319;">Braille Pattern Dots-12347</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#10320;">Braille Pattern Dots-57</characterDefinition>
+            <characterDefinition character="&amp;#10321;">Braille Pattern Dots-157</characterDefinition>
+            <characterDefinition character="&amp;#10322;">Braille Pattern Dots-257</characterDefinition>
+            <characterDefinition character="&amp;#10323;">Braille Pattern Dots-1257</characterDefinition>
+            <characterDefinition character="&amp;#10324;">Braille Pattern Dots-357</characterDefinition>
+            <characterDefinition character="&amp;#10325;">Braille Pattern Dots-1357</characterDefinition>
+            <characterDefinition character="&amp;#10326;">Braille Pattern Dots-2357</characterDefinition>
+            <characterDefinition character="&amp;#10327;">Braille Pattern Dots-12357</characterDefinition>
+            <characterDefinition character="&amp;#10328;">Braille Pattern Dots-457</characterDefinition>
+            <characterDefinition character="&amp;#10329;">Braille Pattern Dots-1457</characterDefinition>
+            <characterDefinition character="&amp;#10330;">Braille Pattern Dots-2457</characterDefinition>
+            <characterDefinition character="&amp;#10331;">Braille Pattern Dots-12457</characterDefinition>
+            <characterDefinition character="&amp;#10332;">Braille Pattern Dots-3457</characterDefinition>
+            <characterDefinition character="&amp;#10333;">Braille Pattern Dots-13457</characterDefinition>
+            <characterDefinition character="&amp;#10334;">Braille Pattern Dots-23457</characterDefinition>
+            <characterDefinition character="&amp;#10335;">Braille Pattern Dots-123457</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#10336;">Braille Pattern Dots-67</characterDefinition>
+            <characterDefinition character="&amp;#10337;">Braille Pattern Dots-167</characterDefinition>
+            <characterDefinition character="&amp;#10338;">Braille Pattern Dots-267</characterDefinition>
+            <characterDefinition character="&amp;#10339;">Braille Pattern Dots-1267</characterDefinition>
+            <characterDefinition character="&amp;#10340;">Braille Pattern Dots-367</characterDefinition>
+            <characterDefinition character="&amp;#10341;">Braille Pattern Dots-1367</characterDefinition>
+            <characterDefinition character="&amp;#10342;">Braille Pattern Dots-2367</characterDefinition>
+            <characterDefinition character="&amp;#10343;">Braille Pattern Dots-12367</characterDefinition>
+            <characterDefinition character="&amp;#10344;">Braille Pattern Dots-467</characterDefinition>
+            <characterDefinition character="&amp;#10345;">Braille Pattern Dots-1467</characterDefinition>
+            <characterDefinition character="&amp;#10346;">Braille Pattern Dots-2467</characterDefinition>
+            <characterDefinition character="&amp;#10347;">Braille Pattern Dots-12467</characterDefinition>
+            <characterDefinition character="&amp;#10348;">Braille Pattern Dots-3467</characterDefinition>
+            <characterDefinition character="&amp;#10349;">Braille Pattern Dots-13467</characterDefinition>
+            <characterDefinition character="&amp;#10350;">Braille Pattern Dots-23467</characterDefinition>
+            <characterDefinition character="&amp;#10351;">Braille Pattern Dots-123467</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#10352;">Braille Pattern Dots-567</characterDefinition>
+            <characterDefinition character="&amp;#10353;">Braille Pattern Dots-1567</characterDefinition>
+            <characterDefinition character="&amp;#10354;">Braille Pattern Dots-2567</characterDefinition>
+            <characterDefinition character="&amp;#10355;">Braille Pattern Dots-12567</characterDefinition>
+            <characterDefinition character="&amp;#10356;">Braille Pattern Dots-3567</characterDefinition>
+            <characterDefinition character="&amp;#10357;">Braille Pattern Dots-13567</characterDefinition>
+            <characterDefinition character="&amp;#10358;">Braille Pattern Dots-23567</characterDefinition>
+            <characterDefinition character="&amp;#10359;">Braille Pattern Dots-123567</characterDefinition>
+            <characterDefinition character="&amp;#10360;">Braille Pattern Dots-4567</characterDefinition>
+            <characterDefinition character="&amp;#10361;">Braille Pattern Dots-14567</characterDefinition>
+            <characterDefinition character="&amp;#10362;">Braille Pattern Dots-24567</characterDefinition>
+            <characterDefinition character="&amp;#10363;">Braille Pattern Dots-124567</characterDefinition>
+            <characterDefinition character="&amp;#10364;">Braille Pattern Dots-34567</characterDefinition>
+            <characterDefinition character="&amp;#10365;">Braille Pattern Dots-134567</characterDefinition>
+            <characterDefinition character="&amp;#10366;">Braille Pattern Dots-234567</characterDefinition>
+            <characterDefinition character="&amp;#10367;">Braille Pattern Dots-1234567</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+    <characterSubset name="Pattern Group 8" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#10368;">Braille Pattern Dots-8</characterDefinition>
+            <characterDefinition character="&amp;#10369;">Braille Pattern Dots-18</characterDefinition>
+            <characterDefinition character="&amp;#10370;">Braille Pattern Dots-28</characterDefinition>
+            <characterDefinition character="&amp;#10371;">Braille Pattern Dots-128</characterDefinition>
+            <characterDefinition character="&amp;#10372;">Braille Pattern Dots-38</characterDefinition>
+            <characterDefinition character="&amp;#10373;">Braille Pattern Dots-138</characterDefinition>
+            <characterDefinition character="&amp;#10374;">Braille Pattern Dots-238</characterDefinition>
+            <characterDefinition character="&amp;#10375;">Braille Pattern Dots-1238</characterDefinition>
+            <characterDefinition character="&amp;#10376;">Braille Pattern Dots-48</characterDefinition>
+            <characterDefinition character="&amp;#10377;">Braille Pattern Dots-148</characterDefinition>
+            <characterDefinition character="&amp;#10378;">Braille Pattern Dots-248</characterDefinition>
+            <characterDefinition character="&amp;#10379;">Braille Pattern Dots-1248</characterDefinition>
+            <characterDefinition character="&amp;#10380;">Braille Pattern Dots-348</characterDefinition>
+            <characterDefinition character="&amp;#10381;">Braille Pattern Dots-1348</characterDefinition>
+            <characterDefinition character="&amp;#10382;">Braille Pattern Dots-2348</characterDefinition>
+            <characterDefinition character="&amp;#10383;">Braille Pattern Dots-12348</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#10384;">Braille Pattern Dots-58</characterDefinition>
+            <characterDefinition character="&amp;#10385;">Braille Pattern Dots-158</characterDefinition>
+            <characterDefinition character="&amp;#10386;">Braille Pattern Dots-258</characterDefinition>
+            <characterDefinition character="&amp;#10387;">Braille Pattern Dots-1258</characterDefinition>
+            <characterDefinition character="&amp;#10388;">Braille Pattern Dots-358</characterDefinition>
+            <characterDefinition character="&amp;#10389;">Braille Pattern Dots-1358</characterDefinition>
+            <characterDefinition character="&amp;#10390;">Braille Pattern Dots-2358</characterDefinition>
+            <characterDefinition character="&amp;#10391;">Braille Pattern Dots-12358</characterDefinition>
+            <characterDefinition character="&amp;#10392;">Braille Pattern Dots-458</characterDefinition>
+            <characterDefinition character="&amp;#10393;">Braille Pattern Dots-1458</characterDefinition>
+            <characterDefinition character="&amp;#10394;">Braille Pattern Dots-2458</characterDefinition>
+            <characterDefinition character="&amp;#10395;">Braille Pattern Dots-12458</characterDefinition>
+            <characterDefinition character="&amp;#10396;">Braille Pattern Dots-3458</characterDefinition>
+            <characterDefinition character="&amp;#10397;">Braille Pattern Dots-13458</characterDefinition>
+            <characterDefinition character="&amp;#10398;">Braille Pattern Dots-23458</characterDefinition>
+            <characterDefinition character="&amp;#10399;">Braille Pattern Dots-123458</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#10400;">Braille Pattern Dots-68</characterDefinition>
+            <characterDefinition character="&amp;#10401;">Braille Pattern Dots-168</characterDefinition>
+            <characterDefinition character="&amp;#10402;">Braille Pattern Dots-268</characterDefinition>
+            <characterDefinition character="&amp;#10403;">Braille Pattern Dots-1268</characterDefinition>
+            <characterDefinition character="&amp;#10404;">Braille Pattern Dots-368</characterDefinition>
+            <characterDefinition character="&amp;#10405;">Braille Pattern Dots-1368</characterDefinition>
+            <characterDefinition character="&amp;#10406;">Braille Pattern Dots-2368</characterDefinition>
+            <characterDefinition character="&amp;#10407;">Braille Pattern Dots-12368</characterDefinition>
+            <characterDefinition character="&amp;#10408;">Braille Pattern Dots-468</characterDefinition>
+            <characterDefinition character="&amp;#10409;">Braille Pattern Dots-1468</characterDefinition>
+            <characterDefinition character="&amp;#10410;">Braille Pattern Dots-2468</characterDefinition>
+            <characterDefinition character="&amp;#10411;">Braille Pattern Dots-12468</characterDefinition>
+            <characterDefinition character="&amp;#10412;">Braille Pattern Dots-3468</characterDefinition>
+            <characterDefinition character="&amp;#10413;">Braille Pattern Dots-13468</characterDefinition>
+            <characterDefinition character="&amp;#10414;">Braille Pattern Dots-23468</characterDefinition>
+            <characterDefinition character="&amp;#10415;">Braille Pattern Dots-123468</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#10416;">Braille Pattern Dots-568</characterDefinition>
+            <characterDefinition character="&amp;#10417;">Braille Pattern Dots-1568</characterDefinition>
+            <characterDefinition character="&amp;#10418;">Braille Pattern Dots-2568</characterDefinition>
+            <characterDefinition character="&amp;#10419;">Braille Pattern Dots-12568</characterDefinition>
+            <characterDefinition character="&amp;#10420;">Braille Pattern Dots-3568</characterDefinition>
+            <characterDefinition character="&amp;#10421;">Braille Pattern Dots-13568</characterDefinition>
+            <characterDefinition character="&amp;#10422;">Braille Pattern Dots-23568</characterDefinition>
+            <characterDefinition character="&amp;#10423;">Braille Pattern Dots-123568</characterDefinition>
+            <characterDefinition character="&amp;#10424;">Braille Pattern Dots-4568</characterDefinition>
+            <characterDefinition character="&amp;#10425;">Braille Pattern Dots-14568</characterDefinition>
+            <characterDefinition character="&amp;#10426;">Braille Pattern Dots-24568</characterDefinition>
+            <characterDefinition character="&amp;#10427;">Braille Pattern Dots-124568</characterDefinition>
+            <characterDefinition character="&amp;#10428;">Braille Pattern Dots-34568</characterDefinition>
+            <characterDefinition character="&amp;#10429;">Braille Pattern Dots-134568</characterDefinition>
+            <characterDefinition character="&amp;#10430;">Braille Pattern Dots-234568</characterDefinition>
+            <characterDefinition character="&amp;#10431;">Braille Pattern Dots-1234568</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#10432;">Braille Pattern Dots-78</characterDefinition>
+            <characterDefinition character="&amp;#10433;">Braille Pattern Dots-178</characterDefinition>
+            <characterDefinition character="&amp;#10434;">Braille Pattern Dots-278</characterDefinition>
+            <characterDefinition character="&amp;#10435;">Braille Pattern Dots-1278</characterDefinition>
+            <characterDefinition character="&amp;#10436;">Braille Pattern Dots-378</characterDefinition>
+            <characterDefinition character="&amp;#10437;">Braille Pattern Dots-1378</characterDefinition>
+            <characterDefinition character="&amp;#10438;">Braille Pattern Dots-2378</characterDefinition>
+            <characterDefinition character="&amp;#10439;">Braille Pattern Dots-12378</characterDefinition>
+            <characterDefinition character="&amp;#10440;">Braille Pattern Dots-478</characterDefinition>
+            <characterDefinition character="&amp;#10441;">Braille Pattern Dots-1478</characterDefinition>
+            <characterDefinition character="&amp;#10442;">Braille Pattern Dots-2478</characterDefinition>
+            <characterDefinition character="&amp;#10443;">Braille Pattern Dots-12478</characterDefinition>
+            <characterDefinition character="&amp;#10444;">Braille Pattern Dots-3478</characterDefinition>
+            <characterDefinition character="&amp;#10445;">Braille Pattern Dots-13478</characterDefinition>
+            <characterDefinition character="&amp;#10446;">Braille Pattern Dots-23478</characterDefinition>
+            <characterDefinition character="&amp;#10447;">Braille Pattern Dots-123478</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#10448;">Braille Pattern Dots-578</characterDefinition>
+            <characterDefinition character="&amp;#10449;">Braille Pattern Dots-1578</characterDefinition>
+            <characterDefinition character="&amp;#10450;">Braille Pattern Dots-2578</characterDefinition>
+            <characterDefinition character="&amp;#10451;">Braille Pattern Dots-12578</characterDefinition>
+            <characterDefinition character="&amp;#10452;">Braille Pattern Dots-3578</characterDefinition>
+            <characterDefinition character="&amp;#10453;">Braille Pattern Dots-13578</characterDefinition>
+            <characterDefinition character="&amp;#10454;">Braille Pattern Dots-23578</characterDefinition>
+            <characterDefinition character="&amp;#10455;">Braille Pattern Dots-123578</characterDefinition>
+            <characterDefinition character="&amp;#10456;">Braille Pattern Dots-4578</characterDefinition>
+            <characterDefinition character="&amp;#10457;">Braille Pattern Dots-14578</characterDefinition>
+            <characterDefinition character="&amp;#10458;">Braille Pattern Dots-24578</characterDefinition>
+            <characterDefinition character="&amp;#10459;">Braille Pattern Dots-124578</characterDefinition>
+            <characterDefinition character="&amp;#10460;">Braille Pattern Dots-34578</characterDefinition>
+            <characterDefinition character="&amp;#10461;">Braille Pattern Dots-134578</characterDefinition>
+            <characterDefinition character="&amp;#10462;">Braille Pattern Dots-234578</characterDefinition>
+            <characterDefinition character="&amp;#10463;">Braille Pattern Dots-1234578</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#10464;">Braille Pattern Dots-678</characterDefinition>
+            <characterDefinition character="&amp;#10465;">Braille Pattern Dots-1678</characterDefinition>
+            <characterDefinition character="&amp;#10466;">Braille Pattern Dots-2678</characterDefinition>
+            <characterDefinition character="&amp;#10467;">Braille Pattern Dots-12678</characterDefinition>
+            <characterDefinition character="&amp;#10468;">Braille Pattern Dots-3678</characterDefinition>
+            <characterDefinition character="&amp;#10469;">Braille Pattern Dots-13678</characterDefinition>
+            <characterDefinition character="&amp;#10470;">Braille Pattern Dots-23678</characterDefinition>
+            <characterDefinition character="&amp;#10471;">Braille Pattern Dots-123678</characterDefinition>
+            <characterDefinition character="&amp;#10472;">Braille Pattern Dots-4678</characterDefinition>
+            <characterDefinition character="&amp;#10473;">Braille Pattern Dots-14678</characterDefinition>
+            <characterDefinition character="&amp;#10474;">Braille Pattern Dots-24678</characterDefinition>
+            <characterDefinition character="&amp;#10475;">Braille Pattern Dots-124678</characterDefinition>
+            <characterDefinition character="&amp;#10476;">Braille Pattern Dots-34678</characterDefinition>
+            <characterDefinition character="&amp;#10477;">Braille Pattern Dots-134678</characterDefinition>
+            <characterDefinition character="&amp;#10478;">Braille Pattern Dots-234678</characterDefinition>
+            <characterDefinition character="&amp;#10479;">Braille Pattern Dots-1234678</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#10480;">Braille Pattern Dots-5678</characterDefinition>
+            <characterDefinition character="&amp;#10481;">Braille Pattern Dots-15678</characterDefinition>
+            <characterDefinition character="&amp;#10482;">Braille Pattern Dots-25678</characterDefinition>
+            <characterDefinition character="&amp;#10483;">Braille Pattern Dots-125678</characterDefinition>
+            <characterDefinition character="&amp;#10484;">Braille Pattern Dots-35678</characterDefinition>
+            <characterDefinition character="&amp;#10485;">Braille Pattern Dots-135678</characterDefinition>
+            <characterDefinition character="&amp;#10486;">Braille Pattern Dots-235678</characterDefinition>
+            <characterDefinition character="&amp;#10487;">Braille Pattern Dots-1235678</characterDefinition>
+            <characterDefinition character="&amp;#10488;">Braille Pattern Dots-45678</characterDefinition>
+            <characterDefinition character="&amp;#10489;">Braille Pattern Dots-145678</characterDefinition>
+            <characterDefinition character="&amp;#10490;">Braille Pattern Dots-245678</characterDefinition>
+            <characterDefinition character="&amp;#10491;">Braille Pattern Dots-1245678</characterDefinition>
+            <characterDefinition character="&amp;#10492;">Braille Pattern Dots-345678</characterDefinition>
+            <characterDefinition character="&amp;#10493;">Braille Pattern Dots-1345678</characterDefinition>
+            <characterDefinition character="&amp;#10494;">Braille Pattern Dots-2345678</characterDefinition>
+            <characterDefinition character="&amp;#10495;">Braille Pattern Dots-12345678</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+</characterSet>

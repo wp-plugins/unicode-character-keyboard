@@ -1,0 +1,570 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Version 1.0 by Terry O'Brien -->
+<characterSet name="Latin Extended" type="Literary" description="Extended Latin Symbols" >
+    <characterSetResource>http://www.unicode.org/charts/PDF/U1F700.pdf</characterSetResource>
+
+    <characterSubset name="Upper Case" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#198;">Upper Case ae</characterDefinition>
+            <characterDefinition character="&amp;#393;">Upper Case african d</characterDefinition>
+            <characterDefinition character="&amp;#497;">Upper Case dz</characterDefinition>
+            <characterDefinition character="&amp;#498;">Upper Case d with Lower Case z</characterDefinition>
+            <characterDefinition character="&amp;#398;">Upper Case Reversed e</characterDefinition>
+            <characterDefinition character="&amp;#400;">Upper Case Open e</characterDefinition>
+            <characterDefinition character="&amp;#330;">Upper Case eng</characterDefinition>
+            <characterDefinition character="&amp;#425;">Upper Case esh</characterDefinition>
+            <characterDefinition character="&amp;#439;">Upper Case ezh</characterDefinition>
+            <characterDefinition character="&amp;#440;">Upper Case ezh Reversed</characterDefinition>
+            <characterDefinition character="&amp;#404;">Upper Case gamma</characterDefinition>
+            <characterDefinition character="&amp;#502;">Upper Case hwair</characterDefinition>
+            <characterDefinition character="&amp;#406;">Upper Case iota</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#455;">Upper Case lj</characterDefinition>
+            <characterDefinition character="&amp;#456;">Upper Case l with Lower Case j</characterDefinition>
+            <characterDefinition character="&amp;#412;">Upper Case Turned m</characterDefinition>
+            <characterDefinition character="&amp;#458;">Upper Case nj</characterDefinition>
+            <characterDefinition character="&amp;#459;">Upper Case n with Lower Case j</characterDefinition>
+            <characterDefinition character="&amp;#390;">Upper Case Open o</characterDefinition>
+            <characterDefinition character="&amp;#418;">Upper Case oi</characterDefinition>
+            <characterDefinition character="&amp;#546;">Upper Case ou</characterDefinition>
+            <characterDefinition character="&amp;#399;">Upper Case schwa</characterDefinition>
+            <characterDefinition character="&amp;#433;">Upper Case upsilon</characterDefinition>
+            <characterDefinition character="&amp;#581;">Upper Case Turned v</characterDefinition>
+            <characterDefinition character="&amp;#503;">Upper Case wynn</characterDefinition>
+            <characterDefinition character="&amp;#540;">Upper Case yogh</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+    <characterSubset name="Lower Case" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#230;">Lower Case ae</characterDefinition>
+            <characterDefinition character="&amp;#568;">Lower Case db digraph</characterDefinition>
+            <characterDefinition character="&amp;#397;">Lower Case Turned delta</characterDefinition>
+            <characterDefinition character="&amp;#499;">Lower Case dz</characterDefinition>
+            <characterDefinition character="&amp;#477;">Lower Case Turned e</characterDefinition>
+            <characterDefinition character="&amp;#331;">Lower Case eng</characterDefinition>
+            <characterDefinition character="&amp;#441;">Lower Case ezh Reversed</characterDefinition>
+            <characterDefinition character="&amp;#405;">Lower Case hv</characterDefinition>
+            <characterDefinition character="&amp;#305;">Lower Case dotless i</characterDefinition>
+            <characterDefinition character="&amp;#567;">Lower Case dotless j</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#312;">Lower Case kra</characterDefinition>
+            <characterDefinition character="&amp;#457;">Lower Case lj</characterDefinition>
+            <characterDefinition character="&amp;#329;">Lower Case n preceded by Apostrophe</characterDefinition>
+            <characterDefinition character="&amp;#460;">Lower Case nj</characterDefinition>
+            <characterDefinition character="&amp;#419;">Lower Case oi</characterDefinition>
+            <characterDefinition character="&amp;#547;">Lower Case ou</characterDefinition>
+            <characterDefinition character="&amp;#569;">Lower Case qp digraph</characterDefinition>
+            <characterDefinition character="&amp;#383;">Lower Case Long s</characterDefinition>
+            <characterDefinition character="&amp;#223;">Lower Case Sharp s, German</characterDefinition>
+            <characterDefinition character="&amp;#541;">Lower Case yogh</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+    <characterSubset name="Acute" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#193;">Upper Case a with Acute Accent</characterDefinition>
+            <characterDefinition character="&amp;#508;">Upper Case ae with Acute Accent</characterDefinition>
+            <characterDefinition character="&amp;#262;">Upper Case c with Acute Accent</characterDefinition>
+            <characterDefinition character="&amp;#201;">Upper Case e with Acute Accent</characterDefinition>
+            <characterDefinition character="&amp;#500;">Upper Case g with Acute Accent</characterDefinition>
+            <characterDefinition character="&amp;#205;">Upper Case i with Acute Accent</characterDefinition>
+            <characterDefinition character="&amp;#313;">Upper Case l with Acute Accent</characterDefinition>
+            <characterDefinition character="&amp;#323;">Upper Case n with Acute Accent</characterDefinition>
+            <characterDefinition character="&amp;#211;">Upper Case o with Acute Accent</characterDefinition>
+            <characterDefinition character="&amp;#340;">Upper Case r with Acute Accent</characterDefinition>
+            <characterDefinition character="&amp;#346;">Upper Case s with Acute Accent</characterDefinition>
+            <characterDefinition character="&amp;#218;">Upper Case u with Acute Accent</characterDefinition>
+            <characterDefinition character="&amp;#221;">Upper Case y with Acute Accent</characterDefinition>
+            <characterDefinition character="&amp;#377;">Upper Case z with Acute Accent</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#225;">Lower Case a with Acute Accent</characterDefinition>
+            <characterDefinition character="&amp;#509;">Lower Case ae with Acute Accent</characterDefinition>
+            <characterDefinition character="&amp;#263;">Lower Case c with Acute Accent</characterDefinition>
+            <characterDefinition character="&amp;#233;">Lower Case e with Acute Accent</characterDefinition>
+            <characterDefinition character="&amp;#501;">Lower Case g with Acute Accent</characterDefinition>
+            <characterDefinition character="&amp;#237;">Lower Case i with Acute Accent</characterDefinition>
+            <characterDefinition character="&amp;#314;">Lower Case l with Acute Accent</characterDefinition>
+            <characterDefinition character="&amp;#324;">Lower Case n with Acute Accent</characterDefinition>
+            <characterDefinition character="&amp;#243;">Lower Case o with Acute Accent</characterDefinition>
+            <characterDefinition character="&amp;#341;">Lower Case r with Acute Accent</characterDefinition>
+            <characterDefinition character="&amp;#347;">Lower Case s with Acute Accent</characterDefinition>
+            <characterDefinition character="&amp;#250;">Lower Case u with Acute Accent</characterDefinition>
+            <characterDefinition character="&amp;#253;">Lower Case y with Acute Accent</characterDefinition>
+            <characterDefinition character="&amp;#378;">Lower Case z with Acute Accent</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+    <characterSubset name="Breve" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#258;">Upper Case a with Breve</characterDefinition>
+            <characterDefinition character="&amp;#276;">Upper Case e with Breve</characterDefinition>
+            <characterDefinition character="&amp;#286;">Upper Case g with Breve</characterDefinition>
+            <characterDefinition character="&amp;#300;">Upper Case i with Breve</characterDefinition>
+            <characterDefinition character="&amp;#334;">Upper Case o with Breve</characterDefinition>
+            <characterDefinition character="&amp;#364;">Upper Case u with Breve</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#259;">Lower Case a with Breve</characterDefinition>
+            <characterDefinition character="&amp;#277;">Lower Case e with Breve</characterDefinition>
+            <characterDefinition character="&amp;#287;">Lower Case g with Breve</characterDefinition>
+            <characterDefinition character="&amp;#301;">Lower Case i with Breve</characterDefinition>
+            <characterDefinition character="&amp;#335;">Lower Case o with Breve</characterDefinition>
+            <characterDefinition character="&amp;#365;">Lower Case u with Breve</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+    <characterSubset name="Inverted Breve" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#514;">Upper Case a with Inverted Breve</characterDefinition>
+            <characterDefinition character="&amp;#518;">Upper Case e with Inverted Breve</characterDefinition>
+            <characterDefinition character="&amp;#522;">Upper Case i with Inverted Breve</characterDefinition>
+            <characterDefinition character="&amp;#526;">Upper Case o with Inverted Breve</characterDefinition>
+            <characterDefinition character="&amp;#530;">Upper Case r with Inverted Breve</characterDefinition>
+            <characterDefinition character="&amp;#534;">Upper Case u with Inverted Breve</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#515;">Lower Case a with Inverted Breve</characterDefinition>
+            <characterDefinition character="&amp;#519;">Lower Case e with Inverted Breve</characterDefinition>
+            <characterDefinition character="&amp;#523;">Lower Case i with Inverted Breve</characterDefinition>
+            <characterDefinition character="&amp;#527;">Lower Case o with Inverted Breve</characterDefinition>
+            <characterDefinition character="&amp;#531;">Lower Case r with Inverted Breve</characterDefinition>
+            <characterDefinition character="&amp;#535;">Lower Case u with Inverted Breve</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+    <characterSubset name="Caron" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#461;">Upper Case a with Caron</characterDefinition>
+            <characterDefinition character="&amp;#268;">Upper Case c with Caron</characterDefinition>
+            <characterDefinition character="&amp;#270;">Upper Case d with Caron</characterDefinition>
+            <characterDefinition character="&amp;#452;">Upper Case dz with Caron</characterDefinition>
+            <characterDefinition character="&amp;#453;">Upper Case d with Lower Case z with Caron</characterDefinition>
+            <characterDefinition character="&amp;#282;">Upper Case e with Caron</characterDefinition>
+            <characterDefinition character="&amp;#494;">Upper Case ezh with Caron</characterDefinition>
+            <characterDefinition character="&amp;#486;">Upper Case g with Caron</characterDefinition>
+            <characterDefinition character="&amp;#542;">Upper Case h with Caron</characterDefinition>
+            <characterDefinition character="&amp;#463;">Upper Case i with Caron</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#488;">Upper Case k with Caron</characterDefinition>
+            <characterDefinition character="&amp;#317;">Upper Case l with Caron</characterDefinition>
+            <characterDefinition character="&amp;#327;">Upper Case n with Caron</characterDefinition>
+            <characterDefinition character="&amp;#465;">Upper Case o with Caron</characterDefinition>
+            <characterDefinition character="&amp;#344;">Upper Case r with Caron</characterDefinition>
+            <characterDefinition character="&amp;#352;">Upper Case s with Caron</characterDefinition>
+            <characterDefinition character="&amp;#356;">Upper Case t with Caron</characterDefinition>
+            <characterDefinition character="&amp;#467;">Upper Case u with Caron</characterDefinition>
+            <characterDefinition character="&amp;#381;">Upper Case z with Caron</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#462;">Lower Case a with Caron</characterDefinition>
+            <characterDefinition character="&amp;#269;">Lower Case c with Caron</characterDefinition>
+            <characterDefinition character="&amp;#271;">Lower Case d with Caron</characterDefinition>
+            <characterDefinition character="&amp;#454;">Lower Case dz with Caron</characterDefinition>
+            <characterDefinition character="&amp;#283;">Lower Case e with Caron</characterDefinition>
+            <characterDefinition character="&amp;#495;">Lower Case ezh with Caron</characterDefinition>
+            <characterDefinition character="&amp;#487;">Lower Case g with Caron</characterDefinition>
+            <characterDefinition character="&amp;#543;">Lower Case h with Caron</characterDefinition>
+            <characterDefinition character="&amp;#464;">Lower Case i with Caron</characterDefinition>
+            <characterDefinition character="&amp;#496;">Lower Case j with Caron</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#489;">Lower Case k with Caron</characterDefinition>
+            <characterDefinition character="&amp;#318;">Lower Case l with Caron</characterDefinition>
+            <characterDefinition character="&amp;#328;">Lower Case n with Caron</characterDefinition>
+            <characterDefinition character="&amp;#466;">Lower Case o with Caron</characterDefinition>
+            <characterDefinition character="&amp;#345;">Lower Case r with Caron</characterDefinition>
+            <characterDefinition character="&amp;#353;">Lower Case s with Caron</characterDefinition>
+            <characterDefinition character="&amp;#357;">Lower Case t with Caron</characterDefinition>
+            <characterDefinition character="&amp;#468;">Lower Case u with Caron</characterDefinition>
+            <characterDefinition character="&amp;#382;">Lower Case z with Caron</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+    <characterSubset name="Cedilla" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#199;">Upper Case c with Cedilla</characterDefinition>
+            <characterDefinition character="&amp;#552;">Upper Case e with Cedilla</characterDefinition>
+            <characterDefinition character="&amp;#290;">Upper Case g with Cedilla</characterDefinition>
+            <characterDefinition character="&amp;#310;">Upper Case k with Cedilla</characterDefinition>
+            <characterDefinition character="&amp;#315;">Upper Case l with Cedilla</characterDefinition>
+            <characterDefinition character="&amp;#325;">Upper Case n with Cedilla</characterDefinition>
+            <characterDefinition character="&amp;#342;">Upper Case r with Cedilla</characterDefinition>
+            <characterDefinition character="&amp;#350;">Upper Case s with Cedilla</characterDefinition>
+            <characterDefinition character="&amp;#354;">Upper Case t with Cedilla</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#231;">Lower Case c with Cedilla</characterDefinition>
+            <characterDefinition character="&amp;#553;">Lower Case e with Cedilla</characterDefinition>
+            <characterDefinition character="&amp;#291;">Lower Case g with Cedilla</characterDefinition>
+            <characterDefinition character="&amp;#311;">Lower Case k with Cedilla</characterDefinition>
+            <characterDefinition character="&amp;#316;">Lower Case l with Cedilla</characterDefinition>
+            <characterDefinition character="&amp;#326;">Lower Case n with Cedilla</characterDefinition>
+            <characterDefinition character="&amp;#343;">Lower Case r with Cedilla</characterDefinition>
+            <characterDefinition character="&amp;#351;">Lower Case s with Cedilla</characterDefinition>
+            <characterDefinition character="&amp;#355;">Lower Case t with Cedilla</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+    <characterSubset name="Circumflex" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#194;">Upper Case a with Circumflex Accent</characterDefinition>
+            <characterDefinition character="&amp;#264;">Upper Case c with Circumflex Accent</characterDefinition>
+            <characterDefinition character="&amp;#202;">Upper Case e with Circumflex Accent</characterDefinition>
+            <characterDefinition character="&amp;#284;">Upper Case g with Circumflex Accent</characterDefinition>
+            <characterDefinition character="&amp;#292;">Upper Case h with Circumflex Accent</characterDefinition>
+            <characterDefinition character="&amp;#206;">Upper Case i with Circumflex Accent</characterDefinition>
+            <characterDefinition character="&amp;#308;">Upper Case j with Circumflex Accent</characterDefinition>
+            <characterDefinition character="&amp;#212;">Upper Case o with Circumflex Accent</characterDefinition>
+            <characterDefinition character="&amp;#348;">Upper Case s with Circumflex Accent</characterDefinition>
+            <characterDefinition character="&amp;#219;">Upper Case u with Circumflex Accent</characterDefinition>
+            <characterDefinition character="&amp;#372;">Upper Case w with Circumflex Accent</characterDefinition>
+            <characterDefinition character="&amp;#374;">Upper Case y with Circumflex Accent</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#226;">Lower Case a with Circumflex Accent</characterDefinition>
+            <characterDefinition character="&amp;#265;">Lower Case c with Circumflex Accent</characterDefinition>
+            <characterDefinition character="&amp;#234;">Lower Case e with Circumflex Accent</characterDefinition>
+            <characterDefinition character="&amp;#285;">Lower Case g with Circumflex Accent</characterDefinition>
+            <characterDefinition character="&amp;#293;">Lower Case h with Circumflex Accent</characterDefinition>
+            <characterDefinition character="&amp;#238;">Lower Case i with Circumflex Accent</characterDefinition>
+            <characterDefinition character="&amp;#309;">Lower Case j with Circumflex Accent</characterDefinition>
+            <characterDefinition character="&amp;#244;">Lower Case o with Circumflex Accent</characterDefinition>
+            <characterDefinition character="&amp;#349;">Lower Case s with Circumflex Accent</characterDefinition>
+            <characterDefinition character="&amp;#251;">Lower Case u with Circumflex Accent</characterDefinition>
+            <characterDefinition character="&amp;#373;">Lower Case w with Circumflex Accent</characterDefinition>
+            <characterDefinition character="&amp;#375;">Lower Case y with Circumflex Accent</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+    <characterSubset name="Dot Above" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#550;">Upper Case a with Dot Above</characterDefinition>
+            <characterDefinition character="&amp;#266;">Upper Case c with Dot Above</characterDefinition>
+            <characterDefinition character="&amp;#278;">Upper Case e with Dot Above</characterDefinition>
+            <characterDefinition character="&amp;#288;">Upper Case g with Dot Above</characterDefinition>
+            <characterDefinition character="&amp;#304;">Upper Case i with Dot Above</characterDefinition>
+            <characterDefinition character="&amp;#558;">Upper Case o with Dot Above</characterDefinition>
+            <characterDefinition character="&amp;#379;">Upper Case z with Dot Above</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#551;">Lower Case a with Dot Above</characterDefinition>
+            <characterDefinition character="&amp;#267;">Lower Case c with Dot Above</characterDefinition>
+            <characterDefinition character="&amp;#279;">Lower Case e with Dot Above</characterDefinition>
+            <characterDefinition character="&amp;#289;">Lower Case g with Dot Above</characterDefinition>
+            <characterDefinition character="&amp;#559;">Lower Case o with Dot Above</characterDefinition>
+            <characterDefinition character="&amp;#380;">Lower Case z with Dot Above</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+    <characterSubset name="Grave" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#192;">Upper Case a with Grave</characterDefinition>
+            <characterDefinition character="&amp;#200;">Upper Case e with Grave</characterDefinition>
+            <characterDefinition character="&amp;#204;">Upper Case i with Grave</characterDefinition>
+            <characterDefinition character="&amp;#504;">Upper Case n with Grave</characterDefinition>
+            <characterDefinition character="&amp;#210;">Upper Case o with Grave</characterDefinition>
+            <characterDefinition character="&amp;#217;">Upper Case u with Grave</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#224;">Lower Case a with Grave</characterDefinition>
+            <characterDefinition character="&amp;#232;">Lower Case e with Grave</characterDefinition>
+            <characterDefinition character="&amp;#236;">Lower Case i with Grave</characterDefinition>
+            <characterDefinition character="&amp;#505;">Lower Case n with Grave</characterDefinition>
+            <characterDefinition character="&amp;#242;">Lower Case o with Grave</characterDefinition>
+            <characterDefinition character="&amp;#249;">Lower Case u with Grave</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+    <characterSubset name="Double Grave" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#512;">Upper Case a with Double Grave</characterDefinition>
+            <characterDefinition character="&amp;#516;">Upper Case e with Double Grave</characterDefinition>
+            <characterDefinition character="&amp;#520;">Upper Case i with Double Grave</characterDefinition>
+            <characterDefinition character="&amp;#524;">Upper Case o with Double Grave</characterDefinition>
+            <characterDefinition character="&amp;#528;">Upper Case r with Double Grave</characterDefinition>
+            <characterDefinition character="&amp;#532;">Upper Case u with Double Grave</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#513;">Lower Case a with Double Grave</characterDefinition>
+            <characterDefinition character="&amp;#517;">Lower Case e with Double Grave</characterDefinition>
+            <characterDefinition character="&amp;#521;">Lower Case i with Double Grave</characterDefinition>
+            <characterDefinition character="&amp;#525;">Lower Case o with Double Grave</characterDefinition>
+            <characterDefinition character="&amp;#529;">Lower Case r with Double Grave</characterDefinition>
+            <characterDefinition character="&amp;#533;">Lower Case u with Double Grave</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+    <characterSubset name="Hook" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#385;">Upper Case b with Hook</characterDefinition>
+            <characterDefinition character="&amp;#391;">Upper Case c with Hook</characterDefinition>
+            <characterDefinition character="&amp;#394;">Upper Case d with Hook</characterDefinition>
+            <characterDefinition character="&amp;#401;">Upper Case f with Hook</characterDefinition>
+            <characterDefinition character="&amp;#403;">Upper Case g with Hook</characterDefinition>
+            <characterDefinition character="&amp;#408;">Upper Case k with Hook</characterDefinition>
+            <characterDefinition character="&amp;#420;">Upper Case p with Hook</characterDefinition>
+            <characterDefinition character="&amp;#428;">Upper Case t with Hook</characterDefinition>
+            <characterDefinition character="&amp;#434;">Upper Case v with Hook</characterDefinition>
+            <characterDefinition character="&amp;#435;">Upper Case y with Hook</characterDefinition>
+            <characterDefinition character="&amp;#548;">Upper Case z with Hook</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#392;">Lower Case c with Hook</characterDefinition>
+            <characterDefinition character="&amp;#402;">Lower Case f with Hook </characterDefinition>
+            <characterDefinition character="&amp;#409;">Lower Case k with Hook</characterDefinition>
+            <characterDefinition character="&amp;#421;">Lower Case p with Hook</characterDefinition>
+            <characterDefinition character="&amp;#429;">Lower Case t with Hook</characterDefinition>
+            <characterDefinition character="&amp;#436;">Lower Case y with Hook</characterDefinition>
+            <characterDefinition character="&amp;#549;">Lower Case z with Hook</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+    <characterSubset name="Macron" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#256;">Upper Case a with Macron</characterDefinition>
+            <characterDefinition character="&amp;#482;">Upper Case ae with Macron</characterDefinition>
+            <characterDefinition character="&amp;#274;">Upper Case e with Macron</characterDefinition>
+            <characterDefinition character="&amp;#298;">Upper Case i with Macron</characterDefinition>
+            <characterDefinition character="&amp;#332;">Upper Case o with Macron</characterDefinition>
+            <characterDefinition character="&amp;#362;">Upper Case u with Macron</characterDefinition>
+            <characterDefinition character="&amp;#562;">Upper Case y with Macron</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#257;">Lower Case a with Macron</characterDefinition>
+            <characterDefinition character="&amp;#483;">Lower Case ae with Macron</characterDefinition>
+            <characterDefinition character="&amp;#275;">Lower Case e with Macron</characterDefinition>
+            <characterDefinition character="&amp;#299;">Lower Case i with Macron</characterDefinition>
+            <characterDefinition character="&amp;#333;">Lower Case o with Macron</characterDefinition>
+            <characterDefinition character="&amp;#363;">Lower Case u with Macron</characterDefinition>
+            <characterDefinition character="&amp;#563;">Lower Case y with Macron</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+    <characterSubset name="Ogonek" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#260;">Upper Case a with Ogonek</characterDefinition>
+            <characterDefinition character="&amp;#280;">Upper Case e with Ogonek</characterDefinition>
+            <characterDefinition character="&amp;#302;">Upper Case i with Ogonek</characterDefinition>
+            <characterDefinition character="&amp;#490;">Upper Case o with Ogonek</characterDefinition>
+            <characterDefinition character="&amp;#370;">Upper Case u with Ogonek</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#261;">Lower Case a with Ogonek</characterDefinition>
+            <characterDefinition character="&amp;#491;">Lower Case o with Ogonek</characterDefinition>
+            <characterDefinition character="&amp;#281;">Lower Case e with Ogonek</characterDefinition>
+            <characterDefinition character="&amp;#303;">Lower Case i with Ogonek</characterDefinition>
+            <characterDefinition character="&amp;#371;">Lower Case u with Ogonek</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+    <characterSubset name="Stroke" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#570;">Upper Case a with Stroke</characterDefinition>
+            <characterDefinition character="&amp;#579;">Upper Case b with Stroke</characterDefinition>
+            <characterDefinition character="&amp;#571;">Upper Case c with Stroke</characterDefinition>
+            <characterDefinition character="&amp;#272;">Upper Case d with Stroke</characterDefinition>
+            <characterDefinition character="&amp;#582;">Upper Case e with Stroke</characterDefinition>
+            <characterDefinition character="&amp;#484;">Upper Case g with Stroke</characterDefinition>
+            <characterDefinition character="&amp;#294;">Upper Case h with Stroke</characterDefinition>
+            <characterDefinition character="&amp;#407;">Upper Case i with Stroke</characterDefinition>
+            <characterDefinition character="&amp;#584;">Upper Case j with Stroke</characterDefinition>
+            <characterDefinition character="&amp;#321;">Upper Case l with Stroke</characterDefinition>
+            <characterDefinition character="&amp;#588;">Upper Case r with Stroke</characterDefinition>
+            <characterDefinition character="&amp;#358;">Upper Case t with Stroke</characterDefinition>
+            <characterDefinition character="&amp;#590;">Upper Case y with Stroke</characterDefinition>
+            <characterDefinition character="&amp;#437;">Upper Case z with Stroke</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#384;">Lower Case b with Stroke</characterDefinition>
+            <characterDefinition character="&amp;#572;">Lower Case c with Stroke</characterDefinition>
+            <characterDefinition character="&amp;#273;">Lower Case d with Stroke</characterDefinition>
+            <characterDefinition character="&amp;#583;">Lower Case e with Stroke</characterDefinition>
+            <characterDefinition character="&amp;#485;">Lower Case g with Stroke</characterDefinition>
+            <characterDefinition character="&amp;#295;">Lower Case h with Stroke</characterDefinition>
+            <characterDefinition character="&amp;#585;">Lower Case j with Stroke</characterDefinition>
+            <characterDefinition character="&amp;#322;">Lower Case l with Stroke</characterDefinition>
+            <characterDefinition character="&amp;#411;">Lower Case lambda with Stroke</characterDefinition>
+            <characterDefinition character="&amp;#589;">Lower Case r with Stroke</characterDefinition>
+            <characterDefinition character="&amp;#359;">Lower Case t with Stroke</characterDefinition>
+            <characterDefinition character="&amp;#591;">Lower Case y with Stroke</characterDefinition>
+            <characterDefinition character="&amp;#438;">Lower Case z with Stroke</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+    <characterSubset name="Tilde" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#195;">Upper Case a with TIlde</characterDefinition>
+            <characterDefinition character="&amp;#296;">Upper Case i with Tilde</characterDefinition>
+            <characterDefinition character="&amp;#209;">Upper Case n with TIlde</characterDefinition>
+            <characterDefinition character="&amp;#213;">Upper Case o with TIlde</characterDefinition>
+            <characterDefinition character="&amp;#360;">Upper Case u with Tilde</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#227;">Lower Case a with TIlde</characterDefinition>
+            <characterDefinition character="&amp;#297;">Lower Case i with Tilde</characterDefinition>
+            <characterDefinition character="&amp;#241;">Lower Case n with TIlde</characterDefinition>
+            <characterDefinition character="&amp;#245;">Lower Case o with TIlde</characterDefinition>
+            <characterDefinition character="&amp;#361;">Lower Case u with Tilde</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+    <characterSubset name="Topbar" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#386;">Upper Case b with topbar</characterDefinition>
+            <characterDefinition character="&amp;#395;">Upper Case d with topbar</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#387;">Lower Case b with topbar</characterDefinition>
+            <characterDefinition character="&amp;#396;">Lower Case d with topbar</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+    <characterSubset name="Umlaut" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#196;">Upper Case a with Umlaut Mark</characterDefinition>
+            <characterDefinition character="&amp;#203;">Upper Case e with Umlaut Mark</characterDefinition>
+            <characterDefinition character="&amp;#207;">Upper Case i with Umlaut Mark</characterDefinition>
+            <characterDefinition character="&amp;#214;">Upper Case o with Umlaut Mark</characterDefinition>
+            <characterDefinition character="&amp;#220;">Upper Case u with Umlaut Mark</characterDefinition>
+            <characterDefinition character="&amp;#376;">Upper Case y with unlaut Mark</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#228;">Lower Case a with Umlaut Mark</characterDefinition>
+            <characterDefinition character="&amp;#235;">Lower Case e with Umlaut Mark</characterDefinition>
+            <characterDefinition character="&amp;#239;">Lower Case i with Umlaut Mark</characterDefinition>
+            <characterDefinition character="&amp;#246;">Lower Case o with Umlaut Mark</characterDefinition>
+            <characterDefinition character="&amp;#252;">Lower Case u with Umlaut Mark</characterDefinition>
+            <characterDefinition character="&amp;#255;">Lower Case y with Umlaut Mark</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+    <characterSubset name="Miscellaneous Upper Case" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#197;">Upper Case a with Ring</characterDefinition>
+            <characterDefinition character="&amp;#573;">Upper Case l with Bar</characterDefinition>
+            <characterDefinition character="&amp;#319;">Upper Case l with Middle Dot</characterDefinition>
+            <characterDefinition character="&amp;#413;">Upper Case n with Left Hook</characterDefinition>
+            <characterDefinition character="&amp;#544;">Upper Case n with Long Right leg</characterDefinition>
+            <characterDefinition character="&amp;#336;">Upper Case o with Double acute</characterDefinition>
+            <characterDefinition character="&amp;#415;">Upper Case o with Middle Tilde</characterDefinition>
+            <characterDefinition character="&amp;#416;">Upper Case o with horn</characterDefinition>
+            <characterDefinition character="&amp;#216;">Upper Case o with Slash</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#586;">Upper Case q with Hook Tail</characterDefinition>
+            <characterDefinition character="&amp;#536;">Upper Case s with Comma below</characterDefinition>
+            <characterDefinition character="&amp;#538;">Upper Case t with Comma below</characterDefinition>
+            <characterDefinition character="&amp;#574;">Upper Case t with Diagonal Stroke</characterDefinition>
+            <characterDefinition character="&amp;#430;">Upper Case t with retroflex Hook</characterDefinition>
+            <characterDefinition character="&amp;#580;">Upper Case u Bar</characterDefinition>
+            <characterDefinition character="&amp;#368;">Upper Case u with Double acute</characterDefinition>
+            <characterDefinition character="&amp;#366;">Upper Case u with Ring above</characterDefinition>
+            <characterDefinition character="&amp;#431;">Upper Case u with horn</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+    <characterSubset name="Miscellaneous Lower Case" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#229;">Lower Case a with Ring</characterDefinition>
+            <characterDefinition character="&amp;#545;">Lower Case d with Curl</characterDefinition>
+            <characterDefinition character="&amp;#442;">Lower Case ezh with Tail</characterDefinition>
+            <characterDefinition character="&amp;#410;">Lower Case l with Bar</characterDefinition>
+            <characterDefinition character="&amp;#564;">Lower Case l with Curl</characterDefinition>
+            <characterDefinition character="&amp;#320;">Lower Case l with Middle Dot</characterDefinition>
+            <characterDefinition character="&amp;#565;">Lower Case n with Curl</characterDefinition>
+            <characterDefinition character="&amp;#414;">Lower Case n with Long Right leg</characterDefinition>
+            <characterDefinition character="&amp;#337;">Lower Case o with Double acute</characterDefinition>
+            <characterDefinition character="&amp;#417;">Lower Case o with Horn</characterDefinition>
+            <characterDefinition character="&amp;#248;">Lower Case o with Slash</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#587;">Lower Case q with Hook Tail</characterDefinition>
+            <characterDefinition character="&amp;#537;">Lower Case s with Comma below</characterDefinition>
+            <characterDefinition character="&amp;#575;">Lower Case s with Swash Tail</characterDefinition>
+            <characterDefinition character="&amp;#566;">Lower Case t with Curl</characterDefinition>
+            <characterDefinition character="&amp;#539;">Lower Case t with Comma below</characterDefinition>
+            <characterDefinition character="&amp;#427;">Lower Case t with Palatal Hook</characterDefinition>
+            <characterDefinition character="&amp;#369;">Lower Case u with Double acute</characterDefinition>
+            <characterDefinition character="&amp;#432;">Lower Case u with Horn</characterDefinition>
+            <characterDefinition character="&amp;#367;">Lower Case u with Ring above</characterDefinition>
+            <characterDefinition character="&amp;#576;">Lower Case z with Swash Tail</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+    <characterSubset name="Combinations A" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#478;">Upper Case a with Diaeresis and Macron</characterDefinition>
+            <characterDefinition character="&amp;#480;">Upper Case a with Dot Above and Macron</characterDefinition>
+            <characterDefinition character="&amp;#506;">Upper Case a with Ring above and acute</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#479;">Lower Case a with Diaeresis and Macron</characterDefinition>
+            <characterDefinition character="&amp;#481;">Lower Case a with Dot Above and Macron</characterDefinition>
+            <characterDefinition character="&amp;#507;">Lower Case a with Ring above and acute</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+    <characterSubset name="Combinations O" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#554;">Upper Case o with Diaeresis and Macron</characterDefinition>
+            <characterDefinition character="&amp;#560;">Upper Case o with Dot Above and Macron</characterDefinition>
+            <characterDefinition character="&amp;#492;">Upper Case o with Ogonek and Macron</characterDefinition>
+            <characterDefinition character="&amp;#510;">Upper Case o with Stroke and acute</characterDefinition>
+            <characterDefinition character="&amp;#556;">Upper Case o with Tilde and Macron</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#555;">Lower Case o with Diaeresis and Macron</characterDefinition>
+            <characterDefinition character="&amp;#561;">Lower Case o with Dot Above and Macron</characterDefinition>
+            <characterDefinition character="&amp;#493;">Lower Case o with Ogonek and Macron</characterDefinition>
+            <characterDefinition character="&amp;#511;">Lower Case o with Stroke and acute</characterDefinition>
+            <characterDefinition character="&amp;#557;">Lower Case o with Tilde and Macron</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+    <characterSubset name="Combinations U" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#471;">Upper Case u with Diaeresis and acute</characterDefinition>
+            <characterDefinition character="&amp;#473;">Upper Case u with Diaeresis and Caron</characterDefinition>
+            <characterDefinition character="&amp;#475;">Upper Case u with Diaeresis and grave</characterDefinition>
+            <characterDefinition character="&amp;#469;">Upper Case u with Diaeresis and Macron</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#472;">Lower Case u with Diaeresis and acute</characterDefinition>
+            <characterDefinition character="&amp;#474;">Lower Case u with Diaeresis and Caron</characterDefinition>
+            <characterDefinition character="&amp;#476;">Lower Case u with Diaeresis and grave</characterDefinition>
+            <characterDefinition character="&amp;#470;">Lower Case u with Diaeresis and Macron</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+    <characterSubset name="Icelandic" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#208;">Upper Case eth</characterDefinition>
+            <characterDefinition character="&amp;#222;">Upper Case THORN</characterDefinition>
+            <characterDefinition character="&amp;#240;">Lower Case eth</characterDefinition>
+            <characterDefinition character="&amp;#254;">Lower Case THORN</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+    <characterSubset name="Letters" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#426;">Letter Reversed esh loop</characterDefinition>
+            <characterDefinition character="&amp;#443;">Letter Two with Stroke</characterDefinition>
+            <characterDefinition character="&amp;#447;">Letter wynn</characterDefinition>
+            <characterDefinition character="&amp;#422;">Letter yr</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+    <characterSubset name="Ligature" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#306;">Upper Case Ligature ij</characterDefinition>
+            <characterDefinition character="&amp;#338;">Upper Case Ligature oe</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#307;">Lower Case Ligature ij</characterDefinition>
+            <characterDefinition character="&amp;#339;">Lower Case Ligature oe</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+    <characterSubset name="Sounds" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#448;">Letter dental Click</characterDefinition>
+            <characterDefinition character="&amp;#449;">Letter lateral Click</characterDefinition>
+            <characterDefinition character="&amp;#450;">Letter alveolar Click</characterDefinition>
+            <characterDefinition character="&amp;#451;">Letter retroflex Click</characterDefinition>
+            <characterDefinition character="&amp;#577;">Upper Case Glottal Stop</characterDefinition>
+            <characterDefinition character="&amp;#446;">Letter Inverted Glottal Stop with Stroke</characterDefinition>
+            <characterDefinition character="&amp;#578;">Lower Case Glottal Stop</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+    <characterSubset name="Tones" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#444;">Upper Case Tone Five</characterDefinition>
+            <characterDefinition character="&amp;#388;">Upper Case Tone Six</characterDefinition>
+            <characterDefinition character="&amp;#423;">Upper Case Tone Two</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#424;">Lower Case Tone Two</characterDefinition>
+            <characterDefinition character="&amp;#445;">Lower Case Tone Five</characterDefinition>
+            <characterDefinition character="&amp;#389;">Lower Case Tone Six</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+</characterSet>

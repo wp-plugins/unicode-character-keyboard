@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Version 1.0 by Terry O'Brien -->
+<characterSet name="Superscripts" type="Mathematics" description="Superscript Symbols" >
+    <characterSetRange>x02070 - x0209F</characterSetRange>
+
+    <characterSubset name="Superscript Numbers" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#8304;">Superscript Zero</characterDefinition>
+            <characterDefinition character="&amp;#185;">Superscript One</characterDefinition>
+            <characterDefinition character="&amp;#178;">Superscript Two - Squared</characterDefinition>
+            <characterDefinition character="&amp;#179;">Superscript Three - Cubed</characterDefinition>
+            <characterDefinition character="&amp;#8308;">Superscript Four</characterDefinition>
+            <characterDefinition character="&amp;#8309;">Superscript Five</characterDefinition>
+            <characterDefinition character="&amp;#8310;">Superscript Six</characterDefinition>
+            <characterDefinition character="&amp;#8311;">Superscript Seven</characterDefinition>
+            <characterDefinition character="&amp;#8312;">Superscript Eight</characterDefinition>
+            <characterDefinition character="&amp;#8313;">Superscript Nine</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+    <characterSubset name="Superscript Letters and Symbols" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#8305;">Superscript Lower Case Letter i</characterDefinition>
+            <characterDefinition character="&amp;#8319;">Superscript Lower Case Letter n</characterDefinition>
+            <characterDefinition character="&amp;#8314;">Superscript Plus Sign</characterDefinition>
+            <characterDefinition character="&amp;#8315;">Superscript Minus Sign</characterDefinition>
+            <characterDefinition character="&amp;#8316;">Superscript Equals Sign</characterDefinition>
+            <characterDefinition character="&amp;#8317;">Superscript Left Parenthesis</characterDefinition>
+            <characterDefinition character="&amp;#8318;">Superscript Right Parenthesis</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+</characterSet>
