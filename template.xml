@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Version 1.0 by Terry O'Brien -->
+
+<!DOCTYPE characterSet SYSTEM "template.dtd">
+
+<characterSet name="set name" type="set type" description="set description" >
+    <characterSetFont name="" url="" />
+    <characterSetRange></characterSetRange>
+    <characterSetResource></characterSetResource>
+
+    <characterSetRange></characterSetRange>
+    <characterSubset name="subset name 1">
+        <characterSubsetArray>
+            <characterDefinition character="character"><!-- character definition --></characterDefinition>
+            <characterDefinition character="character"><!-- character definition --></characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="character"><!-- character definition --></characterDefinition>
+            <characterDefinition character="character"><!-- character definition --></characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+
+    <characterSetRange></characterSetRange>
+    <characterSubset name="subset name 2">
+        <characterSubsetArray>
+            <characterDefinition character="character"><!-- character definition --></characterDefinition>
+            <characterDefinition character="character"><!-- character definition --></characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="character"><!-- character definition --></characterDefinition>
+            <characterDefinition character="character"><!-- character definition --></characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+</characterSet>
