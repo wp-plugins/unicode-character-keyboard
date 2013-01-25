@@ -1,0 +1,17 @@
+abbr
+{
+    background: rgb( 210, 210, 210 );
+    background: -moz-linear-gradient( top, rgb( 210, 210, 210 ), rgb( 255, 255, 255 ) );
+    background: -webkit-gradient( linear, left top, left bottom, from( rgb( 210, 210, 210 ) ), to( rgb( 255, 255, 255 ) ) );
+    border-color: #ccc #aaa #888 #bbb;
+    border-radius:25%; -moz-border-radius:25%; -webkit-border-radius:25%;
+    border-style: solid;
+    border-width: 3px 5px 6px 4px;
+    cursor:pointer;
+    display:inline-block;
+    font-size:x-large;
+    margin:5px 0px 1px 1px;
+    min-width: 20px;
+    padding:10px 10px 5px 10px; 
+    min-height: 25px;
+}
