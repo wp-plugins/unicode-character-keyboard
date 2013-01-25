@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Version 1.0 by Terry O'Brien -->
+
+<characterSet name="Counting Rod" type="Symbols" description="Counting Rod Symbols" >
+    <characterSetRange>1D360 - 1D37F</characterSetRange>
+
+    <characterSubset name="Units">
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x1D360;">COUNTING ROD UNIT DIGIT ONE</characterDefinition>
+            <characterDefinition character="&amp;#x1D361;">COUNTING ROD UNIT DIGIT TWO</characterDefinition>
+            <characterDefinition character="&amp;#x1D362;">COUNTING ROD UNIT DIGIT THREE</characterDefinition>
+            <characterDefinition character="&amp;#x1D363;">COUNTING ROD UNIT DIGIT FOUR</characterDefinition>
+            <characterDefinition character="&amp;#x1D364;">COUNTING ROD UNIT DIGIT FIVE</characterDefinition>
+            <characterDefinition character="&amp;#x1D365;">COUNTING ROD UNIT DIGIT SIX</characterDefinition>
+            <characterDefinition character="&amp;#x1D366;">COUNTING ROD UNIT DIGIT SEVEN</characterDefinition>
+            <characterDefinition character="&amp;#x1D367;">COUNTING ROD UNIT DIGIT EIGHT</characterDefinition>
+            <characterDefinition character="&amp;#x1D368;">COUNTING ROD UNIT DIGIT NINE</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+
+    <characterSubset name="Tens">
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x1D369;">COUNTING ROD TENS DIGIT ONE</characterDefinition>
+            <characterDefinition character="&amp;#x1D36A;">COUNTING ROD TENS DIGIT TWO</characterDefinition>
+            <characterDefinition character="&amp;#x1D36B;">COUNTING ROD TENS DIGIT THREE</characterDefinition>
+            <characterDefinition character="&amp;#x1D36C;">COUNTING ROD TENS DIGIT FOUR</characterDefinition>
+            <characterDefinition character="&amp;#x1D36D;">COUNTING ROD TENS DIGIT FIVE</characterDefinition>
+            <characterDefinition character="&amp;#x1D36E;">COUNTING ROD TENS DIGIT SIX</characterDefinition>
+            <characterDefinition character="&amp;#x1D36F;">COUNTING ROD TENS DIGIT SEVEN</characterDefinition>
+            <characterDefinition character="&amp;#x1D370;">COUNTING ROD TENS DIGIT EIGHT</characterDefinition>
+            <characterDefinition character="&amp;#x1D371;">COUNTING ROD TENS DIGIT NINE</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+</characterSet>

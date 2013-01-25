@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Version 1.0 by Terry O'Brien -->
+<characterSet name="German" type="Languages" description="German Specific Characters" >
+    <characterSubset name="Upper Case Letters">
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#196;">Upper Case A umlaut</characterDefinition>
+            <characterDefinition character="&amp;#201;">Upper Case E acute</characterDefinition>
+            <characterDefinition character="&amp;#214;">Upper Case O umlaut</characterDefinition>
+            <characterDefinition character="&amp;#220;">Upper Case U umlaut</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+    <characterSubset name="Lower Case Letters">
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#228;">Lower Case a umlaut</characterDefinition>
+            <characterDefinition character="&amp;#233;">Lower Case E acute</characterDefinition>
+            <characterDefinition character="&amp;#246;">Lower Case o umlaut</characterDefinition>
+            <characterDefinition character="&amp;#252;">Lower Case u umlaut</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+    <characterSubset name="Miscellaneous Punctuation and Symbols" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#223;">SZ ligature</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+</characterSet>

@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Version 1.1 by Terry O'Brien -->
+<characterSet name="Latin Extended" type="Literary" description="A Compliation of Extended Latin Symbols" >
+    <characterSetRange>x0100 - x024F</characterSetRange>
+    <characterSetRange>x2C60 - x2C7F</characterSetRange>
+    <characterSetRange>xA720 - xA7FF</characterSetRange>
+    <characterSetResource>http://www.unicode.org/charts/PDF/U0100.pdf</characterSetResource>
+    <characterSetResource>http://www.unicode.org/charts/PDF/U0180.pdf</characterSetResource>
+    <characterSetResource>http://www.unicode.org/charts/PDF/U2C60.pdf</characterSetResource>
+    <characterSetResource>http://www.unicode.org/charts/PDF/UA720.pdf</characterSetResource>
+
+    <characterSubset name="Upper Case" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#198;">Upper Case ae</characterDefinition>
+            <characterDefinition character="&amp;#393;">Upper Case african d</characterDefinition>
+            <characterDefinition character="&amp;#497;">Upper Case dz</characterDefinition>
+            <characterDefinition character="&amp;#498;">Upper Case d with Lower Case z</characterDefinition>
+            <characterDefinition character="&amp;#398;">Upper Case Reversed e</characterDefinition>
+            <characterDefinition character="&amp;#400;">Upper Case Open e</characterDefinition>
+            <characterDefinition character="&amp;#330;">Upper Case eng</characterDefinition>
+            <characterDefinition character="&amp;#425;">Upper Case esh</characterDefinition>
+            <characterDefinition character="&amp;#439;">Upper Case ezh</characterDefinition>
+            <characterDefinition character="&amp;#440;">Upper Case ezh Reversed</characterDefinition>
+            <characterDefinition character="&amp;#404;">Upper Case gamma</characterDefinition>
+            <characterDefinition character="&amp;#502;">Upper Case hwair</characterDefinition>
+            <characterDefinition character="&amp;#406;">Upper Case iota</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#455;">Upper Case lj</characterDefinition>
+            <characterDefinition character="&amp;#456;">Upper Case l with Lower Case j</characterDefinition>
+            <characterDefinition character="&amp;#412;">Upper Case Turned m</characterDefinition>
+            <characterDefinition character="&amp;#458;">Upper Case nj</characterDefinition>
+            <characterDefinition character="&amp;#459;">Upper Case n with Lower Case j</characterDefinition>
+            <characterDefinition character="&amp;#390;">Upper Case Open o</characterDefinition>
+            <characterDefinition character="&amp;#418;">Upper Case oi</characterDefinition>
+            <characterDefinition character="&amp;#546;">Upper Case ou</characterDefinition>
+            <characterDefinition character="&amp;#399;">Upper Case schwa</characterDefinition>
+            <characterDefinition character="&amp;#433;">Upper Case upsilon</characterDefinition>
+            <characterDefinition character="&amp;#581;">Upper Case Turned v</characterDefinition>
+            <characterDefinition character="&amp;#503;">Upper Case wynn</characterDefinition>
+            <characterDefinition character="&amp;#540;">Upper Case yogh</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#xA722;">Upper Case EGYPTOLOGICAL ALEF</characterDefinition>
+            <characterDefinition character="&amp;#xA724;">Upper Case EGYPTOLOGICAL AIN</characterDefinition>
+            <characterDefinition character="&amp;#xA726;">Upper Case HENG</characterDefinition>
+            <characterDefinition character="&amp;#xA728;">Upper Case TZ</characterDefinition>
+            <characterDefinition character="&amp;#xA72A;">Upper Case TRESILLO</characterDefinition>
+            <characterDefinition character="&amp;#xA72C;">Upper Case CUATRILLO</characterDefinition>
+            <characterDefinition character="&amp;#xA72E;">Upper Case CUATRILLO WITH COMMA</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#xA732;">Upper Case AA</characterDefinition>
+            <characterDefinition character="&amp;#xA734;">Upper Case AO</characterDefinition>
+            <characterDefinition character="&amp;#xA736;">Upper Case AU</characterDefinition>
+            <characterDefinition character="&amp;#xA738;">Upper Case AV</characterDefinition>
+            <characterDefinition character="&amp;#xA73A;">Upper Case AV WITH HORIZONTAL BAR</characterDefinition>
+            <characterDefinition character="&amp;#xA73C;">Upper Case AY</characterDefinition>
+            <characterDefinition character="&amp;#xA73E;">Upper Case REVERSED C WITH DOT</characterDefinition>
+            <characterDefinition character="&amp;#xA746;">Upper Case BROKEN L</characterDefinition>
+            <characterDefinition character="&amp;#xA74E;">Upper Case OO</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#xA75A;">Upper Case R ROTUNDA</characterDefinition>
+            <characterDefinition character="&amp;#xA75C;">Upper Case RUM ROTUNDA</characterDefinition>
+            <characterDefinition character="&amp;#xA75E;">Upper Case V WITH DIAGONAL STROKE</characterDefinition>
+            <characterDefinition character="&amp;#xA760;">Upper Case VY</characterDefinition>
+            <characterDefinition character="&amp;#xA762;">Upper Case VISIGOTHIC Z</characterDefinition>
+            <characterDefinition character="&amp;#xA764;">Upper Case THORN WITH STROKE</characterDefinition>
+            <characterDefinition character="&amp;#xA766;">Upper Case THORN WITH STROKE THROUGH DESCENDER</characterDefinition>
+            <characterDefinition character="&amp;#xA768;">Upper Case VEND</characterDefinition>
+            <characterDefinition character="&amp;#xA76A;">Upper Case ET</characterDefinition>
+            <characterDefinition character="&amp;#xA76C;">Upper Case IS</characterDefinition>
+            <characterDefinition character="&amp;#xA76E;">Upper Case CON</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+
+    <characterSubset name="Lower Case" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#230;">Lower Case ae</characterDefinition>
+            <characterDefinition character="&amp;#568;">Lower Case db digraph</characterDefinition>
+            <characterDefinition character="&amp;#397;">Lower Case Turned delta</characterDefinition>
+            <characterDefinition character="&amp;#499;">Lower Case dz</characterDefinition>
+            <characterDefinition character="&amp;#477;">Lower Case Turned e</characterDefinition>
+            <characterDefinition character="&amp;#331;">Lower Case eng</characterDefinition>
+            <characterDefinition character="&amp;#441;">Lower Case ezh Reversed</characterDefinition>
+            <characterDefinition character="&amp;#405;">Lower Case hv</characterDefinition>
+            <characterDefinition character="&amp;#305;">Lower Case dotless i</characterDefinition>
+            <characterDefinition character="&amp;#567;">Lower Case dotless j</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#312;">Lower Case kra</characterDefinition>
+            <characterDefinition character="&amp;#457;">Lower Case lj</characterDefinition>
+            <characterDefinition character="&amp;#329;">Lower Case n preceded by Apostrophe</characterDefinition>
+            <characterDefinition character="&amp;#460;">Lower Case nj</characterDefinition>
+            <characterDefinition character="&amp;#419;">Lower Case oi</characterDefinition>
+            <characterDefinition character="&amp;#547;">Lower Case ou</characterDefinition>
+            <characterDefinition character="&amp;#569;">Lower Case qp digraph</characterDefinition>
+            <characterDefinition character="&amp;#383;">Lower Case Long s</characterDefinition>
+            <characterDefinition character="&amp;#223;">Lower Case Sharp s, German</characterDefinition>
+            <characterDefinition character="&amp;#541;">Lower Case yogh</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#xA723;">Lower Case EGYPTOLOGICAL ALEF</characterDefinition>
+            <characterDefinition character="&amp;#xA725;">Lower Case EGYPTOLOGICAL AIN</characterDefinition>
+            <characterDefinition character="&amp;#xA727;">Lower Case HENG</characterDefinition>
+            <characterDefinition character="&amp;#xA729;">Lower Case TZ</characterDefinition>
+            <characterDefinition character="&amp;#xA72B;">Lower Case TRESILLO</characterDefinition>
+            <characterDefinition character="&amp;#xA72D;">Lower Case CUATRILLO</characterDefinition>
+            <characterDefinition character="&amp;#xA72F;">Lower Case CUATRILLO WITH COMMA</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#xA733;">Lower Case AA</characterDefinition>
+            <characterDefinition character="&amp;#xA735;">Lower Case AO</characterDefinition>
+            <characterDefinition character="&amp;#xA737;">Lower Case AU</characterDefinition>
+            <characterDefinition character="&amp;#xA739;">Lower Case AV</characterDefinition>
+            <characterDefinition character="&amp;#xA73B;">Lower Case AV WITH HORIZONTAL BAR</characterDefinition>
+            <characterDefinition character="&amp;#xA73D;">Lower Case AY</characterDefinition>
+            <characterDefinition character="&amp;#xA73F;">Lower Case REVERSED C WITH DOT</characterDefinition>
+            <characterDefinition character="&amp;#xA747;">Lower Case BROKEN L</characterDefinition>
+            <characterDefinition character="&amp;#xA74F;">Lower Case OO</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#xA75B;">Lower Case R ROTUNDA</characterDefinition>
+            <characterDefinition character="&amp;#xA75D;">Lower Case RUM ROTUNDA</characterDefinition>
+            <characterDefinition character="&amp;#xA75F;">Lower Case V WITH DIAGONAL STROKE</characterDefinition>
+            <characterDefinition character="&amp;#xA761;">Lower Case VY</characterDefinition>
+            <characterDefinition character="&amp;#xA763;">Lower Case VISIGOTHIC Z</characterDefinition>
+            <characterDefinition character="&amp;#xA765;">Lower Case THORN WITH STROKE</characterDefinition>
+            <characterDefinition character="&amp;#xA767;">Lower Case THORN WITH STROKE THROUGH DESCENDER</characterDefinition>
+            <characterDefinition character="&amp;#xA769;">Lower Case VEND</characterDefinition>
+            <characterDefinition character="&amp;#xA76B;">Lower Case ET</characterDefinition>
+            <characterDefinition character="&amp;#xA76D;">Lower Case IS</characterDefinition>
+            <characterDefinition character="&amp;#xA76F;">Lower Case CON</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+
+    <characterSubset name="Epigraphic">
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#xA7FB;">EPIGRAPHIC LETTER REVERSED F</characterDefinition>
+            <characterDefinition character="&amp;#xA7FC;">EPIGRAPHIC LETTER REVERSED P</characterDefinition>
+            <characterDefinition character="&amp;#xA7FD;">EPIGRAPHIC LETTER INVERTED M</characterDefinition>
+            <characterDefinition character="&amp;#xA7FE;">EPIGRAPHIC LETTER I LONGA</characterDefinition>
+            <characterDefinition character="&amp;#xA7FF;">EPIGRAPHIC LETTER ARCHAIC M</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+
+    <characterSubset name="Icelandic" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#208;">Upper Case eth</characterDefinition>
+            <characterDefinition character="&amp;#222;">Upper Case THORN</characterDefinition>
+            <characterDefinition character="&amp;#240;">Lower Case eth</characterDefinition>
+            <characterDefinition character="&amp;#254;">Lower Case THORN</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+
+    <characterSubset name="Insular">
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#xA779;">Upper Case INSULAR D</characterDefinition>
+            <characterDefinition character="&amp;#xA77B;">Upper Case INSULAR F</characterDefinition>
+            <characterDefinition character="&amp;#xA77D;">Upper Case INSULAR G</characterDefinition>
+            <characterDefinition character="&amp;#xA77E;">Upper Case TURNED INSULAR G</characterDefinition>
+            <characterDefinition character="&amp;#xA780;">Upper Case TURNED L</characterDefinition>
+            <characterDefinition character="&amp;#xA782;">Upper Case INSULAR R</characterDefinition>
+            <characterDefinition character="&amp;#xA784;">Upper Case INSULAR S</characterDefinition>
+            <characterDefinition character="&amp;#xA786;">Upper Case INSULAR T</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#xA77A;">Lower Case INSULAR D</characterDefinition>
+            <characterDefinition character="&amp;#xA77C;">Lower Case INSULAR F</characterDefinition>
+            <characterDefinition character="&amp;#xA77F;">Lower Case TURNED INSULAR G</characterDefinition>
+            <characterDefinition character="&amp;#xA781;">Lower Case TURNED L</characterDefinition>
+            <characterDefinition character="&amp;#xA783;">Lower Case INSULAR R</characterDefinition>
+            <characterDefinition character="&amp;#xA785;">Lower Case INSULAR S</characterDefinition>
+            <characterDefinition character="&amp;#xA787;">Lower Case INSULAR T</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+    
+        <characterSubset name="Letters" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#426;">Letter Reversed esh loop</characterDefinition>
+            <characterDefinition character="&amp;#443;">Letter Two with Stroke</characterDefinition>
+            <characterDefinition character="&amp;#447;">Letter wynn</characterDefinition>
+            <characterDefinition character="&amp;#422;">Letter yr</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+
+    <characterSubset name="Ligature" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#306;">Upper Case Ligature ij</characterDefinition>
+            <characterDefinition character="&amp;#338;">Upper Case Ligature oe</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#307;">Lower Case Ligature ij</characterDefinition>
+            <characterDefinition character="&amp;#339;">Lower Case Ligature oe</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+
+    <characterSubset name="Sounds" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#448;">Letter dental Click</characterDefinition>
+            <characterDefinition character="&amp;#449;">Letter lateral Click</characterDefinition>
+            <characterDefinition character="&amp;#450;">Letter alveolar Click</characterDefinition>
+            <characterDefinition character="&amp;#451;">Letter retroflex Click</characterDefinition>
+            <characterDefinition character="&amp;#577;">Upper Case Glottal Stop</characterDefinition>
+            <characterDefinition character="&amp;#446;">Letter Inverted Glottal Stop with Stroke</characterDefinition>
+            <characterDefinition character="&amp;#578;">Lower Case Glottal Stop</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+
+    <characterSubset name="Tones" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#423;">Upper Case Tone 2 (Two)</characterDefinition>
+            <characterDefinition character="&amp;#444;">Upper Case Tone 5 (Five)</characterDefinition>
+            <characterDefinition character="&amp;#388;">Upper Case Tone 6 (Six)</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#424;">Lower Case Tone 2 (Two)</characterDefinition>
+            <characterDefinition character="&amp;#445;">Lower Case Tone 5 (Five)</characterDefinition>
+            <characterDefinition character="&amp;#389;">Lower Case Tone 6 (Six)</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+
+    <characterSubset name="Miscellaneous" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x2C6D;">Upper Case ALPHA</characterDefinition>
+            <characterDefinition character="&amp;#x2C6F;">Upper Case TURNED A</characterDefinition>
+            <characterDefinition character="&amp;#x2C70;">Upper Case TURNED ALPHA</characterDefinition>
+            <characterDefinition character="&amp;#x2C75;">Upper Case HALF H</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x2C77;">Lower Case TAILLESS PHI</characterDefinition>
+            <characterDefinition character="&amp;#x2C79;">Lower Case TURNED R WITH TAIL</characterDefinition>
+            <characterDefinition character="&amp;#x2C76;">Lower Case HALF H</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x2C7B;">LETTER SMALL Upper Case TURNED E</characterDefinition>
+            <characterDefinition character="&amp;#x2C7C;">SUBSCRIPT Lower Case J</characterDefinition>
+            <characterDefinition character="&amp;#x2C7D;">MODIFIER LETTER Upper Case V</characterDefinition>
+            <characterDefinition character="&amp;#xA720;">MODIFIER LETTER STRESS AND HIGH TONE</characterDefinition>
+            <characterDefinition character="&amp;#xA721;">MODIFIER LETTER STRESS AND LOW TONE</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#xA730;">LETTER SMALL Upper Case F</characterDefinition>
+            <characterDefinition character="&amp;#xA731;">LETTER SMALL Upper Case S</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#xA770;">MODIFIER LETTER US</characterDefinition>
+            <characterDefinition character="&amp;#xA771;">Lower Case DUM</characterDefinition>
+            <characterDefinition character="&amp;#xA772;">Lower Case LUM</characterDefinition>
+            <characterDefinition character="&amp;#xA773;">Lower Case MUM</characterDefinition>
+            <characterDefinition character="&amp;#xA774;">Lower Case NUM</characterDefinition>
+            <characterDefinition character="&amp;#xA775;">Lower Case RUM</characterDefinition>
+            <characterDefinition character="&amp;#xA776;">LETTER SMALL Upper Case RUM</characterDefinition>
+            <characterDefinition character="&amp;#xA777;">Lower Case TUM</characterDefinition>
+            <characterDefinition character="&amp;#xA778;">Lower Case UM</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#xA788;">MODIFIER LETTER LOW CIRCUMFLEX ACCENT</characterDefinition>
+            <characterDefinition character="&amp;#xA789;">MODIFIER LETTER COLON</characterDefinition>
+            <characterDefinition character="&amp;#xA78A;">MODIFIER LETTER SHORT EQUALS SIGN</characterDefinition>
+            <characterDefinition character="&amp;#xA78B;">Upper Case SALTILLO</characterDefinition>
+            <characterDefinition character="&amp;#xA78C;">Lower Case SALTILLO</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#xA7F8;">MODIFIER LETTER Upper Case H WITH STROKE</characterDefinition>
+            <characterDefinition character="&amp;#xA7F9;">MODIFIER LETTER Lower Case LIGATURE OE</characterDefinition>
+            <characterDefinition character="&amp;#xA7FA;">LETTER SMALL Upper Case TURNED M</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+</characterSet>

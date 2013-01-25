@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Version 1.0 by Terry O'Brien -->
+
+<characterSet name="Gothic" type="Languages" description="Gothic script was devised by Bishop Wulfila in the fourth century A.D. to allow a written version of the Gothic language." >
+    <characterSetFont name="Quivira" url="http://www.quivira-font.com/" />
+    <characterSetRange>x10330 - x1034F</characterSetRange>
+    <characterSetResource>http://www.unicode.org/charts/PDF/U10330.pdf</characterSetResource>
+
+    <characterSubset name="Letters">
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x10330;">GOTHIC LETTER AHSA</characterDefinition>
+            <characterDefinition character="&amp;#x10331;">GOTHIC LETTER BAIRKAN</characterDefinition>
+            <characterDefinition character="&amp;#x10332;">GOTHIC LETTER GIBA</characterDefinition>
+            <characterDefinition character="&amp;#x10333;">GOTHIC LETTER DAGS</characterDefinition>
+            <characterDefinition character="&amp;#x10334;">GOTHIC LETTER AIHVUS</characterDefinition>
+            <characterDefinition character="&amp;#x10335;">GOTHIC LETTER QAIRTHRA</characterDefinition>
+            <characterDefinition character="&amp;#x10336;">GOTHIC LETTER IUJA</characterDefinition>
+            <characterDefinition character="&amp;#x10337;">GOTHIC LETTER HAGL</characterDefinition>
+            <characterDefinition character="&amp;#x10338;">GOTHIC LETTER THIUTH</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x10339;">GOTHIC LETTER EIS</characterDefinition>
+            <characterDefinition character="&amp;#x1033A;">GOTHIC LETTER KUSMA</characterDefinition>
+            <characterDefinition character="&amp;#x1033B;">GOTHIC LETTER LAGUS</characterDefinition>
+            <characterDefinition character="&amp;#x1033C;">GOTHIC LETTER MANNA</characterDefinition>
+            <characterDefinition character="&amp;#x1033D;">GOTHIC LETTER NAUTHS</characterDefinition>
+            <characterDefinition character="&amp;#x1033E;">GOTHIC LETTER JER</characterDefinition>
+            <characterDefinition character="&amp;#x1033F;">GOTHIC LETTER URUS</characterDefinition>
+            <characterDefinition character="&amp;#x10340;">GOTHIC LETTER PAIRTHRA</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x10342;">GOTHIC LETTER RAIDA</characterDefinition>
+            <characterDefinition character="&amp;#x10343;">GOTHIC LETTER SAUIL</characterDefinition>
+            <characterDefinition character="&amp;#x10344;">GOTHIC LETTER TEIWS</characterDefinition>
+            <characterDefinition character="&amp;#x10345;">GOTHIC LETTER WINJA</characterDefinition>
+            <characterDefinition character="&amp;#x10346;">GOTHIC LETTER FAIHU</characterDefinition>
+            <characterDefinition character="&amp;#x10347;">GOTHIC LETTER IGGWS</characterDefinition>
+            <characterDefinition character="&amp;#x10348;">GOTHIC LETTER HWAIR</characterDefinition>
+            <characterDefinition character="&amp;#x10349;">GOTHIC LETTER OTHAL</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x10341;">GOTHIC LETTER NINETY</characterDefinition>
+            <characterDefinition character="&amp;#x1034A;">GOTHIC LETTER NINE HUNDRED</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+</characterSet>

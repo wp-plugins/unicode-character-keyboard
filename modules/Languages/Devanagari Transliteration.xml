@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Version 1.0 by Terry O'Brien -->
+<characterSet name="Devanagari Transliteration" type="Languages" description="Devanagari -- Latin Extended transliteration characters" >
+
+    <characterSetResource>http://www.unicode.org/charts/PDF/U1E00.pdf</characterSetResource>
+    <characterSetResource>http://www.hyoomik.com/miscellenea/sanskrit.eht</characterSetResource>
+    <characterSetRange>Latin Extended (x1E00 - x1EFF)</characterSetRange>
+
+    <characterSubset name="Dot Above">
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#7682;">Upper Case B with Dot Above</characterDefinition>
+            <characterDefinition character="&amp;#266;">Upper Case C with Dot Above</characterDefinition>
+            <characterDefinition character="&amp;#7690;">Upper Case D with Dot Above</characterDefinition>
+            <characterDefinition character="&amp;#7710;">Upper Case F with Dot Above</characterDefinition>
+            <characterDefinition character="&amp;#x1E22;">Upper Case H with Dot Above</characterDefinition>
+            <characterDefinition character="&amp;#x1E40;">Upper Case M with Dot Above</characterDefinition>
+            <characterDefinition character="&amp;#x1E44;">Upper Case N with Dot Above</characterDefinition>
+            <characterDefinition character="&amp;#x1E56;">Upper Case P with Dot Above</characterDefinition>
+            <characterDefinition character="&amp;#7776;">Upper Case S with Dot Above</characterDefinition>
+            <characterDefinition character="&amp;#7786;">Upper Case T with Dot Above</characterDefinition>
+            <characterDefinition character="&amp;#7814;">Upper Case W with Dot Above</characterDefinition>
+            <characterDefinition character="&amp;#7818;">Upper Case X with Dot Above</characterDefinition>
+            <characterDefinition character="&amp;#7822;">Upper Case Y with Dot Above</characterDefinition>
+            <characterDefinition character="&amp;#379;">Upper Case Z with Dot Above</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#7683;">Lower Case B with Dot Above</characterDefinition>
+            <characterDefinition character="&amp;#267;">Lower Case C with Dot Above</characterDefinition>
+            <characterDefinition character="&amp;#7691;">Lower Case D with Dot Above</characterDefinition>
+            <characterDefinition character="&amp;#7711;">Lower Case F with Dot Above</characterDefinition>
+            <characterDefinition character="&amp;#x1E23;">Lower Case H with Dot Above</characterDefinition>
+            <characterDefinition character="&amp;#x1E41;">Lower Case M with Dot Above</characterDefinition>
+            <characterDefinition character="&amp;#x1E45;">Lower Case N with Dot Above</characterDefinition>
+            <characterDefinition character="&amp;#x1E57;">Lower Case P with Dot Above</characterDefinition>
+            <characterDefinition character="&amp;#7777;">Lower Case S with Dot Above</characterDefinition>
+            <characterDefinition character="&amp;#7787;">Lower Case T with Dot Above</characterDefinition>
+            <characterDefinition character="&amp;#7815;">Lower Case W with Dot Above</characterDefinition>
+            <characterDefinition character="&amp;#7819;">Lower Case X with Dot Above</characterDefinition>
+            <characterDefinition character="&amp;#7823;">Lower Case Y with Dot Above</characterDefinition>
+            <characterDefinition character="&amp;#380;">Lower Case Z with Dot Above</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+
+    <characterSubset name="Dot Below">
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#7840;">Upper Case A with Dot Below</characterDefinition>
+            <characterDefinition character="&amp;#7864;">Upper Case E with Dot Below</characterDefinition>
+            <characterDefinition character="&amp;#7882;">Upper Case I with Dot Below</characterDefinition>
+            <characterDefinition character="&amp;#x1ECC;">Upper Case O with Dot Below</characterDefinition>
+            <characterDefinition character="&amp;#7770;">Upper Case R with Dot Below</characterDefinition>
+            <characterDefinition character="&amp;#7908;">Upper Case U with Dot Below</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#7684;">Upper Case B with Dot Below</characterDefinition>
+            <characterDefinition character="&amp;#7692;">Upper Case D with Dot Below</characterDefinition>
+            <characterDefinition character="&amp;#x1E24;">Upper Case H with Dot Below</characterDefinition>
+            <characterDefinition character="&amp;#7730;">Upper Case K with Dot Below</characterDefinition>
+            <characterDefinition character="&amp;#7734;">Upper Case L with Dot Below</characterDefinition>
+            <characterDefinition character="&amp;#7746;">Upper Case M with Dot Below</characterDefinition>
+            <characterDefinition character="&amp;#7750;">Upper Case N with Dot Below</characterDefinition>
+            <characterDefinition character="&amp;#7778;">Upper Case S with Dot Below</characterDefinition>
+            <characterDefinition character="&amp;#7788;">Upper Case T with Dot Below</characterDefinition>
+            <characterDefinition character="&amp;#7806;">Upper Case V with Dot Below</characterDefinition>
+            <characterDefinition character="&amp;#7816;">Upper Case W with Dot Below</characterDefinition>
+            <characterDefinition character="&amp;#7826;">Upper Case Z with Dot Below</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#7841;">Lower Case A with Dot Below</characterDefinition>
+            <characterDefinition character="&amp;#7865;">Lower Case E with Dot Below</characterDefinition>
+            <characterDefinition character="&amp;#7883;">Lower Case I with Dot Below</characterDefinition>
+            <characterDefinition character="&amp;#x1ECD;">Lower Case O with Dot Below</characterDefinition>
+            <characterDefinition character="&amp;#7771;">Lower Case R with Dot Below</characterDefinition>
+            <characterDefinition character="&amp;#7909;">Lower Case U with Dot Below</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#7685;">Lower Case B with Dot Below</characterDefinition>
+            <characterDefinition character="&amp;#7693;">Lower Case D with Dot Below</characterDefinition>
+            <characterDefinition character="&amp;#x1E25;">Lower Case H with Dot Below</characterDefinition>
+            <characterDefinition character="&amp;#7731;">Lower Case K with Dot Below</characterDefinition>
+            <characterDefinition character="&amp;#7735;">Lower Case L with Dot Below</characterDefinition>
+            <characterDefinition character="&amp;#7747;">Lower Case M with Dot Below</characterDefinition>
+            <characterDefinition character="&amp;#7751;">Lower Case N with Dot Below</characterDefinition>
+            <characterDefinition character="&amp;#7779;">Lower Case S with Dot Below</characterDefinition>
+            <characterDefinition character="&amp;#7789;">Lower Case T with Dot Below</characterDefinition>
+            <characterDefinition character="&amp;#7807;">Lower Case V with Dot Below</characterDefinition>
+            <characterDefinition character="&amp;#7817;">Lower Case W with Dot Below</characterDefinition>
+            <characterDefinition character="&amp;#7827;">Lower Case Z with Dot Below</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+
+    <characterSubset name="Line Above">
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#256;">Upper Case A with Line Above</characterDefinition>
+            <characterDefinition character="&amp;#x012A;">Upper Case I with Line Above</characterDefinition>
+            <characterDefinition character="&amp;#x014C;">Upper Case O with Line Above</characterDefinition>
+            <characterDefinition character="&amp;#x016A;">Upper Case U with Line Above</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#257;">Lower Case A with Line Above</characterDefinition>
+            <characterDefinition character="&amp;#x012B;">Lower Case I with Line Above</characterDefinition>
+            <characterDefinition character="&amp;#x014D;">Lower Case O with Line Above</characterDefinition>
+            <characterDefinition character="&amp;#x016B;">Lower Case U with Line Above</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#7712;">Upper Case G with Line Above</characterDefinition>
+            <characterDefinition character="&amp;#7713;">Lower Case G with Line Above</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+
+    <characterSubset name="Line Below">
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#7686;">Upper Case B with Line Below</characterDefinition>
+            <characterDefinition character="&amp;#7694;">Upper Case D with Line Below</characterDefinition>
+            <!-- There apparently is NO upper case H with a line below -->
+            <characterDefinition character="&amp;#7732;">Upper Case K with Line Below</characterDefinition>
+            <characterDefinition character="&amp;#7738;">Upper Case L with Line Below</characterDefinition>
+            <characterDefinition character="&amp;#7752;">Upper Case N with Line Below</characterDefinition>
+            <characterDefinition character="&amp;#7774;">Upper Case R with Line Below</characterDefinition>
+            <characterDefinition character="&amp;#7790;">Upper Case T with Line Below</characterDefinition>
+            <characterDefinition character="&amp;#7828;">Upper Case Z with Line Below</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#7687;">Lower Case B with Line Below</characterDefinition>
+            <characterDefinition character="&amp;#7695;">Lower Case D with Line Below</characterDefinition>
+            <characterDefinition character="&amp;#7830;">Lower Case H with Line Below</characterDefinition>
+            <characterDefinition character="&amp;#7733;">Lower Case K with Line Below</characterDefinition>
+            <characterDefinition character="&amp;#7739;">Lower Case L with Line Below</characterDefinition>
+            <characterDefinition character="&amp;#7753;">Lower Case N with Line Below</characterDefinition>
+            <characterDefinition character="&amp;#7775;">Lower Case R with Line Below</characterDefinition>
+            <characterDefinition character="&amp;#7791;">Lower Case T with Line Below</characterDefinition>
+            <characterDefinition character="&amp;#7829;">Lower Case Z with Line Below</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+
+    <characterSubset name="Miscellaneous">
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x1e38;">Upper Case L with Line Above and Dot Below</characterDefinition>
+            <characterDefinition character="&amp;#x01ECE;">Upper Case O with Hook Above</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#7754;">Upper Case N with Circumflex Below</characterDefinition>
+            <characterDefinition character="&amp;#7772;">Upper Case R with Line Above and Dot Below</characterDefinition>
+            <characterDefinition character="&amp;#346;">Upper Case S with Accent</characterDefinition>
+            <characterDefinition character="&amp;#7804;">Upper Case V with Tilde</characterDefinition>
+            <characterDefinition character="&amp;#7928;">Upper Case U with Tilde</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x1e39;">Lower Case L with Line Above and Dot Below</characterDefinition>
+            <characterDefinition character="&amp;#x01ECF;">Lower Case O with Hook Above</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#7755;">Lower Case N with Circumflex Below</characterDefinition>
+            <characterDefinition character="&amp;#7773;">Lower Case R with Line Above and Dot Below</characterDefinition>
+            <characterDefinition character="&amp;#347;">Upper Case S with Accent</characterDefinition>
+            <characterDefinition character="&amp;#7805;">Lower Case V with Tilde</characterDefinition>
+            <characterDefinition character="&amp;#7929;">Lower Case U with Tilde</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+</characterSet>

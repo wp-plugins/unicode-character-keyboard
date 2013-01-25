@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Version 1.0 by Terry O'Brien -->
+<characterSet name="Dingbats" type="Dingbats" description="Standard Dingbats" >
+
+    <characterSubset name="Dingbats" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#9985;">Upper Blade Scissors</characterDefinition>
+            <characterDefinition character="&amp;#9986;">Black Scissors</characterDefinition>
+            <characterDefinition character="&amp;#9987;">Lower Blade Scissors</characterDefinition>
+            <characterDefinition character="&amp;#9988;">White Scissors</characterDefinition>
+            <characterDefinition character="&amp;#9990;">Telephone Location Sign</characterDefinition>
+            <characterDefinition character="&amp;#9991;">Tape Drive</characterDefinition>
+            <characterDefinition character="&amp;#9992;">Airplane</characterDefinition>
+            <characterDefinition character="&amp;#9993;">Envelope</characterDefinition>
+            <characterDefinition character="&amp;#9996;">Victory Hand</characterDefinition>
+            <characterDefinition character="&amp;#9997;">Writing Hand</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#9998;">Lower Right Pencil</characterDefinition>
+            <characterDefinition character="&amp;#9999;">Pencil</characterDefinition>
+            <characterDefinition character="&amp;#10000;">Upper Right Pencil</characterDefinition>
+            <characterDefinition character="&amp;#10001;">White Nib</characterDefinition>
+            <characterDefinition character="&amp;#10002;">Black Nib</characterDefinition>
+            <characterDefinition character="&amp;#10003;">Check Mark</characterDefinition>
+            <characterDefinition character="&amp;#10004;">Heavy Check Mark</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#10005;">Multiplication X</characterDefinition>
+            <characterDefinition character="&amp;#10006;">Heavy Multiplication X</characterDefinition>
+            <characterDefinition character="&amp;#10007;">Ballot X</characterDefinition>
+            <characterDefinition character="&amp;#10008;">Heavy Ballot X </characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+    <characterSubset name="Bars" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#10072;">Light Vertical Bar</characterDefinition>
+            <characterDefinition character="&amp;#10073;">Medium Vertical Bar</characterDefinition>
+            <characterDefinition character="&amp;#10074;">Heavy Vertical Bar</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+    <characterSubset name="Ornaments" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#10075;">Heavy Single Turned Comma Quotation Mark Ornament</characterDefinition>
+            <characterDefinition character="&amp;#10076;">Heavy Single Comma Quotation Mark Ornament</characterDefinition>
+            <characterDefinition character="&amp;#10077;">Heavy Double Turned Comma Quotation Mark Ornament</characterDefinition>
+            <characterDefinition character="&amp;#10078;">Heavy Double Comma Quotation Mark Ornament</characterDefinition>
+            <characterDefinition character="&amp;#10081;">Curved Stem Paragraph Sign Ornament</characterDefinition>
+            <characterDefinition character="&amp;#10082;">Heavy Exclamation Mark Ornament</characterDefinition>
+            <characterDefinition character="&amp;#10083;">Heavy Heart Exclamation Mark Ornament</characterDefinition>
+            <characterDefinition character="&amp;#10084;">Heavy Black Heart</characterDefinition>
+            <characterDefinition character="&amp;#10085;">Rotated Heavy Black Heart Bullet</characterDefinition>
+            <characterDefinition character="&amp;#10086;">Floral Heart</characterDefinition>
+            <characterDefinition character="&amp;#10087;">Rotated Floral Heart Bullet</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+    <characterSubset name="Parentheses" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#10098;">Light Left Tortoise Shell Bracket Ornament</characterDefinition>
+            <characterDefinition character="&amp;#10099;">Light Right Tortoise Shell Bracket Ornament</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#10088;">Medium Left Parenthesis Ornament</characterDefinition>
+            <characterDefinition character="&amp;#10089;">Medium Right Parenthesis Ornament</characterDefinition>
+            <characterDefinition character="&amp;#10090;">Medium Flattened Left Parenthesis Ornament</characterDefinition>
+            <characterDefinition character="&amp;#10091;">Medium Flattened Right Parenthesis Ornament</characterDefinition>
+            <characterDefinition character="&amp;#10092;">Medium Left-Pointing Angle Bracket Ornament</characterDefinition>
+            <characterDefinition character="&amp;#10093;">Medium Right-Pointing Angle Bracket Ornament</characterDefinition>
+            <characterDefinition character="&amp;#10100;">Medium Left Circle Bracket Ornament</characterDefinition>
+            <characterDefinition character="&amp;#10101;">Medium Right Circle Bracket Ornament </characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#10094;">Heavy Left-Pointing Angle Quotation Mark Ornament</characterDefinition>
+            <characterDefinition character="&amp;#10095;">Heavy Right-Pointing Angle Quotation Mark Ornament</characterDefinition>
+            <characterDefinition character="&amp;#10096;">Heavy Left-Pointing Angle Bracket Ornament</characterDefinition>
+            <characterDefinition character="&amp;#10097;">Heavy Right-Pointing Angle Bracket Ornament</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+    <characterSubset name="Map" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#9832;">Hot Springs</characterDefinition>
+            <characterDefinition character="&amp;#9874;">Hammer and Pick</characterDefinition>
+            <characterDefinition character="&amp;#9875;">Anchor</characterDefinition>
+            <characterDefinition character="&amp;#9876;">Crossed Swords</characterDefinition>
+            <characterDefinition character="&amp;#9935;">Pick</characterDefinition>
+            <characterDefinition character="&amp;#9961;">Shinto Shrine</characterDefinition>
+            <characterDefinition character="&amp;#9962;">Church</characterDefinition>
+            <characterDefinition character="&amp;#9963;">Castle</characterDefinition>
+            <characterDefinition character="&amp;#9964;">Historic Site</characterDefinition>
+            <characterDefinition character="&amp;#9967;">Map Symbol for Lighthouse</characterDefinition>
+            <characterDefinition character="&amp;#9968;">Mountain</characterDefinition>
+            <characterDefinition character="&amp;#9971;">Flag in Hole</characterDefinition>
+            <characterDefinition character="&amp;#9972;">Ferry</characterDefinition>
+            <characterDefinition character="&amp;#9973;">Sailboat</characterDefinition>
+            <characterDefinition character="&amp;#9978;">Tent</characterDefinition>
+            <characterDefinition character="&amp;#9980;">Headstone Graveyard Symbol</characterDefinition>
+            <characterDefinition character="&amp;#9981;">Fuel Pump</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+    <characterSubset name="Music" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#9833;">Quarter Note</characterDefinition>
+            <characterDefinition character="&amp;#9834;">Eighth Note</characterDefinition>
+            <characterDefinition character="&amp;#9835;">Beamed Eighth Notes</characterDefinition>
+            <characterDefinition character="&amp;#9836;">Beamed Sixteenth Notes</characterDefinition>
+            <characterDefinition character="&amp;#9837;">Music Flat Sign</characterDefinition>
+            <characterDefinition character="&amp;#9838;">Music Natural Sign</characterDefinition>
+            <characterDefinition character="&amp;#9839;">Music Sharp Sign</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+    <characterSubset name="Sports" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#9917;">Soccer Ball</characterDefinition>
+            <characterDefinition character="&amp;#9918;">Baseball</characterDefinition>
+            <characterDefinition character="&amp;#9975;">Skier</characterDefinition>
+            <characterDefinition character="&amp;#9976;">Ice Skate</characterDefinition>
+            <characterDefinition character="&amp;#9977;">Person with Ball</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+    <characterSubset name="Traffic" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#9886;">Three Lines Converging Right</characterDefinition>
+            <characterDefinition character="&amp;#9887;">Three Lines Converging Left</characterDefinition>
+            <characterDefinition character="&amp;#9932;">Crossing Lanes</characterDefinition>
+            <characterDefinition character="&amp;#9933;">Disabled Car</characterDefinition>
+            <characterDefinition character="&amp;#9938;">Circled Crossing Lanes</characterDefinition>
+            <characterDefinition character="&amp;#9939;">Chains</characterDefinition>
+            <characterDefinition character="&amp;#9940;">No Entry</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#9941;">Alternate One-way Left Way Traffic</characterDefinition>
+            <characterDefinition character="&amp;#9942;">Black Two-way Left Way Traffic</characterDefinition>
+            <characterDefinition character="&amp;#9943;">White Two-way Left Way Traffic</characterDefinition>
+            <characterDefinition character="&amp;#9944;">Black Left Lane Merge</characterDefinition>
+            <characterDefinition character="&amp;#9945;">White Left Lane Merge</characterDefinition>
+            <characterDefinition character="&amp;#9946;">Drive Slow Sign</characterDefinition>
+            <characterDefinition character="&amp;#9947;">Heavy White Down-Pointing Triangle</characterDefinition>
+            <characterDefinition character="&amp;#9948;">Left Closed Entry</characterDefinition>
+            <characterDefinition character="&amp;#9936;">Car Sliding</characterDefinition>
+            <characterDefinition character="&amp;#9951;">Black Truck</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#9952;">Restricted Left Entry-1</characterDefinition>
+            <characterDefinition character="&amp;#9953;">Restricted Left Entry-2</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+    <characterSubset name="Transportation" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#128640;">ROCKET</characterDefinition>
+            <characterDefinition character="&amp;#128641;">HELICOPTER</characterDefinition>
+            <characterDefinition character="&amp;#128642;">STEAM LOCOMOTIVE</characterDefinition>
+            <characterDefinition character="&amp;#128643;">RAILWAY CAR</characterDefinition>
+            <characterDefinition character="&amp;#128644;">HIGH-SPEED TRAIN</characterDefinition>
+            <characterDefinition character="&amp;#128645;">HIGH-SPEED TRAIN WITH BULLET NOSE</characterDefinition>
+            <characterDefinition character="&amp;#128646;">TRAIN</characterDefinition>
+            <characterDefinition character="&amp;#128647;">METRO</characterDefinition>
+            <characterDefinition character="&amp;#128648;">LIGHT RAIL</characterDefinition>
+            <characterDefinition character="&amp;#128649;">STATION</characterDefinition>
+            <characterDefinition character="&amp;#128650;">TRAM</characterDefinition>
+            <characterDefinition character="&amp;#128651;">TRAM CAR</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#128652;">BUS</characterDefinition>
+            <characterDefinition character="&amp;#128653;">ONCOMING BUS</characterDefinition>
+            <characterDefinition character="&amp;#128654;">TROLLEYBUS</characterDefinition>
+            <characterDefinition character="&amp;#128655;">BUS STOP</characterDefinition>
+            <characterDefinition character="&amp;#128656;">MINIBUS</characterDefinition>
+            <characterDefinition character="&amp;#128657;">AMBULANCE</characterDefinition>
+            <characterDefinition character="&amp;#128658;">FIRE ENGINE</characterDefinition>
+            <characterDefinition character="&amp;#128659;">POLICE CAR</characterDefinition>
+            <characterDefinition character="&amp;#128660;">ONCOMING POLICE CAR</characterDefinition>
+            <characterDefinition character="&amp;#128661;">TAXI</characterDefinition>
+            <characterDefinition character="&amp;#128662;">ONCOMING TAXI</characterDefinition>
+            <characterDefinition character="&amp;#128663;">AUTOMOBILE</characterDefinition>
+            <characterDefinition character="&amp;#128664;">ONCOMING AUTOMOBILE</characterDefinition>
+            <characterDefinition character="&amp;#128665;">RECREATIONAL VEHICLE</characterDefinition>
+            <characterDefinition character="&amp;#128666;">DELIVERY TRUCK</characterDefinition>
+            <characterDefinition character="&amp;#128667;">ARTICULATED LORRY</characterDefinition>
+            <characterDefinition character="&amp;#128668;">TRACTOR</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#128669;">MONORAIL</characterDefinition>
+            <characterDefinition character="&amp;#128670;">MOUNTAIN RAILWAY</characterDefinition>
+            <characterDefinition character="&amp;#128671;">SUSPENSION RAILWAY</characterDefinition>
+            <characterDefinition character="&amp;#128672;">MOUNTAIN CABLEWAY</characterDefinition>
+            <characterDefinition character="&amp;#128673;">AERIAL TRAMWAY</characterDefinition>
+            <characterDefinition character="&amp;#128674;">SHIP</characterDefinition>
+            <characterDefinition character="&amp;#128675;">ROWBOAT</characterDefinition>
+            <characterDefinition character="&amp;#128676;">SPEEDBOAT</characterDefinition>
+            <characterDefinition character="&amp;#128677;">HORIZONTAL TRAFFIC LIGHT</characterDefinition>
+            <characterDefinition character="&amp;#128678;">VERTICAL TRAFFIC LIGHT</characterDefinition>
+            <characterDefinition character="&amp;#128679;">CONSTRUCTION SIGN</characterDefinition>
+            <characterDefinition character="&amp;#128680;">POLICE CARS REVOLVING LIGHT</characterDefinition>
+            <characterDefinition character="&amp;#128681;">TRIANGULAR FLAG ON POST</characterDefinition>
+            <characterDefinition character="&amp;#128682;">DOOR</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#128683;">NO ENTRY SIGN</characterDefinition>
+            <characterDefinition character="&amp;#128684;">SMOKING SYMBOL</characterDefinition>
+            <characterDefinition character="&amp;#128685;">NO SMOKING SYMBOL</characterDefinition>
+            <characterDefinition character="&amp;#128686;">PUT LITTER IN ITS PLACE SYMBOL</characterDefinition>
+            <characterDefinition character="&amp;#128687;">DO NOT LITTER SYMBOL</characterDefinition>
+            <characterDefinition character="&amp;#128688;">POTABLE WATER SYMBOL</characterDefinition>
+            <characterDefinition character="&amp;#128689;">NON-POTABLE WATER SYMBOL</characterDefinition>
+            <characterDefinition character="&amp;#128690;">BICYCLE</characterDefinition>
+            <characterDefinition character="&amp;#128691;">NO BICYCLES</characterDefinition>
+            <characterDefinition character="&amp;#128692;">BICYCLIST</characterDefinition>
+            <characterDefinition character="&amp;#128693;">MOUNTAIN BICYCLIST</characterDefinition>
+            <characterDefinition character="&amp;#128694;">PEDESTRIAN</characterDefinition>
+            <characterDefinition character="&amp;#128695;">NO PEDESTRIANS</characterDefinition>
+            <characterDefinition character="&amp;#128696;">CHILDREN CROSSING</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#128697;">MENS SYMBOL</characterDefinition>
+            <characterDefinition character="&amp;#128698;">WOMENS SYMBOL</characterDefinition>
+            <characterDefinition character="&amp;#128699;">RESTROOM</characterDefinition>
+            <characterDefinition character="&amp;#128700;">BABY SYMBOL</characterDefinition>
+            <characterDefinition character="&amp;#128701;">TOILET</characterDefinition>
+            <characterDefinition character="&amp;#128702;">WATER CLOSET</characterDefinition>
+            <characterDefinition character="&amp;#128703;">SHOWER</characterDefinition>
+            <characterDefinition character="&amp;#128704;">BATH</characterDefinition>
+            <characterDefinition character="&amp;#128705;">BATHTUB</characterDefinition>
+            <characterDefinition character="&amp;#128706;">PASSPORT CONTROL</characterDefinition>
+            <characterDefinition character="&amp;#128707;">CUSTOMS</characterDefinition>
+            <characterDefinition character="&amp;#128708;">BAGGAGE CLAIM</characterDefinition>
+            <characterDefinition character="&amp;#128709;">LEFT LUGGAGE</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+    <characterSubset name="Weather" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#9728;">Black Sun with rays</characterDefinition>
+            <characterDefinition character="&amp;#9729;">Cloud</characterDefinition>
+            <characterDefinition character="&amp;#9730;">Umbrella</characterDefinition>
+            <characterDefinition character="&amp;#9731;">Snowman</characterDefinition>
+            <characterDefinition character="&amp;#9735;">Lightning</characterDefinition>
+            <characterDefinition character="&amp;#9736;">Thunderstorm</characterDefinition>
+            <characterDefinition character="&amp;#9737;">Sun</characterDefinition>
+            <characterDefinition character="&amp;#9748;">Nmbrella with Rain Drops</characterDefinition>
+            <characterDefinition character="&amp;#9924;">Snowman without Snow</characterDefinition>
+            <characterDefinition character="&amp;#9925;">Sun Behind Cloud</characterDefinition>
+            <characterDefinition character="&amp;#9926;">Rain</characterDefinition>
+            <characterDefinition character="&amp;#9927;">Black Snowman</characterDefinition>
+            <characterDefinition character="&amp;#9928;">Thunder Cloud and Rain</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+</characterSet>

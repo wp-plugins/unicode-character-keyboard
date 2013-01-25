@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Version 1.0 by Terry O'Brien -->
+<characterSet name="Games" type="Symbols" description="Games" >
+
+    <characterSubset name="Chess" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#9818;">Black Chess King</characterDefinition>
+            <characterDefinition character="&amp;#9819;">Black Chess Queen</characterDefinition>
+            <characterDefinition character="&amp;#9820;">Black Chess Rook</characterDefinition>
+            <characterDefinition character="&amp;#9821;">Black Chess Bishop</characterDefinition>
+            <characterDefinition character="&amp;#9822;">Black Chess Knight</characterDefinition>
+            <characterDefinition character="&amp;#9823;">Black Chess Pawn</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#9812;">White Chess King</characterDefinition>
+            <characterDefinition character="&amp;#9813;">White Chess Queen</characterDefinition>
+            <characterDefinition character="&amp;#9814;">White Chess Rook</characterDefinition>
+            <characterDefinition character="&amp;#9815;">White Chess Bishop</characterDefinition>
+            <characterDefinition character="&amp;#9816;">White Chess Knight</characterDefinition>
+            <characterDefinition character="&amp;#9817;">White Chess Pawn</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+    <characterSubset name="Dice" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#9856;">Die Face 1</characterDefinition>
+            <characterDefinition character="&amp;#9857;">Die Face 2</characterDefinition>
+            <characterDefinition character="&amp;#9858;">Die Face 3</characterDefinition>
+            <characterDefinition character="&amp;#9859;">Die Face 4</characterDefinition>
+            <characterDefinition character="&amp;#9860;">Die Face 5</characterDefinition>
+            <characterDefinition character="&amp;#9861;">Die Face 6</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+    <characterSubset name="Dominoes: Horizontal" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#127024;">Domino Tile Horizontal Back</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#127025;">Domino Tile Horizontal-00-00</characterDefinition>
+            <characterDefinition character="&amp;#127026;">Domino Tile Horizontal-00-01</characterDefinition>
+            <characterDefinition character="&amp;#127027;">Domino Tile Horizontal-00-02</characterDefinition>
+            <characterDefinition character="&amp;#127028;">Domino Tile Horizontal-00-03</characterDefinition>
+            <characterDefinition character="&amp;#127029;">Domino Tile Horizontal-00-04</characterDefinition>
+            <characterDefinition character="&amp;#127030;">Domino Tile Horizontal-00-05</characterDefinition>
+            <characterDefinition character="&amp;#127031;">Domino Tile Horizontal-00-06</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#127032;">Domino Tile Horizontal-01-00</characterDefinition>
+            <characterDefinition character="&amp;#127033;">Domino Tile Horizontal-01-01</characterDefinition>
+            <characterDefinition character="&amp;#127034;">Domino Tile Horizontal-01-02</characterDefinition>
+            <characterDefinition character="&amp;#127035;">Domino Tile Horizontal-01-03</characterDefinition>
+            <characterDefinition character="&amp;#127036;">Domino Tile Horizontal-01-04</characterDefinition>
+            <characterDefinition character="&amp;#127037;">Domino Tile Horizontal-01-05</characterDefinition>
+            <characterDefinition character="&amp;#127038;">Domino Tile Horizontal-01-06</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#127039;">Domino Tile Horizontal-02-00</characterDefinition>
+            <characterDefinition character="&amp;#127040;">Domino Tile Horizontal-02-01</characterDefinition>
+            <characterDefinition character="&amp;#127041;">Domino Tile Horizontal-02-02</characterDefinition>
+            <characterDefinition character="&amp;#127042;">Domino Tile Horizontal-02-03</characterDefinition>
+            <characterDefinition character="&amp;#127043;">Domino Tile Horizontal-02-04</characterDefinition>
+            <characterDefinition character="&amp;#127044;">Domino Tile Horizontal-02-05</characterDefinition>
+            <characterDefinition character="&amp;#127045;">Domino Tile Horizontal-02-06</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#127046;">Domino Tile Horizontal-03-00</characterDefinition>
+            <characterDefinition character="&amp;#127047;">Domino Tile Horizontal-03-01</characterDefinition>
+            <characterDefinition character="&amp;#127048;">Domino Tile Horizontal-03-02</characterDefinition>
+            <characterDefinition character="&amp;#127049;">Domino Tile Horizontal-03-03</characterDefinition>
+            <characterDefinition character="&amp;#127050;">Domino Tile Horizontal-03-04</characterDefinition>
+            <characterDefinition character="&amp;#127051;">Domino Tile Horizontal-03-05</characterDefinition>
+            <characterDefinition character="&amp;#127052;">Domino Tile Horizontal-03-06</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#127053;">Domino Tile Horizontal-04-00</characterDefinition>
+            <characterDefinition character="&amp;#127054;">Domino Tile Horizontal-04-01</characterDefinition>
+            <characterDefinition character="&amp;#127055;">Domino Tile Horizontal-04-02</characterDefinition>
+            <characterDefinition character="&amp;#127056;">Domino Tile Horizontal-04-03</characterDefinition>
+            <characterDefinition character="&amp;#127057;">Domino Tile Horizontal-04-04</characterDefinition>
+            <characterDefinition character="&amp;#127058;">Domino Tile Horizontal-04-05</characterDefinition>
+            <characterDefinition character="&amp;#127059;">Domino Tile Horizontal-04-06</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#127060;">Domino Tile Horizontal-05-00</characterDefinition>
+            <characterDefinition character="&amp;#127061;">Domino Tile Horizontal-05-01</characterDefinition>
+            <characterDefinition character="&amp;#127062;">Domino Tile Horizontal-05-02</characterDefinition>
+            <characterDefinition character="&amp;#127063;">Domino Tile Horizontal-05-03</characterDefinition>
+            <characterDefinition character="&amp;#127064;">Domino Tile Horizontal-05-04</characterDefinition>
+            <characterDefinition character="&amp;#127065;">Domino Tile Horizontal-05-05</characterDefinition>
+            <characterDefinition character="&amp;#127066;">Domino Tile Horizontal-05-06</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#127067;">Domino Tile Horizontal-06-00</characterDefinition>
+            <characterDefinition character="&amp;#127068;">Domino Tile Horizontal-06-01</characterDefinition>
+            <characterDefinition character="&amp;#127069;">Domino Tile Horizontal-06-02</characterDefinition>
+            <characterDefinition character="&amp;#127070;">Domino Tile Horizontal-06-03</characterDefinition>
+            <characterDefinition character="&amp;#127071;">Domino Tile Horizontal-06-04</characterDefinition>
+            <characterDefinition character="&amp;#127072;">Domino Tile Horizontal-06-05</characterDefinition>
+            <characterDefinition character="&amp;#127073;">Domino Tile Horizontal-06-06</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+    <characterSubset name="Dominoes: Vertical" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#127074;">Domino Tile Vertical Back</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#127075;">Domino Tile Vertical-00-00</characterDefinition>
+            <characterDefinition character="&amp;#127076;">Domino Tile Vertical-00-01</characterDefinition>
+            <characterDefinition character="&amp;#127077;">Domino Tile Vertical-00-02</characterDefinition>
+            <characterDefinition character="&amp;#127078;">Domino Tile Vertical-00-03</characterDefinition>
+            <characterDefinition character="&amp;#127079;">Domino Tile Vertical-00-04</characterDefinition>
+            <characterDefinition character="&amp;#127080;">Domino Tile Vertical-00-05</characterDefinition>
+            <characterDefinition character="&amp;#127081;">Domino Tile Vertical-00-06</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#127082;">Domino Tile Vertical-01-00</characterDefinition>
+            <characterDefinition character="&amp;#127083;">Domino Tile Vertical-01-01</characterDefinition>
+            <characterDefinition character="&amp;#127084;">Domino Tile Vertical-01-02</characterDefinition>
+            <characterDefinition character="&amp;#127085;">Domino Tile Vertical-01-03</characterDefinition>
+            <characterDefinition character="&amp;#127086;">Domino Tile Vertical-01-04</characterDefinition>
+            <characterDefinition character="&amp;#127087;">Domino Tile Vertical-01-05</characterDefinition>
+            <characterDefinition character="&amp;#127088;">Domino Tile Vertical-01-06</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#127089;">Domino Tile Vertical-02-00</characterDefinition>
+            <characterDefinition character="&amp;#127090;">Domino Tile Vertical-02-01</characterDefinition>
+            <characterDefinition character="&amp;#127091;">Domino Tile Vertical-02-02</characterDefinition>
+            <characterDefinition character="&amp;#127092;">Domino Tile Vertical-02-03</characterDefinition>
+            <characterDefinition character="&amp;#127093;">Domino Tile Vertical-02-04</characterDefinition>
+            <characterDefinition character="&amp;#127094;">Domino Tile Vertical-02-05</characterDefinition>
+            <characterDefinition character="&amp;#127095;">Domino Tile Vertical-02-06</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#127096;">Domino Tile Vertical-03-00</characterDefinition>
+            <characterDefinition character="&amp;#127097;">Domino Tile Vertical-03-01</characterDefinition>
+            <characterDefinition character="&amp;#127098;">Domino Tile Vertical-03-02</characterDefinition>
+            <characterDefinition character="&amp;#127099;">Domino Tile Vertical-03-03</characterDefinition>
+            <characterDefinition character="&amp;#127100;">Domino Tile Vertical-03-04</characterDefinition>
+            <characterDefinition character="&amp;#127101;">Domino Tile Vertical-03-05</characterDefinition>
+            <characterDefinition character="&amp;#127102;">Domino Tile Vertical-03-06</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#127103;">Domino Tile Vertical-04-00</characterDefinition>
+            <characterDefinition character="&amp;#127104;">Domino Tile Vertical-04-01</characterDefinition>
+            <characterDefinition character="&amp;#127105;">Domino Tile Vertical-04-02</characterDefinition>
+            <characterDefinition character="&amp;#127106;">Domino Tile Vertical-04-03</characterDefinition>
+            <characterDefinition character="&amp;#127107;">Domino Tile Vertical-04-04</characterDefinition>
+            <characterDefinition character="&amp;#127108;">Domino Tile Vertical-04-05</characterDefinition>
+            <characterDefinition character="&amp;#127109;">Domino Tile Vertical-04-06</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#127110;">Domino Tile Vertical-05-00</characterDefinition>
+            <characterDefinition character="&amp;#127111;">Domino Tile Vertical-05-01</characterDefinition>
+            <characterDefinition character="&amp;#127112;">Domino Tile Vertical-05-02</characterDefinition>
+            <characterDefinition character="&amp;#127113;">Domino Tile Vertical-05-03</characterDefinition>
+            <characterDefinition character="&amp;#127114;">Domino Tile Vertical-05-04</characterDefinition>
+            <characterDefinition character="&amp;#127115;">Domino Tile Vertical-05-05</characterDefinition>
+            <characterDefinition character="&amp;#127116;">Domino Tile Vertical-05-06</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#127117;">Domino Tile Vertical-06-00</characterDefinition>
+            <characterDefinition character="&amp;#127118;">Domino Tile Vertical-06-01</characterDefinition>
+            <characterDefinition character="&amp;#127119;">Domino Tile Vertical-06-02</characterDefinition>
+            <characterDefinition character="&amp;#127120;">Domino Tile Vertical-06-03</characterDefinition>
+            <characterDefinition character="&amp;#127121;">Domino Tile Vertical-06-04</characterDefinition>
+            <characterDefinition character="&amp;#127122;">Domino Tile Vertical-06-05</characterDefinition>
+            <characterDefinition character="&amp;#127123;">Domino Tile Vertical-06-06</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+    <characterSubset name="Draughts" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#9920;">White Draughts Man</characterDefinition>
+            <characterDefinition character="&amp;#9921;">White Draughts King</characterDefinition>
+            <characterDefinition character="&amp;#9922;">Black Draughts Man</characterDefinition>
+            <characterDefinition character="&amp;#9923;">Black Draughts King</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+    <characterSubset name="Mah-Jong" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#127019;">Mah-Jong Tile Back</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#126976;">Mah-Jong Tile East Wind</characterDefinition>
+            <characterDefinition character="&amp;#126977;">Mah-Jong Tile South Wind</characterDefinition>
+            <characterDefinition character="&amp;#126978;">Mah-Jong Tile West Wind</characterDefinition>
+            <characterDefinition character="&amp;#126979;">Mah-Jong Tile North Wind</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#126980;">Mah-Jong Tile Red Dragon</characterDefinition>
+            <characterDefinition character="&amp;#126981;">Mah-Jong Tile Green Dragon</characterDefinition>
+            <characterDefinition character="&amp;#126982;">Mah-Jong Tile White Dragon</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#126983;">Mah-Jong Tile One of Characters</characterDefinition>
+            <characterDefinition character="&amp;#126984;">Mah-Jong Tile Two of Characters</characterDefinition>
+            <characterDefinition character="&amp;#126985;">Mah-Jong Tile Three of Characters</characterDefinition>
+            <characterDefinition character="&amp;#126986;">Mah-Jong Tile Four of Characters</characterDefinition>
+            <characterDefinition character="&amp;#126987;">Mah-Jong Tile Five of Characters</characterDefinition>
+            <characterDefinition character="&amp;#126988;">Mah-Jong Tile Six of Characters</characterDefinition>
+            <characterDefinition character="&amp;#126989;">Mah-Jong Tile Seven of Characters</characterDefinition>
+            <characterDefinition character="&amp;#126990;">Mah-Jong Tile Eight of Characters</characterDefinition>
+            <characterDefinition character="&amp;#126991;">Mah-Jong Tile Nine of Characters</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#126992;">Mah-Jong Tile One of Bamboos</characterDefinition>
+            <characterDefinition character="&amp;#126993;">Mah-Jong Tile Two of Bamboos</characterDefinition>
+            <characterDefinition character="&amp;#126994;">Mah-Jong Tile Three of Bamboos</characterDefinition>
+            <characterDefinition character="&amp;#126995;">Mah-Jong Tile Four of Bamboos</characterDefinition>
+            <characterDefinition character="&amp;#126996;">Mah-Jong Tile Five of Bamboos</characterDefinition>
+            <characterDefinition character="&amp;#126997;">Mah-Jong Tile Six of Bamboos</characterDefinition>
+            <characterDefinition character="&amp;#126998;">Mah-Jong Tile Seven of Bamboos</characterDefinition>
+            <characterDefinition character="&amp;#126999;">Mah-Jong Tile Eight of Bamboos</characterDefinition>
+            <characterDefinition character="&amp;#127000;">Mah-Jong Tile Nine of Bamboos</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#127001;">Mah-Jong Tile One of Circles</characterDefinition>
+            <characterDefinition character="&amp;#127002;">Mah-Jong Tile Two of Circles</characterDefinition>
+            <characterDefinition character="&amp;#127003;">Mah-Jong Tile Three of Circles</characterDefinition>
+            <characterDefinition character="&amp;#127004;">Mah-Jong Tile Four of Circles</characterDefinition>
+            <characterDefinition character="&amp;#127005;">Mah-Jong Tile Five of Circles</characterDefinition>
+            <characterDefinition character="&amp;#127006;">Mah-Jong Tile Six of Circles</characterDefinition>
+            <characterDefinition character="&amp;#127007;">Mah-Jong Tile Seven of Circles</characterDefinition>
+            <characterDefinition character="&amp;#127008;">Mah-Jong Tile Eight of Circles</characterDefinition>
+            <characterDefinition character="&amp;#127009;">Mah-Jong Tile Nine of Circles</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#127010;">Mah-Jong Tile Plum</characterDefinition>
+            <characterDefinition character="&amp;#127011;">Mah-Jong Tile Orchid</characterDefinition>
+            <characterDefinition character="&amp;#127012;">Mah-Jong Tile Bamboo</characterDefinition>
+            <characterDefinition character="&amp;#127013;">Mah-Jong Tile Chrysanthemum</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#127014;">Mah-Jong Tile Spring</characterDefinition>
+            <characterDefinition character="&amp;#127015;">Mah-Jong Tile Summer</characterDefinition>
+            <characterDefinition character="&amp;#127016;">Mah-Jong Tile Autumn</characterDefinition>
+            <characterDefinition character="&amp;#127017;">Mah-Jong Tile Winter</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#127018;">Mah-Jong Tile Joker</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+    <characterSubset name="Playing Cards" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#127136;">Card Back</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#127137;">Ace of Spades</characterDefinition>
+            <characterDefinition character="&amp;#127138;">Two of Spades</characterDefinition>
+            <characterDefinition character="&amp;#127139;">Three of Spades</characterDefinition>
+            <characterDefinition character="&amp;#127140;">Four of Spades</characterDefinition>
+            <characterDefinition character="&amp;#127141;">Five of Spades</characterDefinition>
+            <characterDefinition character="&amp;#127142;">Six of Spades</characterDefinition>
+            <characterDefinition character="&amp;#127143;">Seven of Spades</characterDefinition>
+            <characterDefinition character="&amp;#127144;">Eight of Spades</characterDefinition>
+            <characterDefinition character="&amp;#127145;">Nine of Spades</characterDefinition>
+            <characterDefinition character="&amp;#127146;">Ten of Spades</characterDefinition>
+            <characterDefinition character="&amp;#127147;">Jack of Spades</characterDefinition>
+            <characterDefinition character="&amp;#127148;">Knight of Spades</characterDefinition>
+            <characterDefinition character="&amp;#127149;">Queen of Spades</characterDefinition>
+            <characterDefinition character="&amp;#127150;">King of Spades</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#127153;">Ace of Hearts</characterDefinition>
+            <characterDefinition character="&amp;#127154;">Two of Hearts</characterDefinition>
+            <characterDefinition character="&amp;#127155;">Three of Hearts</characterDefinition>
+            <characterDefinition character="&amp;#127156;">Four of Hearts</characterDefinition>
+            <characterDefinition character="&amp;#127157;">Five of Hearts</characterDefinition>
+            <characterDefinition character="&amp;#127158;">Six of Hearts</characterDefinition>
+            <characterDefinition character="&amp;#127159;">Seven of Hearts</characterDefinition>
+            <characterDefinition character="&amp;#127160;">Eight of Hearts</characterDefinition>
+            <characterDefinition character="&amp;#127161;">Nine of Hearts</characterDefinition>
+            <characterDefinition character="&amp;#127162;">Ten of Hearts</characterDefinition>
+            <characterDefinition character="&amp;#127163;">Jack of Hearts</characterDefinition>
+            <characterDefinition character="&amp;#127164;">Knight of Hearts</characterDefinition>
+            <characterDefinition character="&amp;#127165;">Queen of Hearts</characterDefinition>
+            <characterDefinition character="&amp;#127166;">King of Hearts</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#127169;">Ace of Diamonds</characterDefinition>
+            <characterDefinition character="&amp;#127170;">Two of Diamonds</characterDefinition>
+            <characterDefinition character="&amp;#127171;">Three of Diamonds</characterDefinition>
+            <characterDefinition character="&amp;#127172;">Four of Diamonds</characterDefinition>
+            <characterDefinition character="&amp;#127173;">Five of Diamonds</characterDefinition>
+            <characterDefinition character="&amp;#127174;">Six of Diamonds</characterDefinition>
+            <characterDefinition character="&amp;#127175;">Seven of Diamonds</characterDefinition>
+            <characterDefinition character="&amp;#127176;">Eight of Diamonds</characterDefinition>
+            <characterDefinition character="&amp;#127177;">Nine of Diamonds</characterDefinition>
+            <characterDefinition character="&amp;#127178;">Ten of Diamonds</characterDefinition>
+            <characterDefinition character="&amp;#127179;">Jack of Diamonds</characterDefinition>
+            <characterDefinition character="&amp;#127180;">Knight of Diamonds</characterDefinition>
+            <characterDefinition character="&amp;#127181;">Queen of Diamonds</characterDefinition>
+            <characterDefinition character="&amp;#127182;">King of Diamonds</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#127185;">Ace of Clubs</characterDefinition>
+            <characterDefinition character="&amp;#127186;">Two of Clubs</characterDefinition>
+            <characterDefinition character="&amp;#127187;">Three of Clubs</characterDefinition>
+            <characterDefinition character="&amp;#127188;">Four of Clubs</characterDefinition>
+            <characterDefinition character="&amp;#127189;">Five of Clubs</characterDefinition>
+            <characterDefinition character="&amp;#127190;">Six of Clubs</characterDefinition>
+            <characterDefinition character="&amp;#127191;">Seven of Clubs</characterDefinition>
+            <characterDefinition character="&amp;#127192;">Eight of Clubs</characterDefinition>
+            <characterDefinition character="&amp;#127193;">Nine of Clubs</characterDefinition>
+            <characterDefinition character="&amp;#127194;">Ten of Clubs</characterDefinition>
+            <characterDefinition character="&amp;#127195;">Jack of Clubs</characterDefinition>
+            <characterDefinition character="&amp;#127196;">Knight of Clubs</characterDefinition>
+            <characterDefinition character="&amp;#127197;">Queen of Clubs</characterDefinition>
+            <characterDefinition character="&amp;#127198;">King of Clubs</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#127183;">Black Joker</characterDefinition>
+            <characterDefinition character="&amp;#127199;">White Joker</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+    <characterSubset name="Playing Card Suits" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#9824;">Black Spade Suit</characterDefinition>
+            <characterDefinition character="&amp;#9829;">Black Heart Suit</characterDefinition>
+            <characterDefinition character="&amp;#9830;">Black Diamond Suit</characterDefinition>
+            <characterDefinition character="&amp;#9827;">Black Club Suit</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#9828;">White Spade Suit</characterDefinition>
+            <characterDefinition character="&amp;#9825;">White Heart Suit</characterDefinition>
+            <characterDefinition character="&amp;#9826;">White Diamond Suit</characterDefinition>
+            <characterDefinition character="&amp;#9831;">White Club Suit</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+    <characterSubset name="Shogi" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#9750;">White Shogi Piece</characterDefinition>
+            <characterDefinition character="&amp;#9929;">Turned White Shogi Piece</characterDefinition>
+            <characterDefinition character="&amp;#9751;">Black Shogi Piece</characterDefinition>
+            <characterDefinition character="&amp;#9930;">Turned Black Shogi Piece</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+</characterSet>

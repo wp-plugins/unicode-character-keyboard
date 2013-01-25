@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Version 1.0 by Terry O'Brien -->
+
+<characterSet name="Devanagari" type="Languages" description="Devanagari -- Sanskrit/Hindi/Vedic" >
+    <characterSetResource>http://www.unicode.org/charts/PDF/U0900.pdf</characterSetResource>
+    <characterSetResource>http://www.unicode.org/charts/PDF/U1CD0.pdf</characterSetResource>
+    <characterSetResource>http://www.unicode.org/charts/PDF/UA8E0.pdf</characterSetResource>
+
+    <characterSetRange>Devanagari (x0900 - x097F)</characterSetRange>
+    <characterSetRange>Vedic Extensions (x1CD0 - x1CFF)</characterSetRange>
+    <characterSetRange>Devanagari Extended (xA8E0 - xA8FF)</characterSetRange>
+    
+    <characterSetFont name="Siddhanta" url="http://svayambhava.org/index.php/en/" />
+    <characterSetFont name="Chandras" url="http://www.sanskritweb.net/cakram/index.html" />
+    <characterSetFont name="Sanskrit 2003" url="http://www.sanskritweb.net/itrans/index.html" />
+
+    <characterSubset name="Devanagari Letters">
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x0904;">DEVANAGARI LETTER SHORT A</characterDefinition>
+            <characterDefinition character="&amp;#x0905;">DEVANAGARI LETTER A</characterDefinition>
+            <characterDefinition character="&amp;#x0906;">DEVANAGARI LETTER AA</characterDefinition>
+            <characterDefinition character="&amp;#x0907;">DEVANAGARI LETTER I</characterDefinition>
+            <characterDefinition character="&amp;#x0908;">DEVANAGARI LETTER II</characterDefinition>
+            <characterDefinition character="&amp;#x0909;">DEVANAGARI LETTER U</characterDefinition>
+            <characterDefinition character="&amp;#x090A;">DEVANAGARI LETTER UU</characterDefinition>
+            <characterDefinition character="&amp;#x090B;">DEVANAGARI LETTER VOCALIC R</characterDefinition>
+            <characterDefinition character="&amp;#x090C;">DEVANAGARI LETTER VOCALIC L</characterDefinition>
+            <characterDefinition character="&amp;#x090D;">DEVANAGARI LETTER CANDRA E</characterDefinition>
+            <characterDefinition character="&amp;#x090E;">DEVANAGARI LETTER SHORT E</characterDefinition>
+            <characterDefinition character="&amp;#x090F;">DEVANAGARI LETTER E</characterDefinition>
+            <characterDefinition character="&amp;#x0910;">DEVANAGARI LETTER AI</characterDefinition>
+            <characterDefinition character="&amp;#x0911;">DEVANAGARI LETTER CANDRA O</characterDefinition>
+            <characterDefinition character="&amp;#x0912;">DEVANAGARI LETTER SHORT O</characterDefinition>
+            <characterDefinition character="&amp;#x0913;">DEVANAGARI LETTER O</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x0914;">DEVANAGARI LETTER AU</characterDefinition>
+            <characterDefinition character="&amp;#x0915;">DEVANAGARI LETTER KA</characterDefinition>
+            <characterDefinition character="&amp;#x0916;">DEVANAGARI LETTER KHA</characterDefinition>
+            <characterDefinition character="&amp;#x0917;">DEVANAGARI LETTER GA</characterDefinition>
+            <characterDefinition character="&amp;#x0918;">DEVANAGARI LETTER GHA</characterDefinition>
+            <characterDefinition character="&amp;#x0919;">DEVANAGARI LETTER NGA</characterDefinition>
+            <characterDefinition character="&amp;#x091A;">DEVANAGARI LETTER CA</characterDefinition>
+            <characterDefinition character="&amp;#x091B;">DEVANAGARI LETTER CHA</characterDefinition>
+            <characterDefinition character="&amp;#x091C;">DEVANAGARI LETTER JA</characterDefinition>
+            <characterDefinition character="&amp;#x091D;">DEVANAGARI LETTER JHA</characterDefinition>
+            <characterDefinition character="&amp;#x091E;">DEVANAGARI LETTER NYA</characterDefinition>
+            <characterDefinition character="&amp;#x091F;">DEVANAGARI LETTER TTA</characterDefinition>
+            <characterDefinition character="&amp;#x0920;">DEVANAGARI LETTER TTHA</characterDefinition>
+            <characterDefinition character="&amp;#x0921;">DEVANAGARI LETTER DDA</characterDefinition>
+            <characterDefinition character="&amp;#x0922;">DEVANAGARI LETTER DDHA</characterDefinition>
+            <characterDefinition character="&amp;#x0923;">DEVANAGARI LETTER NNA</characterDefinition>
+            <characterDefinition character="&amp;#x0924;">DEVANAGARI LETTER TA</characterDefinition>
+            <characterDefinition character="&amp;#x0925;">DEVANAGARI LETTER THA</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x0926;">DEVANAGARI LETTER DA</characterDefinition>
+            <characterDefinition character="&amp;#x0927;">DEVANAGARI LETTER DHA</characterDefinition>
+            <characterDefinition character="&amp;#x0928;">DEVANAGARI LETTER NA</characterDefinition>
+            <characterDefinition character="&amp;#x0929;">DEVANAGARI LETTER NNNA</characterDefinition>
+            <characterDefinition character="&amp;#x092A;">DEVANAGARI LETTER PA</characterDefinition>
+            <characterDefinition character="&amp;#x092B;">DEVANAGARI LETTER PHA</characterDefinition>
+            <characterDefinition character="&amp;#x092C;">DEVANAGARI LETTER BA</characterDefinition>
+            <characterDefinition character="&amp;#x092D;">DEVANAGARI LETTER BHA</characterDefinition>
+            <characterDefinition character="&amp;#x092E;">DEVANAGARI LETTER MA</characterDefinition>
+            <characterDefinition character="&amp;#x092F;">DEVANAGARI LETTER YA</characterDefinition>
+            <characterDefinition character="&amp;#x0930;">DEVANAGARI LETTER RA</characterDefinition>
+            <characterDefinition character="&amp;#x0931;">DEVANAGARI LETTER RRA</characterDefinition>
+            <characterDefinition character="&amp;#x0932;">DEVANAGARI LETTER LA</characterDefinition>
+            <characterDefinition character="&amp;#x0933;">DEVANAGARI LETTER LLA</characterDefinition>
+            <characterDefinition character="&amp;#x0934;">DEVANAGARI LETTER LLLA</characterDefinition>
+            <characterDefinition character="&amp;#x0935;">DEVANAGARI LETTER VA</characterDefinition>
+            <characterDefinition character="&amp;#x0936;">DEVANAGARI LETTER SHA</characterDefinition>
+            <characterDefinition character="&amp;#x0937;">DEVANAGARI LETTER SSA</characterDefinition>
+            <characterDefinition character="&amp;#x0938;">DEVANAGARI LETTER SA</characterDefinition>
+            <characterDefinition character="&amp;#x0939;">DEVANAGARI LETTER HA</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x0950;">DEVANAGARI OM</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x0958;">DEVANAGARI LETTER QA</characterDefinition>
+            <characterDefinition character="&amp;#x0959;">DEVANAGARI LETTER KHHA</characterDefinition>
+            <characterDefinition character="&amp;#x095A;">DEVANAGARI LETTER GHHA</characterDefinition>
+            <characterDefinition character="&amp;#x095B;">DEVANAGARI LETTER ZA</characterDefinition>
+            <characterDefinition character="&amp;#x095C;">DEVANAGARI LETTER DDDHA</characterDefinition>
+            <characterDefinition character="&amp;#x095D;">DEVANAGARI LETTER RHA</characterDefinition>
+            <characterDefinition character="&amp;#x095E;">DEVANAGARI LETTER FA</characterDefinition>
+            <characterDefinition character="&amp;#x095F;">DEVANAGARI LETTER YYA</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x0964;">DEVANAGARI DANDA</characterDefinition>
+            <characterDefinition character="&amp;#x0965;">DEVANAGARI DOUBLE DANDA</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x0972;">DEVANAGARI LETTER CANDRA A</characterDefinition>
+            <characterDefinition character="&amp;#x0973;">DEVANAGARI LETTER OE</characterDefinition>
+            <characterDefinition character="&amp;#x0974;">DEVANAGARI LETTER OOE</characterDefinition>
+            <characterDefinition character="&amp;#x0975;">DEVANAGARI LETTER AW</characterDefinition>
+            <characterDefinition character="&amp;#x0976;">DEVANAGARI LETTER UE</characterDefinition>
+            <characterDefinition character="&amp;#x0977;">DEVANAGARI LETTER UUE</characterDefinition>
+            <characterDefinition character="&amp;#x0979;">DEVANAGARI LETTER ZHA</characterDefinition>
+            <characterDefinition character="&amp;#x097A;">DEVANAGARI LETTER HEAVY YA</characterDefinition>
+            <characterDefinition character="&amp;#x097B;">DEVANAGARI LETTER GGA</characterDefinition>
+            <characterDefinition character="&amp;#x097C;">DEVANAGARI LETTER JJA</characterDefinition>
+            <characterDefinition character="&amp;#x097E;">DEVANAGARI LETTER DDDA</characterDefinition>
+            <characterDefinition character="&amp;#x097F;">DEVANAGARI LETTER BBA</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+
+    <characterSubset name="Devanagari Signs">
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x0900;">DEVANAGARI SIGN INVERTED CANDRABINDU</characterDefinition>
+            <characterDefinition character="&amp;#x0901;">DEVANAGARI SIGN CANDRABINDU</characterDefinition>
+            <characterDefinition character="&amp;#x0902;">DEVANAGARI SIGN ANUSVARA</characterDefinition>
+            <characterDefinition character="&amp;#x0903;">DEVANAGARI SIGN VISARGA</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x093A;">DEVANAGARI VOWEL SIGN OE</characterDefinition>
+            <characterDefinition character="&amp;#x093B;">DEVANAGARI VOWEL SIGN OOE</characterDefinition>
+            <characterDefinition character="&amp;#x093C;">DEVANAGARI SIGN NUKTA</characterDefinition>
+            <characterDefinition character="&amp;#x093D;">DEVANAGARI SIGN AVAGRAHA</characterDefinition>
+            <characterDefinition character="&amp;#x093E;">DEVANAGARI VOWEL SIGN AA</characterDefinition>
+            <characterDefinition character="&amp;#x093F;">DEVANAGARI VOWEL SIGN I</characterDefinition>
+            <characterDefinition character="&amp;#x0940;">DEVANAGARI VOWEL SIGN II</characterDefinition>
+            <characterDefinition character="&amp;#x0941;">DEVANAGARI VOWEL SIGN U</characterDefinition>
+            <characterDefinition character="&amp;#x0942;">DEVANAGARI VOWEL SIGN UU</characterDefinition>
+            <characterDefinition character="&amp;#x0943;">DEVANAGARI VOWEL SIGN VOCALIC R</characterDefinition>
+            <characterDefinition character="&amp;#x0944;">DEVANAGARI VOWEL SIGN VOCALIC RR</characterDefinition>
+            <characterDefinition character="&amp;#x0945;">DEVANAGARI VOWEL SIGN CANDRA E</characterDefinition>
+            <characterDefinition character="&amp;#x0946;">DEVANAGARI VOWEL SIGN SHORT E</characterDefinition>
+            <characterDefinition character="&amp;#x0947;">DEVANAGARI VOWEL SIGN E</characterDefinition>
+            <characterDefinition character="&amp;#x0948;">DEVANAGARI VOWEL SIGN AI</characterDefinition>
+            <characterDefinition character="&amp;#x0949;">DEVANAGARI VOWEL SIGN CANDRA O</characterDefinition>
+            <characterDefinition character="&amp;#x094A;">DEVANAGARI VOWEL SIGN SHORT O</characterDefinition>
+            <characterDefinition character="&amp;#x094B;">DEVANAGARI VOWEL SIGN O</characterDefinition>
+            <characterDefinition character="&amp;#x094C;">DEVANAGARI VOWEL SIGN AU</characterDefinition>
+            <characterDefinition character="&amp;#x094D;">DEVANAGARI SIGN VIRAMA</characterDefinition>
+            <characterDefinition character="&amp;#x094E;">DEVANAGARI VOWEL SIGN PRISHTHAMATRA E</characterDefinition>
+            <characterDefinition character="&amp;#x094F;">DEVANAGARI VOWEL SIGN AW</characterDefinition>
+            <characterDefinition character="&amp;#x0951;">DEVANAGARI STRESS SIGN UDATTA</characterDefinition>
+            <characterDefinition character="&amp;#x0952;">DEVANAGARI STRESS SIGN ANUDATTA</characterDefinition>
+            <characterDefinition character="&amp;#x0953;">DEVANAGARI GRAVE ACCENT</characterDefinition>
+            <characterDefinition character="&amp;#x0954;">DEVANAGARI ACUTE ACCENT</characterDefinition>
+            <characterDefinition character="&amp;#x0955;">DEVANAGARI VOWEL SIGN CANDRA LONG E</characterDefinition>
+            <characterDefinition character="&amp;#x0956;">DEVANAGARI VOWEL SIGN UE</characterDefinition>
+            <characterDefinition character="&amp;#x0957;">DEVANAGARI VOWEL SIGN UUE</characterDefinition>
+            <characterDefinition character="&amp;#x0960;">DEVANAGARI LETTER VOCALIC RR</characterDefinition>
+            <characterDefinition character="&amp;#x0961;">DEVANAGARI LETTER VOCALIC LL</characterDefinition>
+            <characterDefinition character="&amp;#x0962;">DEVANAGARI VOWEL SIGN VOCALIC L</characterDefinition>
+            <characterDefinition character="&amp;#x0963;">DEVANAGARI VOWEL SIGN VOCALIC LL</characterDefinition>
+            <characterDefinition character="&amp;#x0970;">DEVANAGARI ABBREVIATION SIGN</characterDefinition>
+            <characterDefinition character="&amp;#x0971;">DEVANAGARI SIGN HIGH SPACING DOT</characterDefinition>
+            <characterDefinition character="&amp;#x097D;">DEVANAGARI LETTER GLOTTAL STOP</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+
+    <characterSubset name="Devanagari Numbers">
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x0966;">Number 0</characterDefinition>
+            <characterDefinition character="&amp;#x0967;">Number 1</characterDefinition>
+            <characterDefinition character="&amp;#x0968;">Number 2</characterDefinition>
+            <characterDefinition character="&amp;#x0969;">Number 3</characterDefinition>
+            <characterDefinition character="&amp;#x096A;">Number 4</characterDefinition>
+            <characterDefinition character="&amp;#x096B;">Number 5</characterDefinition>
+            <characterDefinition character="&amp;#x096C;">Number 6</characterDefinition>
+            <characterDefinition character="&amp;#x096D;">Number 7</characterDefinition>
+            <characterDefinition character="&amp;#x096E;">Number 8</characterDefinition>
+            <characterDefinition character="&amp;#x096F;">Number 9</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+
+    <characterSubset name="Devanagari Extended">
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#xA8E0;">COMBINING DEVANAGARI DIGIT ZERO</characterDefinition>
+            <characterDefinition character="&amp;#xA8E1;">COMBINING DEVANAGARI DIGIT ONE</characterDefinition>
+            <characterDefinition character="&amp;#xA8E2;">COMBINING DEVANAGARI DIGIT TWO</characterDefinition>
+            <characterDefinition character="&amp;#xA8E3;">COMBINING DEVANAGARI DIGIT THREE</characterDefinition>
+            <characterDefinition character="&amp;#xA8E4;">COMBINING DEVANAGARI DIGIT FOUR</characterDefinition>
+            <characterDefinition character="&amp;#xA8E5;">COMBINING DEVANAGARI DIGIT FIVE</characterDefinition>
+            <characterDefinition character="&amp;#xA8E6;">COMBINING DEVANAGARI DIGIT SIX</characterDefinition>
+            <characterDefinition character="&amp;#xA8E7;">COMBINING DEVANAGARI DIGIT SEVEN</characterDefinition>
+            <characterDefinition character="&amp;#xA8E8;">COMBINING DEVANAGARI DIGIT EIGHT</characterDefinition>
+            <characterDefinition character="&amp;#xA8E9;">COMBINING DEVANAGARI DIGIT NINE</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#xA8EA;">COMBINING DEVANAGARI LETTER A</characterDefinition>
+            <characterDefinition character="&amp;#xA8EB;">COMBINING DEVANAGARI LETTER U</characterDefinition>
+            <characterDefinition character="&amp;#xA8EC;">COMBINING DEVANAGARI LETTER KA</characterDefinition>
+            <characterDefinition character="&amp;#xA8ED;">COMBINING DEVANAGARI LETTER NA</characterDefinition>
+            <characterDefinition character="&amp;#xA8EE;">COMBINING DEVANAGARI LETTER PA</characterDefinition>
+            <characterDefinition character="&amp;#xA8EF;">COMBINING DEVANAGARI LETTER RA</characterDefinition>
+            <characterDefinition character="&amp;#xA8F0;">COMBINING DEVANAGARI LETTER VI</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#xA8F1;">COMBINING DEVANAGARI SIGN AVAGRAHA</characterDefinition>
+            <characterDefinition character="&amp;#xA8F2;">DEVANAGARI SIGN SPACING CANDRABINDU</characterDefinition>
+            <characterDefinition character="&amp;#xA8F3;">DEVANAGARI SIGN CANDRABINDU VIRAMA</characterDefinition>
+            <characterDefinition character="&amp;#xA8F4;">DEVANAGARI SIGN DOUBLE CANDRABINDU VIRAMA</characterDefinition>
+            <characterDefinition character="&amp;#xA8F5;">DEVANAGARI SIGN CANDRABINDU TWO</characterDefinition>
+            <characterDefinition character="&amp;#xA8F6;">DEVANAGARI SIGN CANDRABINDU THREE</characterDefinition>
+            <characterDefinition character="&amp;#xA8F7;">DEVANAGARI SIGN CANDRABINDU AVAGRAHA</characterDefinition>
+            <characterDefinition character="&amp;#xA8F8;">DEVANAGARI SIGN PUSHPIKA</characterDefinition>
+            <characterDefinition character="&amp;#xA8F9;">DEVANAGARI GAP FILLER</characterDefinition>
+            <characterDefinition character="&amp;#xA8FA;">DEVANAGARI CARET</characterDefinition>
+            <characterDefinition character="&amp;#xA8FB;">DEVANAGARI HEADSTROKE</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+
+    <characterSubset name="Vedic">
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x1CD0;">VEDIC TONE KARSHANA</characterDefinition>
+            <characterDefinition character="&amp;#x1CD1;">VEDIC TONE SHARA</characterDefinition>
+            <characterDefinition character="&amp;#x1CD2;">VEDIC TONE PRENKHA</characterDefinition>
+            <characterDefinition character="&amp;#x1CD3;">VEDIC SIGN NIHSHVASA</characterDefinition>
+            <characterDefinition character="&amp;#x1CD4;">VEDIC SIGN YAJURVEDIC MIDLINE SVARITA</characterDefinition>
+            <characterDefinition character="&amp;#x1CD5;">VEDIC TONE YAJURVEDIC AGGRAVATED INDEPENDENT SVARITA</characterDefinition>
+            <characterDefinition character="&amp;#x1CD6;">VEDIC TONE YAJURVEDIC INDEPENDENT SVARITA</characterDefinition>
+            <characterDefinition character="&amp;#x1CD7;">VEDIC TONE YAJURVEDIC KATHAKA INDEPENDENT SVARITA</characterDefinition>
+            <characterDefinition character="&amp;#x1CD8;">VEDIC TONE CANDRA BELOW</characterDefinition>
+            <characterDefinition character="&amp;#x1CD9;">VEDIC TONE YAJURVEDIC KATHAKA INDEPENDENT SVARITA SCHROEDER</characterDefinition>
+            <characterDefinition character="&amp;#x1CDA;">VEDIC TONE DOUBLE SVARITA</characterDefinition>
+            <characterDefinition character="&amp;#x1CDB;">VEDIC TONE TRIPLE SVARITA</characterDefinition>
+            <characterDefinition character="&amp;#x1CDC;">VEDIC TONE KATHAKA ANUDATTA</characterDefinition>
+            <characterDefinition character="&amp;#x1CDD;">VEDIC TONE DOT BELOW</characterDefinition>
+            <characterDefinition character="&amp;#x1CDE;">VEDIC TONE TWO DOTS BELOW</characterDefinition>
+            <characterDefinition character="&amp;#x1CDF;">VEDIC TONE THREE DOTS BELOW</characterDefinition>
+            <characterDefinition character="&amp;#x1CE0;">VEDIC TONE RIGVEDIC KASHMIRI INDEPENDENT SVARITA</characterDefinition>
+            <characterDefinition character="&amp;#x1CE1;">VEDIC TONE ATHARVAVEDIC INDEPENDENT SVARITA</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x1CE2;">VEDIC SIGN VISARGA SVARITA</characterDefinition>
+            <characterDefinition character="&amp;#x1CE3;">VEDIC SIGN VISARGA UDATTA</characterDefinition>
+            <characterDefinition character="&amp;#x1CE4;">VEDIC SIGN REVERSED VISARGA UDATTA</characterDefinition>
+            <characterDefinition character="&amp;#x1CE5;">VEDIC SIGN VISARGA ANUDATTA</characterDefinition>
+            <characterDefinition character="&amp;#x1CE6;">VEDIC SIGN REVERSED VISARGA ANUDATTA</characterDefinition>
+            <characterDefinition character="&amp;#x1CE7;">VEDIC SIGN VISARGA UDATTA WITH TAIL</characterDefinition>
+            <characterDefinition character="&amp;#x1CE8;">VEDIC SIGN VISARGA ANUDATTA WITH TAIL</characterDefinition>
+            <characterDefinition character="&amp;#x1CE9;">VEDIC SIGN ANUSVARA ANTARGOMUKHA</characterDefinition>
+            <characterDefinition character="&amp;#x1CEA;">VEDIC SIGN ANUSVARA BAHIRGOMUKHA</characterDefinition>
+            <characterDefinition character="&amp;#x1CEB;">VEDIC SIGN ANUSVARA VAMAGOMUKHA</characterDefinition>
+            <characterDefinition character="&amp;#x1CEC;">VEDIC SIGN ANUSVARA VAMAGOMUKHA WITH TAIL</characterDefinition>
+            <characterDefinition character="&amp;#x1CED;">VEDIC SIGN TIRYAK</characterDefinition>
+            <characterDefinition character="&amp;#x1CEE;">VEDIC SIGN HEXIFORM LONG ANUSVARA</characterDefinition>
+            <characterDefinition character="&amp;#x1CEF;">VEDIC SIGN LONG ANUSVARA</characterDefinition>
+            <characterDefinition character="&amp;#x1CF0;">VEDIC SIGN RTHANG LONG ANUSVARA</characterDefinition>
+            <characterDefinition character="&amp;#x1CF1;">VEDIC SIGN ANUSVARA UBHAYATO MUKHA</characterDefinition>
+            <characterDefinition character="&amp;#x1CF2;">VEDIC SIGN ARDHAVISARGA</characterDefinition>
+            <characterDefinition character="&amp;#x1CF3;">VEDIC SIGN ROTATED ARDHAVISARGA</characterDefinition>
+            <characterDefinition character="&amp;#x1CF4;">VEDIC TONE CANDRA ABOVE</characterDefinition>
+            <characterDefinition character="&amp;#x1CF5;">VEDIC SIGN JIHVAMULIYA</characterDefinition>
+            <characterDefinition character="&amp;#x1CF6;">VEDIC SIGN UPADHMANIYA</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+ </characterSet>

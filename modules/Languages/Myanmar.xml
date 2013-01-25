@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Version 1.0 by Terry O'Brien -->
+
+<characterSet name="Myanmar" type="Languages" description="Burmese / Myanmar language and extended characters" >
+    <characterSetRange>Myanmar (x1000 - x109F)</characterSetRange>
+    <characterSetRange>Myanmar Extended (xAA60 - xAA7F)</characterSetRange>
+
+    <characterSetFont name="Padauk" url="http://scripts.sil.org/cms/scripts/page.php?item_id=Padauk" /> 
+    <characterSetResource>http://www.unicode.org/charts/PDF/U1000.pdf</characterSetResource>
+    <characterSetResource>http://www.unicode.org/charts/PDF/UAA60.pdf</characterSetResource>
+
+    <characterSubset name="Letters">
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x1000;">MYANMAR LETTER KA</characterDefinition>
+            <characterDefinition character="&amp;#x1001;">MYANMAR LETTER KHA</characterDefinition>
+            <characterDefinition character="&amp;#x1002;">MYANMAR LETTER GA</characterDefinition>
+            <characterDefinition character="&amp;#x1003;">MYANMAR LETTER GHA</characterDefinition>
+            <characterDefinition character="&amp;#x1004;">MYANMAR LETTER NGA</characterDefinition>
+            <characterDefinition character="&amp;#x1005;">MYANMAR LETTER CA</characterDefinition>
+            <characterDefinition character="&amp;#x1006;">MYANMAR LETTER CHA</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x1007;">MYANMAR LETTER JA</characterDefinition>
+            <characterDefinition character="&amp;#x1008;">MYANMAR LETTER JHA</characterDefinition>
+            <characterDefinition character="&amp;#x1009;">MYANMAR LETTER NYA</characterDefinition>
+            <characterDefinition character="&amp;#x100A;">MYANMAR LETTER NNYA</characterDefinition>
+            <characterDefinition character="&amp;#x100B;">MYANMAR LETTER TTA</characterDefinition>
+            <characterDefinition character="&amp;#x100C;">MYANMAR LETTER TTHA</characterDefinition>
+            <characterDefinition character="&amp;#x100D;">MYANMAR LETTER DDA</characterDefinition>
+            <characterDefinition character="&amp;#x100E;">MYANMAR LETTER DDHA</characterDefinition>
+            <characterDefinition character="&amp;#x100F;">MYANMAR LETTER NNA</characterDefinition>
+            <characterDefinition character="&amp;#x1010;">MYANMAR LETTER TA</characterDefinition>
+            <characterDefinition character="&amp;#x1011;">MYANMAR LETTER THA</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x1012;">MYANMAR LETTER DA</characterDefinition>
+            <characterDefinition character="&amp;#x1013;">MYANMAR LETTER DHA</characterDefinition>
+            <characterDefinition character="&amp;#x1014;">MYANMAR LETTER NA</characterDefinition>
+            <characterDefinition character="&amp;#x1015;">MYANMAR LETTER PA</characterDefinition>
+            <characterDefinition character="&amp;#x1016;">MYANMAR LETTER PHA</characterDefinition>
+            <characterDefinition character="&amp;#x1017;">MYANMAR LETTER BA</characterDefinition>
+            <characterDefinition character="&amp;#x1018;">MYANMAR LETTER BHA</characterDefinition>
+            <characterDefinition character="&amp;#x1019;">MYANMAR LETTER MA</characterDefinition>
+            <characterDefinition character="&amp;#x101A;">MYANMAR LETTER YA</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x101B;">MYANMAR LETTER RA</characterDefinition>
+            <characterDefinition character="&amp;#x101C;">MYANMAR LETTER LA</characterDefinition>
+            <characterDefinition character="&amp;#x101D;">MYANMAR LETTER WA</characterDefinition>
+            <characterDefinition character="&amp;#x101E;">MYANMAR LETTER SA</characterDefinition>
+            <characterDefinition character="&amp;#x101F;">MYANMAR LETTER HA</characterDefinition>
+            <characterDefinition character="&amp;#x1020;">MYANMAR LETTER LLA</characterDefinition>
+            <characterDefinition character="&amp;#x1021;">MYANMAR LETTER A</characterDefinition>
+            <characterDefinition character="&amp;#x1022;">MYANMAR LETTER SHAN A</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x1023;">MYANMAR LETTER I</characterDefinition>
+            <characterDefinition character="&amp;#x1024;">MYANMAR LETTER II</characterDefinition>
+            <characterDefinition character="&amp;#x1025;">MYANMAR LETTER U</characterDefinition>
+            <characterDefinition character="&amp;#x1026;">MYANMAR LETTER UU</characterDefinition>
+            <characterDefinition character="&amp;#x1027;">MYANMAR LETTER E</characterDefinition>
+            <characterDefinition character="&amp;#x1028;">MYANMAR LETTER MON E</characterDefinition>
+            <characterDefinition character="&amp;#x1029;">MYANMAR LETTER O</characterDefinition>
+            <characterDefinition character="&amp;#x102A;">MYANMAR LETTER AU</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x1036;">MYANMAR SIGN ANUSVARA</characterDefinition>
+            <characterDefinition character="&amp;#x1037;">MYANMAR SIGN DOT BELOW</characterDefinition>
+            <characterDefinition character="&amp;#x1038;">MYANMAR SIGN VISARGA</characterDefinition>
+            <characterDefinition character="&amp;#x1039;">MYANMAR SIGN VIRAMA</characterDefinition>
+            <characterDefinition character="&amp;#x103A;">MYANMAR SIGN ASAT</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x103F;">MYANMAR LETTER GREAT SA</characterDefinition>
+            <characterDefinition character="&amp;#x104A;">MYANMAR SIGN LITTLE SECTION</characterDefinition>
+            <characterDefinition character="&amp;#x104B;">MYANMAR SIGN SECTION</characterDefinition>
+            <characterDefinition character="&amp;#x104C;">MYANMAR SYMBOL LOCATIVE</characterDefinition>
+            <characterDefinition character="&amp;#x104D;">MYANMAR SYMBOL COMPLETED</characterDefinition>
+            <characterDefinition character="&amp;#x104E;">MYANMAR SYMBOL AFOREMENTIONED</characterDefinition>
+            <characterDefinition character="&amp;#x104F;">MYANMAR SYMBOL GENITIVE</characterDefinition>
+            <characterDefinition character="&amp;#x1050;">MYANMAR LETTER SHA</characterDefinition>
+            <characterDefinition character="&amp;#x1051;">MYANMAR LETTER SSA</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x1052;">MYANMAR LETTER VOCALIC R</characterDefinition>
+            <characterDefinition character="&amp;#x1053;">MYANMAR LETTER VOCALIC RR</characterDefinition>
+            <characterDefinition character="&amp;#x1054;">MYANMAR LETTER VOCALIC L</characterDefinition>
+            <characterDefinition character="&amp;#x1055;">MYANMAR LETTER VOCALIC LL</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x105A;">MYANMAR LETTER MON NGA</characterDefinition>
+            <characterDefinition character="&amp;#x105B;">MYANMAR LETTER MON JHA</characterDefinition>
+            <characterDefinition character="&amp;#x105C;">MYANMAR LETTER MON BBA</characterDefinition>
+            <characterDefinition character="&amp;#x105D;">MYANMAR LETTER MON BBE</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x1061;">MYANMAR LETTER SGAW KAREN SHA</characterDefinition>
+            <characterDefinition character="&amp;#x1062;">MYANMAR VOWEL SIGN SGAW KAREN EU</characterDefinition>
+            <characterDefinition character="&amp;#x1063;">MYANMAR TONE MARK SGAW KAREN HATHI</characterDefinition>
+            <characterDefinition character="&amp;#x1064;">MYANMAR TONE MARK SGAW KAREN KE PHO</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x1065;">MYANMAR LETTER WESTERN PWO KAREN THA</characterDefinition>
+            <characterDefinition character="&amp;#x1066;">MYANMAR LETTER WESTERN PWO KAREN PWA</characterDefinition>
+            <characterDefinition character="&amp;#x1069;">MYANMAR SIGN WESTERN PWO KAREN TONE-1</characterDefinition>
+            <characterDefinition character="&amp;#x106A;">MYANMAR SIGN WESTERN PWO KAREN TONE-2</characterDefinition>
+            <characterDefinition character="&amp;#x106B;">MYANMAR SIGN WESTERN PWO KAREN TONE-3</characterDefinition>
+            <characterDefinition character="&amp;#x106C;">MYANMAR SIGN WESTERN PWO KAREN TONE-4</characterDefinition>
+            <characterDefinition character="&amp;#x106D;">MYANMAR SIGN WESTERN PWO KAREN TONE-5</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x106E;">MYANMAR LETTER EASTERN PWO KAREN NNA</characterDefinition>
+            <characterDefinition character="&amp;#x106F;">MYANMAR LETTER EASTERN PWO KAREN YWA</characterDefinition>
+            <characterDefinition character="&amp;#x1070;">MYANMAR LETTER EASTERN PWO KAREN GHWA</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x1075;">MYANMAR LETTER SHAN KA</characterDefinition>
+            <characterDefinition character="&amp;#x1076;">MYANMAR LETTER SHAN KHA</characterDefinition>
+            <characterDefinition character="&amp;#x1077;">MYANMAR LETTER SHAN GA</characterDefinition>
+            <characterDefinition character="&amp;#x1078;">MYANMAR LETTER SHAN CA</characterDefinition>
+            <characterDefinition character="&amp;#x1079;">MYANMAR LETTER SHAN ZA</characterDefinition>
+            <characterDefinition character="&amp;#x107A;">MYANMAR LETTER SHAN NYA</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x107B;">MYANMAR LETTER SHAN DA</characterDefinition>
+            <characterDefinition character="&amp;#x107C;">MYANMAR LETTER SHAN NA</characterDefinition>
+            <characterDefinition character="&amp;#x107D;">MYANMAR LETTER SHAN PHA</characterDefinition>
+            <characterDefinition character="&amp;#x107E;">MYANMAR LETTER SHAN FA</characterDefinition>
+            <characterDefinition character="&amp;#x107F;">MYANMAR LETTER SHAN BA</characterDefinition>
+            <characterDefinition character="&amp;#x1080;">MYANMAR LETTER SHAN THA</characterDefinition>
+            <characterDefinition character="&amp;#x1081;">MYANMAR LETTER SHAN HA</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x1082;">MYANMAR CONSONANT SIGN SHAN MEDIAL WA</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x1087;">MYANMAR SIGN SHAN TONE-2</characterDefinition>
+            <characterDefinition character="&amp;#x1088;">MYANMAR SIGN SHAN TONE-3</characterDefinition>
+            <characterDefinition character="&amp;#x1089;">MYANMAR SIGN SHAN TONE-5</characterDefinition>
+            <characterDefinition character="&amp;#x108A;">MYANMAR SIGN SHAN TONE-6</characterDefinition>
+            <characterDefinition character="&amp;#x108B;">MYANMAR SIGN SHAN COUNCIL TONE-2</characterDefinition>
+            <characterDefinition character="&amp;#x108C;">MYANMAR SIGN SHAN COUNCIL TONE-3</characterDefinition>
+            <characterDefinition character="&amp;#x108D;">MYANMAR SIGN SHAN COUNCIL EMPHATIC TONE</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x108E;">MYANMAR LETTER RUMAI PALAUNG FA</characterDefinition>
+            <characterDefinition character="&amp;#x108F;">MYANMAR SIGN RUMAI PALAUNG TONE-5</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x109A;">MYANMAR SIGN KHAMTI TONE-1</characterDefinition>
+            <characterDefinition character="&amp;#x109B;">MYANMAR SIGN KHAMTI TONE-3</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x109E;">MYANMAR SYMBOL SHAN ONE</characterDefinition>
+            <characterDefinition character="&amp;#x109F;">MYANMAR SYMBOL SHAN EXCLAMATION</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+
+    <characterSubset name="Consonant Signs">
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x103B;">MYANMAR CONSONANT SIGN MEDIAL YA</characterDefinition>
+            <characterDefinition character="&amp;#x103C;">MYANMAR CONSONANT SIGN MEDIAL RA</characterDefinition>
+            <characterDefinition character="&amp;#x103D;">MYANMAR CONSONANT SIGN MEDIAL WA</characterDefinition>
+            <characterDefinition character="&amp;#x103E;">MYANMAR CONSONANT SIGN MEDIAL HA</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x105E;">MYANMAR CONSONANT SIGN MON MEDIAL NA</characterDefinition>
+            <characterDefinition character="&amp;#x105F;">MYANMAR CONSONANT SIGN MON MEDIAL MA</characterDefinition>
+            <characterDefinition character="&amp;#x1060;">MYANMAR CONSONANT SIGN MON MEDIAL LA</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset >
+
+    <characterSubset name="Vowel Signs">
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x102B;">MYANMAR VOWEL SIGN TALL AA</characterDefinition>
+            <characterDefinition character="&amp;#x102C;">MYANMAR VOWEL SIGN AA</characterDefinition>
+            <characterDefinition character="&amp;#x102D;">MYANMAR VOWEL SIGN I</characterDefinition>
+            <characterDefinition character="&amp;#x102E;">MYANMAR VOWEL SIGN II</characterDefinition>
+            <characterDefinition character="&amp;#x102F;">MYANMAR VOWEL SIGN U</characterDefinition>
+            <characterDefinition character="&amp;#x1030;">MYANMAR VOWEL SIGN UU</characterDefinition>
+            <characterDefinition character="&amp;#x1031;">MYANMAR VOWEL SIGN E</characterDefinition>
+            <characterDefinition character="&amp;#x1032;">MYANMAR VOWEL SIGN AI</characterDefinition>
+            <characterDefinition character="&amp;#x1033;">MYANMAR VOWEL SIGN MON II</characterDefinition>
+            <characterDefinition character="&amp;#x1034;">MYANMAR VOWEL SIGN MON O</characterDefinition>
+            <characterDefinition character="&amp;#x1035;">MYANMAR VOWEL SIGN E ABOVE</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x1056;">MYANMAR VOWEL SIGN VOCALIC R</characterDefinition>
+            <characterDefinition character="&amp;#x1057;">MYANMAR VOWEL SIGN VOCALIC RR</characterDefinition>
+            <characterDefinition character="&amp;#x1058;">MYANMAR VOWEL SIGN VOCALIC L</characterDefinition>
+            <characterDefinition character="&amp;#x1059;">MYANMAR VOWEL SIGN VOCALIC LL</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x1067;">MYANMAR VOWEL SIGN WESTERN PWO KAREN EU</characterDefinition>
+            <characterDefinition character="&amp;#x1068;">MYANMAR VOWEL SIGN WESTERN PWO KAREN UE</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x1071;">MYANMAR VOWEL SIGN GEBA KAREN I</characterDefinition>
+            <characterDefinition character="&amp;#x1072;">MYANMAR VOWEL SIGN KAYAH OE</characterDefinition>
+            <characterDefinition character="&amp;#x1073;">MYANMAR VOWEL SIGN KAYAH U</characterDefinition>
+            <characterDefinition character="&amp;#x1074;">MYANMAR VOWEL SIGN KAYAH EE</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x1083;">MYANMAR VOWEL SIGN SHAN AA</characterDefinition>
+            <characterDefinition character="&amp;#x1084;">MYANMAR VOWEL SIGN SHAN E</characterDefinition>
+            <characterDefinition character="&amp;#x1085;">MYANMAR VOWEL SIGN SHAN E ABOVE</characterDefinition>
+            <characterDefinition character="&amp;#x1086;">MYANMAR VOWEL SIGN SHAN FINAL Y</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x109C;">MYANMAR VOWEL SIGN AITON A</characterDefinition>
+            <characterDefinition character="&amp;#x109D;">MYANMAR VOWEL SIGN AITON AI</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+
+    <characterSubset name="Numbers">
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x1040;">MYANMAR DIGIT ZERO</characterDefinition>
+            <characterDefinition character="&amp;#x1041;">MYANMAR DIGIT ONE</characterDefinition>
+            <characterDefinition character="&amp;#x1042;">MYANMAR DIGIT TWO</characterDefinition>
+            <characterDefinition character="&amp;#x1043;">MYANMAR DIGIT THREE</characterDefinition>
+            <characterDefinition character="&amp;#x1044;">MYANMAR DIGIT FOUR</characterDefinition>
+            <characterDefinition character="&amp;#x1045;">MYANMAR DIGIT FIVE</characterDefinition>
+            <characterDefinition character="&amp;#x1046;">MYANMAR DIGIT SIX</characterDefinition>
+            <characterDefinition character="&amp;#x1047;">MYANMAR DIGIT SEVEN</characterDefinition>
+            <characterDefinition character="&amp;#x1048;">MYANMAR DIGIT EIGHT</characterDefinition>
+            <characterDefinition character="&amp;#x1049;">MYANMAR DIGIT NINE</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x1090;">MYANMAR SHAN DIGIT ZERO</characterDefinition>
+            <characterDefinition character="&amp;#x1091;">MYANMAR SHAN DIGIT ONE</characterDefinition>
+            <characterDefinition character="&amp;#x1092;">MYANMAR SHAN DIGIT TWO</characterDefinition>
+            <characterDefinition character="&amp;#x1093;">MYANMAR SHAN DIGIT THREE</characterDefinition>
+            <characterDefinition character="&amp;#x1094;">MYANMAR SHAN DIGIT FOUR</characterDefinition>
+            <characterDefinition character="&amp;#x1095;">MYANMAR SHAN DIGIT FIVE</characterDefinition>
+            <characterDefinition character="&amp;#x1096;">MYANMAR SHAN DIGIT SIX</characterDefinition>
+            <characterDefinition character="&amp;#x1097;">MYANMAR SHAN DIGIT SEVEN</characterDefinition>
+            <characterDefinition character="&amp;#x1098;">MYANMAR SHAN DIGIT EIGHT</characterDefinition>
+            <characterDefinition character="&amp;#x1099;">MYANMAR SHAN DIGIT NINE</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+
+    <characterSubset name="Extended">
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#xAA60;">MYANMAR LETTER KHAMTI GA</characterDefinition>
+            <characterDefinition character="&amp;#xAA61;">MYANMAR LETTER KHAMTI CA</characterDefinition>
+            <characterDefinition character="&amp;#xAA62;">MYANMAR LETTER KHAMTI CHA</characterDefinition>
+            <characterDefinition character="&amp;#xAA63;">MYANMAR LETTER KHAMTI JA</characterDefinition>
+            <characterDefinition character="&amp;#xAA64;">MYANMAR LETTER KHAMTI JHA</characterDefinition>
+            <characterDefinition character="&amp;#xAA65;">MYANMAR LETTER KHAMTI NYA</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#xAA66;">MYANMAR LETTER KHAMTI TTA</characterDefinition>
+            <characterDefinition character="&amp;#xAA67;">MYANMAR LETTER KHAMTI TTHA</characterDefinition>
+            <characterDefinition character="&amp;#xAA68;">MYANMAR LETTER KHAMTI DDA</characterDefinition>
+            <characterDefinition character="&amp;#xAA69;">MYANMAR LETTER KHAMTI DDHA</characterDefinition>
+            <characterDefinition character="&amp;#xAA6A;">MYANMAR LETTER KHAMTI DHA</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#xAA6B;">MYANMAR LETTER KHAMTI NA</characterDefinition>
+            <characterDefinition character="&amp;#xAA6C;">MYANMAR LETTER KHAMTI SA</characterDefinition>
+            <characterDefinition character="&amp;#xAA6D;">MYANMAR LETTER KHAMTI HA</characterDefinition>
+            <characterDefinition character="&amp;#xAA6E;">MYANMAR LETTER KHAMTI HHA</characterDefinition>
+            <characterDefinition character="&amp;#xAA6F;">MYANMAR LETTER KHAMTI FA</characterDefinition>
+            <characterDefinition character="&amp;#xAA71;">MYANMAR LETTER KHAMTI XA</characterDefinition>
+            <characterDefinition character="&amp;#xAA72;">MYANMAR LETTER KHAMTI ZA</characterDefinition>
+            <characterDefinition character="&amp;#xAA73;">MYANMAR LETTER KHAMTI RA</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#xAA74;">MYANMAR LOGOGRAM KHAMTI OAY</characterDefinition>
+            <characterDefinition character="&amp;#xAA75;">MYANMAR LOGOGRAM KHAMTI QN</characterDefinition>
+            <characterDefinition character="&amp;#xAA76;">MYANMAR LOGOGRAM KHAMTI HM</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#xAA77;">MYANMAR SYMBOL AITON EXCLAMATION</characterDefinition>
+            <characterDefinition character="&amp;#xAA78;">MYANMAR SYMBOL AITON ONE</characterDefinition>
+            <characterDefinition character="&amp;#xAA79;">MYANMAR SYMBOL AITON TWO</characterDefinition>
+            <characterDefinition character="&amp;#xAA7A;">MYANMAR LETTER AITON RA</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#xAA70;">MYANMAR MODIFIER LETTER KHAMTI REDUPLICATION</characterDefinition>
+            <characterDefinition character="&amp;#xAA7B;">MYANMAR SIGN PAO KAREN TONE</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+
+</characterSet>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Version 1.0 by Terry O'Brien -->
+<characterSet name="Emoticons" type="Shapes" description="Emoticons" >
+    <characterSetResource>http://www.unicode.org/charts/PDF/U1F600.pdf</characterSetResource>
+    <characterSetRange>x1F600 - x1F64F</characterSetRange>
+
+    <characterSubset name="Positive Faces" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#128513;">GRINNING FACE WITH SMILING EYES</characterDefinition>
+            <characterDefinition character="&amp;#128514;">FACE WITH TEARS OF JOY</characterDefinition>
+            <characterDefinition character="&amp;#128515;">SMILING FACE WITH OPEN MOUTH</characterDefinition>
+            <characterDefinition character="&amp;#128516;">SMILING FACE WITH OPEN MOUTH AND SMILING EYES</characterDefinition>
+            <characterDefinition character="&amp;#128517;">SMILING FACE WITH OPEN MOUTH AND COLD SWEAT</characterDefinition>
+            <characterDefinition character="&amp;#128518;">SMILING FACE WITH OPEN MOUTH AND TIGHTLY-CLOSED EYES</characterDefinition>
+            <characterDefinition character="&amp;#128519;">SMILING FACE WITH HALO</characterDefinition>
+            <characterDefinition character="&amp;#128520;">SMILING FACE WITH HORNS</characterDefinition>
+            <characterDefinition character="&amp;#128522;">SMILING FACE WITH SMILING EYES</characterDefinition>
+            <characterDefinition character="&amp;#128525;">SMILING FACE WITH HEART-SHAPED EYES</characterDefinition>
+            <characterDefinition character="&amp;#128526;">SMILING FACE WITH SUNGLASSES</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#128523;">FACE SAVOURING DELICIOUS FOOD</characterDefinition>
+            <characterDefinition character="&amp;#128521;">WINKING FACE</characterDefinition>
+            <characterDefinition character="&amp;#128536;">FACE THROWING A KISS</characterDefinition>
+            <characterDefinition character="&amp;#128538;">KISSING FACE WITH CLOSED EYES</characterDefinition>
+            <characterDefinition character="&amp;#128548;">FACE WITH LOOK OF TRIUMPH</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+    <characterSubset name="Neutral Faces" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#128524;">RELIEVED FACE</characterDefinition>
+            <characterDefinition character="&amp;#128527;">SMIRKING FACE</characterDefinition>
+            <characterDefinition character="&amp;#128528;">NEUTRAL FACE</characterDefinition>
+            <characterDefinition character="&amp;#128530;">UNAMUSED FACE</characterDefinition>
+            <characterDefinition character="&amp;#128531;">FACE WITH COLD SWEAT</characterDefinition>
+            <characterDefinition character="&amp;#128532;">PENSIVE FACE</characterDefinition>
+            <characterDefinition character="&amp;#128534;">CONFOUNDED FACE</characterDefinition>
+            <characterDefinition character="&amp;#128547;">PERSEVERING FACE</characterDefinition>
+            <characterDefinition character="&amp;#128549;">DISAPPOINTED BUT RELIEVED FACE</characterDefinition>
+            <characterDefinition character="&amp;#128552;">FEARFUL FACE</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#128553;">WEARY FACE</characterDefinition>
+            <characterDefinition character="&amp;#128554;">SLEEPY FACE</characterDefinition>
+            <characterDefinition character="&amp;#128555;">TIRED FACE</characterDefinition>
+            <characterDefinition character="&amp;#128563;">FLUSHED FACE</characterDefinition>
+            <characterDefinition character="&amp;#128565;">DIZZY FACE</characterDefinition>
+            <characterDefinition character="&amp;#128566;">FACE WITHOUT MOUTH</characterDefinition>
+            <characterDefinition character="&amp;#128567;">FACE WITH MEDICAL MASK</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+    <characterSubset name="Negative Faces" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#128540;">FACE WITH STUCK-OUT TONGUE AND WINKING EYE</characterDefinition>
+            <characterDefinition character="&amp;#128541;">FACE WITH STUCK-OUT TONGUE AND TIGHTLY-CLOSED EYES</characterDefinition>
+            <characterDefinition character="&amp;#128542;">DISAPPOINTED FACE</characterDefinition>
+            <characterDefinition character="&amp;#128544;">ANGRY FACE</characterDefinition>
+            <characterDefinition character="&amp;#128545;">POUTING FACE</characterDefinition>
+            <characterDefinition character="&amp;#128546;">CRYING FACE</characterDefinition>
+            <characterDefinition character="&amp;#128557;">LOUDLY CRYING FACE</characterDefinition>
+            <characterDefinition character="&amp;#128560;">FACE WITH OPEN MOUTH AND COLD SWEAT</characterDefinition>
+            <characterDefinition character="&amp;#128561;">FACE SCREAMING IN FEAR</characterDefinition>
+            <characterDefinition character="&amp;#128562;">ASTONISHED FACE</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+    <characterSubset name="Faces and Hands" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#128587;">HAPPY PERSON RAISING ONE HAND</characterDefinition>
+            <characterDefinition character="&amp;#128588;">PERSON RAISING BOTH HANDS IN CELEBRATION</characterDefinition>
+            <characterDefinition character="&amp;#128581;">FACE WITH NO GOOD GESTURE</characterDefinition>
+            <characterDefinition character="&amp;#128582;">FACE WITH OK GESTURE</characterDefinition>
+            <characterDefinition character="&amp;#128583;">PERSON BOWING DEEPLY</characterDefinition>
+            <characterDefinition character="&amp;#128589;">PERSON FROWNING</characterDefinition>
+            <characterDefinition character="&amp;#128590;">PERSON WITH POUTING FACE</characterDefinition>
+            <characterDefinition character="&amp;#128591;">PERSON WITH FOLDED HANDS</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+    <characterSubset name="Monkey Faces" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#128584;">SEE NO EVIL MONKEY</characterDefinition>
+            <characterDefinition character="&amp;#128585;">HEAR NO EVIL MONKEY</characterDefinition>
+            <characterDefinition character="&amp;#128586;">SPEAK NO EVIL MONKEY</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+    <characterSubset name="Feline Faces" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#128568;">GRINNING CAT FACE WITH SMILING EYES</characterDefinition>
+            <characterDefinition character="&amp;#128569;">CAT FACE WITH TEARS OF JOY</characterDefinition>
+            <characterDefinition character="&amp;#128570;">SMILING CAT FACE WITH OPEN MOUTH</characterDefinition>
+            <characterDefinition character="&amp;#128571;">SMILING CAT FACE WITH HEART-SHAPED EYES</characterDefinition>
+            <characterDefinition character="&amp;#128572;">CAT FACE WITH WRY SMILE</characterDefinition>
+            <characterDefinition character="&amp;#128573;">KISSING CAT FACE WITH CLOSED EYES</characterDefinition>
+            <characterDefinition character="&amp;#128574;">POUTING CAT FACE</characterDefinition>
+            <characterDefinition character="&amp;#128575;">CRYING CAT FACE</characterDefinition>
+            <characterDefinition character="&amp;#128576;">WEARY CAT FACE</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+</characterSet>

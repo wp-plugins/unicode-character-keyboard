@@ -1,0 +1,1228 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Version 1.0 by Terry O'Brien -->
+
+<characterSet name="Mathematical Alphanumeric Symbols" type="Mathematics" description="Symbols for mathematical and related technical notation" >
+    <characterSetRange>1D400 - 1D7FF</characterSetRange>
+    <characterSetResource>http://www.unicode.org/charts/PDF/U1D400.pdf</characterSetResource>
+
+    <characterSubset name="Bold">
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x1D400;">MATHEMATICAL BOLD Upper Case A</characterDefinition>
+            <characterDefinition character="&amp;#x1D401;">MATHEMATICAL BOLD Upper Case B</characterDefinition>
+            <characterDefinition character="&amp;#x1D402;">MATHEMATICAL BOLD Upper Case C</characterDefinition>
+            <characterDefinition character="&amp;#x1D403;">MATHEMATICAL BOLD Upper Case D</characterDefinition>
+            <characterDefinition character="&amp;#x1D404;">MATHEMATICAL BOLD Upper Case E</characterDefinition>
+            <characterDefinition character="&amp;#x1D405;">MATHEMATICAL BOLD Upper Case F</characterDefinition>
+            <characterDefinition character="&amp;#x1D406;">MATHEMATICAL BOLD Upper Case G</characterDefinition>
+            <characterDefinition character="&amp;#x1D407;">MATHEMATICAL BOLD Upper Case H</characterDefinition>
+            <characterDefinition character="&amp;#x1D408;">MATHEMATICAL BOLD Upper Case I</characterDefinition>
+            <characterDefinition character="&amp;#x1D409;">MATHEMATICAL BOLD Upper Case J</characterDefinition>
+            <characterDefinition character="&amp;#x1D40A;">MATHEMATICAL BOLD Upper Case K</characterDefinition>
+            <characterDefinition character="&amp;#x1D40B;">MATHEMATICAL BOLD Upper Case L</characterDefinition>
+            <characterDefinition character="&amp;#x1D40C;">MATHEMATICAL BOLD Upper Case M</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x1D40D;">MATHEMATICAL BOLD Upper Case N</characterDefinition>
+            <characterDefinition character="&amp;#x1D40E;">MATHEMATICAL BOLD Upper Case O</characterDefinition>
+            <characterDefinition character="&amp;#x1D40F;">MATHEMATICAL BOLD Upper Case P</characterDefinition>
+            <characterDefinition character="&amp;#x1D410;">MATHEMATICAL BOLD Upper Case Q</characterDefinition>
+            <characterDefinition character="&amp;#x1D411;">MATHEMATICAL BOLD Upper Case R</characterDefinition>
+            <characterDefinition character="&amp;#x1D412;">MATHEMATICAL BOLD Upper Case S</characterDefinition>
+            <characterDefinition character="&amp;#x1D413;">MATHEMATICAL BOLD Upper Case T</characterDefinition>
+            <characterDefinition character="&amp;#x1D414;">MATHEMATICAL BOLD Upper Case U</characterDefinition>
+            <characterDefinition character="&amp;#x1D415;">MATHEMATICAL BOLD Upper Case V</characterDefinition>
+            <characterDefinition character="&amp;#x1D416;">MATHEMATICAL BOLD Upper Case W</characterDefinition>
+            <characterDefinition character="&amp;#x1D417;">MATHEMATICAL BOLD Upper Case X</characterDefinition>
+            <characterDefinition character="&amp;#x1D418;">MATHEMATICAL BOLD Upper Case Y</characterDefinition>
+            <characterDefinition character="&amp;#x1D419;">MATHEMATICAL BOLD Upper Case Z</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x1D41A;">MATHEMATICAL BOLD Lower Case A</characterDefinition>
+            <characterDefinition character="&amp;#x1D41B;">MATHEMATICAL BOLD Lower Case B</characterDefinition>
+            <characterDefinition character="&amp;#x1D41C;">MATHEMATICAL BOLD Lower Case C</characterDefinition>
+            <characterDefinition character="&amp;#x1D41D;">MATHEMATICAL BOLD Lower Case D</characterDefinition>
+            <characterDefinition character="&amp;#x1D41E;">MATHEMATICAL BOLD Lower Case E</characterDefinition>
+            <characterDefinition character="&amp;#x1D41F;">MATHEMATICAL BOLD Lower Case F</characterDefinition>
+            <characterDefinition character="&amp;#x1D420;">MATHEMATICAL BOLD Lower Case G</characterDefinition>
+            <characterDefinition character="&amp;#x1D421;">MATHEMATICAL BOLD Lower Case H</characterDefinition>
+            <characterDefinition character="&amp;#x1D422;">MATHEMATICAL BOLD Lower Case I</characterDefinition>
+            <characterDefinition character="&amp;#x1D423;">MATHEMATICAL BOLD Lower Case J</characterDefinition>
+            <characterDefinition character="&amp;#x1D424;">MATHEMATICAL BOLD Lower Case K</characterDefinition>
+            <characterDefinition character="&amp;#x1D425;">MATHEMATICAL BOLD Lower Case L</characterDefinition>
+            <characterDefinition character="&amp;#x1D426;">MATHEMATICAL BOLD Lower Case M</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x1D427;">MATHEMATICAL BOLD Lower Case N</characterDefinition>
+            <characterDefinition character="&amp;#x1D428;">MATHEMATICAL BOLD Lower Case O</characterDefinition>
+            <characterDefinition character="&amp;#x1D429;">MATHEMATICAL BOLD Lower Case P</characterDefinition>
+            <characterDefinition character="&amp;#x1D42A;">MATHEMATICAL BOLD Lower Case Q</characterDefinition>
+            <characterDefinition character="&amp;#x1D42B;">MATHEMATICAL BOLD Lower Case R</characterDefinition>
+            <characterDefinition character="&amp;#x1D42C;">MATHEMATICAL BOLD Lower Case S</characterDefinition>
+            <characterDefinition character="&amp;#x1D42D;">MATHEMATICAL BOLD Lower Case T</characterDefinition>
+            <characterDefinition character="&amp;#x1D42E;">MATHEMATICAL BOLD Lower Case U</characterDefinition>
+            <characterDefinition character="&amp;#x1D42F;">MATHEMATICAL BOLD Lower Case V</characterDefinition>
+            <characterDefinition character="&amp;#x1D430;">MATHEMATICAL BOLD Lower Case W</characterDefinition>
+            <characterDefinition character="&amp;#x1D431;">MATHEMATICAL BOLD Lower Case X</characterDefinition>
+            <characterDefinition character="&amp;#x1D432;">MATHEMATICAL BOLD Lower Case Y</characterDefinition>
+            <characterDefinition character="&amp;#x1D433;">MATHEMATICAL BOLD Lower Case Z</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x1D7CE;">MATHEMATICAL BOLD DIGIT ZERO</characterDefinition>
+            <characterDefinition character="&amp;#x1D7CF;">MATHEMATICAL BOLD DIGIT ONE</characterDefinition>
+            <characterDefinition character="&amp;#x1D7D0;">MATHEMATICAL BOLD DIGIT TWO</characterDefinition>
+            <characterDefinition character="&amp;#x1D7D1;">MATHEMATICAL BOLD DIGIT THREE</characterDefinition>
+            <characterDefinition character="&amp;#x1D7D2;">MATHEMATICAL BOLD DIGIT FOUR</characterDefinition>
+            <characterDefinition character="&amp;#x1D7D3;">MATHEMATICAL BOLD DIGIT FIVE</characterDefinition>
+            <characterDefinition character="&amp;#x1D7D4;">MATHEMATICAL BOLD DIGIT SIX</characterDefinition>
+            <characterDefinition character="&amp;#x1D7D5;">MATHEMATICAL BOLD DIGIT SEVEN</characterDefinition>
+            <characterDefinition character="&amp;#x1D7D6;">MATHEMATICAL BOLD DIGIT EIGHT</characterDefinition>
+            <characterDefinition character="&amp;#x1D7D7;">MATHEMATICAL BOLD DIGIT NINE</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+
+    <characterSubset name="Italic">
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x1D434;">MATHEMATICAL ITALIC Upper Case A</characterDefinition>
+            <characterDefinition character="&amp;#x1D435;">MATHEMATICAL ITALIC Upper Case B</characterDefinition>
+            <characterDefinition character="&amp;#x1D436;">MATHEMATICAL ITALIC Upper Case C</characterDefinition>
+            <characterDefinition character="&amp;#x1D437;">MATHEMATICAL ITALIC Upper Case D</characterDefinition>
+            <characterDefinition character="&amp;#x1D438;">MATHEMATICAL ITALIC Upper Case E</characterDefinition>
+            <characterDefinition character="&amp;#x1D439;">MATHEMATICAL ITALIC Upper Case F</characterDefinition>
+            <characterDefinition character="&amp;#x1D43A;">MATHEMATICAL ITALIC Upper Case G</characterDefinition>
+            <characterDefinition character="&amp;#x1D43B;">MATHEMATICAL ITALIC Upper Case H</characterDefinition>
+            <characterDefinition character="&amp;#x1D43C;">MATHEMATICAL ITALIC Upper Case I</characterDefinition>
+            <characterDefinition character="&amp;#x1D43D;">MATHEMATICAL ITALIC Upper Case J</characterDefinition>
+            <characterDefinition character="&amp;#x1D43E;">MATHEMATICAL ITALIC Upper Case K</characterDefinition>
+            <characterDefinition character="&amp;#x1D43F;">MATHEMATICAL ITALIC Upper Case L</characterDefinition>
+            <characterDefinition character="&amp;#x1D440;">MATHEMATICAL ITALIC Upper Case M</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x1D441;">MATHEMATICAL ITALIC Upper Case N</characterDefinition>
+            <characterDefinition character="&amp;#x1D442;">MATHEMATICAL ITALIC Upper Case O</characterDefinition>
+            <characterDefinition character="&amp;#x1D443;">MATHEMATICAL ITALIC Upper Case P</characterDefinition>
+            <characterDefinition character="&amp;#x1D444;">MATHEMATICAL ITALIC Upper Case Q</characterDefinition>
+            <characterDefinition character="&amp;#x1D445;">MATHEMATICAL ITALIC Upper Case R</characterDefinition>
+            <characterDefinition character="&amp;#x1D446;">MATHEMATICAL ITALIC Upper Case S</characterDefinition>
+            <characterDefinition character="&amp;#x1D447;">MATHEMATICAL ITALIC Upper Case T</characterDefinition>
+            <characterDefinition character="&amp;#x1D448;">MATHEMATICAL ITALIC Upper Case U</characterDefinition>
+            <characterDefinition character="&amp;#x1D449;">MATHEMATICAL ITALIC Upper Case V</characterDefinition>
+            <characterDefinition character="&amp;#x1D44A;">MATHEMATICAL ITALIC Upper Case W</characterDefinition>
+            <characterDefinition character="&amp;#x1D44B;">MATHEMATICAL ITALIC Upper Case X</characterDefinition>
+            <characterDefinition character="&amp;#x1D44C;">MATHEMATICAL ITALIC Upper Case Y</characterDefinition>
+            <characterDefinition character="&amp;#x1D44D;">MATHEMATICAL ITALIC Upper Case Z</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x1D44E;">MATHEMATICAL ITALIC Lower Case A</characterDefinition>
+            <characterDefinition character="&amp;#x1D44F;">MATHEMATICAL ITALIC Lower Case B</characterDefinition>
+            <characterDefinition character="&amp;#x1D450;">MATHEMATICAL ITALIC Lower Case C</characterDefinition>
+            <characterDefinition character="&amp;#x1D451;">MATHEMATICAL ITALIC Lower Case D</characterDefinition>
+            <characterDefinition character="&amp;#x1D452;">MATHEMATICAL ITALIC Lower Case E</characterDefinition>
+            <characterDefinition character="&amp;#x1D453;">MATHEMATICAL ITALIC Lower Case F</characterDefinition>
+            <characterDefinition character="&amp;#x1D454;">MATHEMATICAL ITALIC Lower Case G</characterDefinition>
+            <characterDefinition character="&amp;#x1D456;">MATHEMATICAL ITALIC Lower Case I</characterDefinition>
+            <characterDefinition character="&amp;#x1D457;">MATHEMATICAL ITALIC Lower Case J</characterDefinition>
+            <characterDefinition character="&amp;#x1D458;">MATHEMATICAL ITALIC Lower Case K</characterDefinition>
+            <characterDefinition character="&amp;#x1D459;">MATHEMATICAL ITALIC Lower Case L</characterDefinition>
+            <characterDefinition character="&amp;#x1D45A;">MATHEMATICAL ITALIC Lower Case M</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x1D45B;">MATHEMATICAL ITALIC Lower Case N</characterDefinition>
+            <characterDefinition character="&amp;#x1D45C;">MATHEMATICAL ITALIC Lower Case O</characterDefinition>
+            <characterDefinition character="&amp;#x1D45D;">MATHEMATICAL ITALIC Lower Case P</characterDefinition>
+            <characterDefinition character="&amp;#x1D45E;">MATHEMATICAL ITALIC Lower Case Q</characterDefinition>
+            <characterDefinition character="&amp;#x1D45F;">MATHEMATICAL ITALIC Lower Case R</characterDefinition>
+            <characterDefinition character="&amp;#x1D460;">MATHEMATICAL ITALIC Lower Case S</characterDefinition>
+            <characterDefinition character="&amp;#x1D461;">MATHEMATICAL ITALIC Lower Case T</characterDefinition>
+            <characterDefinition character="&amp;#x1D462;">MATHEMATICAL ITALIC Lower Case U</characterDefinition>
+            <characterDefinition character="&amp;#x1D463;">MATHEMATICAL ITALIC Lower Case V</characterDefinition>
+            <characterDefinition character="&amp;#x1D464;">MATHEMATICAL ITALIC Lower Case W</characterDefinition>
+            <characterDefinition character="&amp;#x1D465;">MATHEMATICAL ITALIC Lower Case X</characterDefinition>
+            <characterDefinition character="&amp;#x1D466;">MATHEMATICAL ITALIC Lower Case Y</characterDefinition>
+            <characterDefinition character="&amp;#x1D467;">MATHEMATICAL ITALIC Lower Case Z</characterDefinition>
+         </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x1D6A4;">MATHEMATICAL ITALIC Lower Case DOTLESS I</characterDefinition>
+            <characterDefinition character="&amp;#x1D6A5;">MATHEMATICAL ITALIC Lower Case DOTLESS J</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+
+    <characterSubset name="Bold Italic">
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x1D468;">MATHEMATICAL BOLD ITALIC Upper Case A</characterDefinition>
+            <characterDefinition character="&amp;#x1D469;">MATHEMATICAL BOLD ITALIC Upper Case B</characterDefinition>
+            <characterDefinition character="&amp;#x1D46A;">MATHEMATICAL BOLD ITALIC Upper Case C</characterDefinition>
+            <characterDefinition character="&amp;#x1D46B;">MATHEMATICAL BOLD ITALIC Upper Case D</characterDefinition>
+            <characterDefinition character="&amp;#x1D46C;">MATHEMATICAL BOLD ITALIC Upper Case E</characterDefinition>
+            <characterDefinition character="&amp;#x1D46D;">MATHEMATICAL BOLD ITALIC Upper Case F</characterDefinition>
+            <characterDefinition character="&amp;#x1D46E;">MATHEMATICAL BOLD ITALIC Upper Case G</characterDefinition>
+            <characterDefinition character="&amp;#x1D46F;">MATHEMATICAL BOLD ITALIC Upper Case H</characterDefinition>
+            <characterDefinition character="&amp;#x1D470;">MATHEMATICAL BOLD ITALIC Upper Case I</characterDefinition>
+            <characterDefinition character="&amp;#x1D471;">MATHEMATICAL BOLD ITALIC Upper Case J</characterDefinition>
+            <characterDefinition character="&amp;#x1D472;">MATHEMATICAL BOLD ITALIC Upper Case K</characterDefinition>
+            <characterDefinition character="&amp;#x1D473;">MATHEMATICAL BOLD ITALIC Upper Case L</characterDefinition>
+            <characterDefinition character="&amp;#x1D474;">MATHEMATICAL BOLD ITALIC Upper Case M</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x1D475;">MATHEMATICAL BOLD ITALIC Upper Case N</characterDefinition>
+            <characterDefinition character="&amp;#x1D476;">MATHEMATICAL BOLD ITALIC Upper Case O</characterDefinition>
+            <characterDefinition character="&amp;#x1D477;">MATHEMATICAL BOLD ITALIC Upper Case P</characterDefinition>
+            <characterDefinition character="&amp;#x1D478;">MATHEMATICAL BOLD ITALIC Upper Case Q</characterDefinition>
+            <characterDefinition character="&amp;#x1D479;">MATHEMATICAL BOLD ITALIC Upper Case R</characterDefinition>
+            <characterDefinition character="&amp;#x1D47A;">MATHEMATICAL BOLD ITALIC Upper Case S</characterDefinition>
+            <characterDefinition character="&amp;#x1D47B;">MATHEMATICAL BOLD ITALIC Upper Case T</characterDefinition>
+            <characterDefinition character="&amp;#x1D47C;">MATHEMATICAL BOLD ITALIC Upper Case U</characterDefinition>
+            <characterDefinition character="&amp;#x1D47D;">MATHEMATICAL BOLD ITALIC Upper Case V</characterDefinition>
+            <characterDefinition character="&amp;#x1D47E;">MATHEMATICAL BOLD ITALIC Upper Case W</characterDefinition>
+            <characterDefinition character="&amp;#x1D47F;">MATHEMATICAL BOLD ITALIC Upper Case X</characterDefinition>
+            <characterDefinition character="&amp;#x1D480;">MATHEMATICAL BOLD ITALIC Upper Case Y</characterDefinition>
+            <characterDefinition character="&amp;#x1D481;">MATHEMATICAL BOLD ITALIC Upper Case Z</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x1D482;">MATHEMATICAL BOLD ITALIC Lower Case A</characterDefinition>
+            <characterDefinition character="&amp;#x1D483;">MATHEMATICAL BOLD ITALIC Lower Case B</characterDefinition>
+            <characterDefinition character="&amp;#x1D484;">MATHEMATICAL BOLD ITALIC Lower Case C</characterDefinition>
+            <characterDefinition character="&amp;#x1D485;">MATHEMATICAL BOLD ITALIC Lower Case D</characterDefinition>
+            <characterDefinition character="&amp;#x1D486;">MATHEMATICAL BOLD ITALIC Lower Case E</characterDefinition>
+            <characterDefinition character="&amp;#x1D487;">MATHEMATICAL BOLD ITALIC Lower Case F</characterDefinition>
+            <characterDefinition character="&amp;#x1D488;">MATHEMATICAL BOLD ITALIC Lower Case G</characterDefinition>
+            <characterDefinition character="&amp;#x1D489;">MATHEMATICAL BOLD ITALIC Lower Case H</characterDefinition>
+            <characterDefinition character="&amp;#x1D48A;">MATHEMATICAL BOLD ITALIC Lower Case I</characterDefinition>
+            <characterDefinition character="&amp;#x1D48B;">MATHEMATICAL BOLD ITALIC Lower Case J</characterDefinition>
+            <characterDefinition character="&amp;#x1D48C;">MATHEMATICAL BOLD ITALIC Lower Case K</characterDefinition>
+            <characterDefinition character="&amp;#x1D48D;">MATHEMATICAL BOLD ITALIC Lower Case L</characterDefinition>
+            <characterDefinition character="&amp;#x1D48E;">MATHEMATICAL BOLD ITALIC Lower Case M</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x1D48F;">MATHEMATICAL BOLD ITALIC Lower Case N</characterDefinition>
+            <characterDefinition character="&amp;#x1D490;">MATHEMATICAL BOLD ITALIC Lower Case O</characterDefinition>
+            <characterDefinition character="&amp;#x1D491;">MATHEMATICAL BOLD ITALIC Lower Case P</characterDefinition>
+            <characterDefinition character="&amp;#x1D492;">MATHEMATICAL BOLD ITALIC Lower Case Q</characterDefinition>
+            <characterDefinition character="&amp;#x1D493;">MATHEMATICAL BOLD ITALIC Lower Case R</characterDefinition>
+            <characterDefinition character="&amp;#x1D494;">MATHEMATICAL BOLD ITALIC Lower Case S</characterDefinition>
+            <characterDefinition character="&amp;#x1D495;">MATHEMATICAL BOLD ITALIC Lower Case T</characterDefinition>
+            <characterDefinition character="&amp;#x1D496;">MATHEMATICAL BOLD ITALIC Lower Case U</characterDefinition>
+            <characterDefinition character="&amp;#x1D497;">MATHEMATICAL BOLD ITALIC Lower Case V</characterDefinition>
+            <characterDefinition character="&amp;#x1D498;">MATHEMATICAL BOLD ITALIC Lower Case W</characterDefinition>
+            <characterDefinition character="&amp;#x1D499;">MATHEMATICAL BOLD ITALIC Lower Case X</characterDefinition>
+            <characterDefinition character="&amp;#x1D49A;">MATHEMATICAL BOLD ITALIC Lower Case Y</characterDefinition>
+            <characterDefinition character="&amp;#x1D49B;">MATHEMATICAL BOLD ITALIC Lower Case Z</characterDefinition>
+            </characterSubsetArray>
+    </characterSubset>
+
+    <characterSubset name="Script">
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x1D49C;">MATHEMATICAL SCRIPT Upper Case A</characterDefinition>
+            <characterDefinition character="&amp;#x1D49E;">MATHEMATICAL SCRIPT Upper Case C</characterDefinition>
+            <characterDefinition character="&amp;#x1D49F;">MATHEMATICAL SCRIPT Upper Case D</characterDefinition>
+            <characterDefinition character="&amp;#x1D4A2;">MATHEMATICAL SCRIPT Upper Case G</characterDefinition>
+            <characterDefinition character="&amp;#x1D4A5;">MATHEMATICAL SCRIPT Upper Case J</characterDefinition>
+            <characterDefinition character="&amp;#x1D4A6;">MATHEMATICAL SCRIPT Upper Case K</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x1D4A9;">MATHEMATICAL SCRIPT Upper Case N</characterDefinition>
+            <characterDefinition character="&amp;#x1D4AA;">MATHEMATICAL SCRIPT Upper Case O</characterDefinition>
+            <characterDefinition character="&amp;#x1D4AB;">MATHEMATICAL SCRIPT Upper Case P</characterDefinition>
+            <characterDefinition character="&amp;#x1D4AC;">MATHEMATICAL SCRIPT Upper Case Q</characterDefinition>
+            <characterDefinition character="&amp;#x1D4AE;">MATHEMATICAL SCRIPT Upper Case S</characterDefinition>
+            <characterDefinition character="&amp;#x1D4AF;">MATHEMATICAL SCRIPT Upper Case T</characterDefinition>
+            <characterDefinition character="&amp;#x1D4B0;">MATHEMATICAL SCRIPT Upper Case U</characterDefinition>
+            <characterDefinition character="&amp;#x1D4B1;">MATHEMATICAL SCRIPT Upper Case V</characterDefinition>
+            <characterDefinition character="&amp;#x1D4B2;">MATHEMATICAL SCRIPT Upper Case W</characterDefinition>
+            <characterDefinition character="&amp;#x1D4B3;">MATHEMATICAL SCRIPT Upper Case X</characterDefinition>
+            <characterDefinition character="&amp;#x1D4B4;">MATHEMATICAL SCRIPT Upper Case Y</characterDefinition>
+            <characterDefinition character="&amp;#x1D4B5;">MATHEMATICAL SCRIPT Upper Case Z</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x1D4B6;">MATHEMATICAL SCRIPT Lower Case A</characterDefinition>
+            <characterDefinition character="&amp;#x1D4B7;">MATHEMATICAL SCRIPT Lower Case B</characterDefinition>
+            <characterDefinition character="&amp;#x1D4B8;">MATHEMATICAL SCRIPT Lower Case C</characterDefinition>
+            <characterDefinition character="&amp;#x1D4B9;">MATHEMATICAL SCRIPT Lower Case D</characterDefinition>
+            <characterDefinition character="&amp;#x1D4BB;">MATHEMATICAL SCRIPT Lower Case F</characterDefinition>
+            <characterDefinition character="&amp;#x1D4BD;">MATHEMATICAL SCRIPT Lower Case H</characterDefinition>
+            <characterDefinition character="&amp;#x1D4BE;">MATHEMATICAL SCRIPT Lower Case I</characterDefinition>
+            <characterDefinition character="&amp;#x1D4BF;">MATHEMATICAL SCRIPT Lower Case J</characterDefinition>
+            <characterDefinition character="&amp;#x1D4C0;">MATHEMATICAL SCRIPT Lower Case K</characterDefinition>
+            <characterDefinition character="&amp;#x1D4C1;">MATHEMATICAL SCRIPT Lower Case L</characterDefinition>
+            <characterDefinition character="&amp;#x1D4C2;">MATHEMATICAL SCRIPT Lower Case M</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x1D4C3;">MATHEMATICAL SCRIPT Lower Case N</characterDefinition>
+            <characterDefinition character="&amp;#x1D4C5;">MATHEMATICAL SCRIPT Lower Case P</characterDefinition>
+            <characterDefinition character="&amp;#x1D4C6;">MATHEMATICAL SCRIPT Lower Case Q</characterDefinition>
+            <characterDefinition character="&amp;#x1D4C7;">MATHEMATICAL SCRIPT Lower Case R</characterDefinition>
+            <characterDefinition character="&amp;#x1D4C8;">MATHEMATICAL SCRIPT Lower Case S</characterDefinition>
+            <characterDefinition character="&amp;#x1D4C9;">MATHEMATICAL SCRIPT Lower Case T</characterDefinition>
+            <characterDefinition character="&amp;#x1D4CA;">MATHEMATICAL SCRIPT Lower Case U</characterDefinition>
+            <characterDefinition character="&amp;#x1D4CB;">MATHEMATICAL SCRIPT Lower Case V</characterDefinition>
+            <characterDefinition character="&amp;#x1D4CC;">MATHEMATICAL SCRIPT Lower Case W</characterDefinition>
+            <characterDefinition character="&amp;#x1D4CD;">MATHEMATICAL SCRIPT Lower Case X</characterDefinition>
+            <characterDefinition character="&amp;#x1D4CE;">MATHEMATICAL SCRIPT Lower Case Y</characterDefinition>
+            <characterDefinition character="&amp;#x1D4CF;">MATHEMATICAL SCRIPT Lower Case Z</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+
+    <characterSubset name="Bold Script">
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x1D4D0;">MATHEMATICAL BOLD SCRIPT Upper Case A</characterDefinition>
+            <characterDefinition character="&amp;#x1D4D1;">MATHEMATICAL BOLD SCRIPT Upper Case B</characterDefinition>
+            <characterDefinition character="&amp;#x1D4D2;">MATHEMATICAL BOLD SCRIPT Upper Case C</characterDefinition>
+            <characterDefinition character="&amp;#x1D4D3;">MATHEMATICAL BOLD SCRIPT Upper Case D</characterDefinition>
+            <characterDefinition character="&amp;#x1D4D4;">MATHEMATICAL BOLD SCRIPT Upper Case E</characterDefinition>
+            <characterDefinition character="&amp;#x1D4D5;">MATHEMATICAL BOLD SCRIPT Upper Case F</characterDefinition>
+            <characterDefinition character="&amp;#x1D4D6;">MATHEMATICAL BOLD SCRIPT Upper Case G</characterDefinition>
+            <characterDefinition character="&amp;#x1D4D7;">MATHEMATICAL BOLD SCRIPT Upper Case H</characterDefinition>
+            <characterDefinition character="&amp;#x1D4D8;">MATHEMATICAL BOLD SCRIPT Upper Case I</characterDefinition>
+            <characterDefinition character="&amp;#x1D4D9;">MATHEMATICAL BOLD SCRIPT Upper Case J</characterDefinition>
+            <characterDefinition character="&amp;#x1D4DA;">MATHEMATICAL BOLD SCRIPT Upper Case K</characterDefinition>
+            <characterDefinition character="&amp;#x1D4DB;">MATHEMATICAL BOLD SCRIPT Upper Case L</characterDefinition>
+            <characterDefinition character="&amp;#x1D4DC;">MATHEMATICAL BOLD SCRIPT Upper Case M</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x1D4DD;">MATHEMATICAL BOLD SCRIPT Upper Case N</characterDefinition>
+            <characterDefinition character="&amp;#x1D4DE;">MATHEMATICAL BOLD SCRIPT Upper Case O</characterDefinition>
+            <characterDefinition character="&amp;#x1D4DF;">MATHEMATICAL BOLD SCRIPT Upper Case P</characterDefinition>
+            <characterDefinition character="&amp;#x1D4E0;">MATHEMATICAL BOLD SCRIPT Upper Case Q</characterDefinition>
+            <characterDefinition character="&amp;#x1D4E1;">MATHEMATICAL BOLD SCRIPT Upper Case R</characterDefinition>
+            <characterDefinition character="&amp;#x1D4E2;">MATHEMATICAL BOLD SCRIPT Upper Case S</characterDefinition>
+            <characterDefinition character="&amp;#x1D4E3;">MATHEMATICAL BOLD SCRIPT Upper Case T</characterDefinition>
+            <characterDefinition character="&amp;#x1D4E4;">MATHEMATICAL BOLD SCRIPT Upper Case U</characterDefinition>
+            <characterDefinition character="&amp;#x1D4E5;">MATHEMATICAL BOLD SCRIPT Upper Case V</characterDefinition>
+            <characterDefinition character="&amp;#x1D4E6;">MATHEMATICAL BOLD SCRIPT Upper Case W</characterDefinition>
+            <characterDefinition character="&amp;#x1D4E7;">MATHEMATICAL BOLD SCRIPT Upper Case X</characterDefinition>
+            <characterDefinition character="&amp;#x1D4E8;">MATHEMATICAL BOLD SCRIPT Upper Case Y</characterDefinition>
+            <characterDefinition character="&amp;#x1D4E9;">MATHEMATICAL BOLD SCRIPT Upper Case Z</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x1D4EA;">MATHEMATICAL BOLD SCRIPT Lower Case A</characterDefinition>
+            <characterDefinition character="&amp;#x1D4EB;">MATHEMATICAL BOLD SCRIPT Lower Case B</characterDefinition>
+            <characterDefinition character="&amp;#x1D4EC;">MATHEMATICAL BOLD SCRIPT Lower Case C</characterDefinition>
+            <characterDefinition character="&amp;#x1D4ED;">MATHEMATICAL BOLD SCRIPT Lower Case D</characterDefinition>
+            <characterDefinition character="&amp;#x1D4EE;">MATHEMATICAL BOLD SCRIPT Lower Case E</characterDefinition>
+            <characterDefinition character="&amp;#x1D4EF;">MATHEMATICAL BOLD SCRIPT Lower Case F</characterDefinition>
+            <characterDefinition character="&amp;#x1D4F0;">MATHEMATICAL BOLD SCRIPT Lower Case G</characterDefinition>
+            <characterDefinition character="&amp;#x1D4F1;">MATHEMATICAL BOLD SCRIPT Lower Case H</characterDefinition>
+            <characterDefinition character="&amp;#x1D4F2;">MATHEMATICAL BOLD SCRIPT Lower Case I</characterDefinition>
+            <characterDefinition character="&amp;#x1D4F3;">MATHEMATICAL BOLD SCRIPT Lower Case J</characterDefinition>
+            <characterDefinition character="&amp;#x1D4F4;">MATHEMATICAL BOLD SCRIPT Lower Case K</characterDefinition>
+            <characterDefinition character="&amp;#x1D4F5;">MATHEMATICAL BOLD SCRIPT Lower Case L</characterDefinition>
+            <characterDefinition character="&amp;#x1D4F6;">MATHEMATICAL BOLD SCRIPT Lower Case M</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x1D4F7;">MATHEMATICAL BOLD SCRIPT Lower Case N</characterDefinition>
+            <characterDefinition character="&amp;#x1D4F8;">MATHEMATICAL BOLD SCRIPT Lower Case O</characterDefinition>
+            <characterDefinition character="&amp;#x1D4F9;">MATHEMATICAL BOLD SCRIPT Lower Case P</characterDefinition>
+            <characterDefinition character="&amp;#x1D4FA;">MATHEMATICAL BOLD SCRIPT Lower Case Q</characterDefinition>
+            <characterDefinition character="&amp;#x1D4FB;">MATHEMATICAL BOLD SCRIPT Lower Case R</characterDefinition>
+            <characterDefinition character="&amp;#x1D4FC;">MATHEMATICAL BOLD SCRIPT Lower Case S</characterDefinition>
+            <characterDefinition character="&amp;#x1D4FD;">MATHEMATICAL BOLD SCRIPT Lower Case T</characterDefinition>
+            <characterDefinition character="&amp;#x1D4FE;">MATHEMATICAL BOLD SCRIPT Lower Case U</characterDefinition>
+            <characterDefinition character="&amp;#x1D4FF;">MATHEMATICAL BOLD SCRIPT Lower Case V</characterDefinition>
+            <characterDefinition character="&amp;#x1D500;">MATHEMATICAL BOLD SCRIPT Lower Case W</characterDefinition>
+            <characterDefinition character="&amp;#x1D501;">MATHEMATICAL BOLD SCRIPT Lower Case X</characterDefinition>
+            <characterDefinition character="&amp;#x1D502;">MATHEMATICAL BOLD SCRIPT Lower Case Y</characterDefinition>
+            <characterDefinition character="&amp;#x1D503;">MATHEMATICAL BOLD SCRIPT Lower Case Z</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+
+    <characterSubset name="Fraktur">
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x1D504;">MATHEMATICAL FRAKTUR Upper Case A</characterDefinition>
+            <characterDefinition character="&amp;#x1D505;">MATHEMATICAL FRAKTUR Upper Case B</characterDefinition>
+            <characterDefinition character="&amp;#x1D507;">MATHEMATICAL FRAKTUR Upper Case D</characterDefinition>
+            <characterDefinition character="&amp;#x1D508;">MATHEMATICAL FRAKTUR Upper Case E</characterDefinition>
+            <characterDefinition character="&amp;#x1D509;">MATHEMATICAL FRAKTUR Upper Case F</characterDefinition>
+            <characterDefinition character="&amp;#x1D50A;">MATHEMATICAL FRAKTUR Upper Case G</characterDefinition>
+            <characterDefinition character="&amp;#x1D50D;">MATHEMATICAL FRAKTUR Upper Case J</characterDefinition>
+            <characterDefinition character="&amp;#x1D50E;">MATHEMATICAL FRAKTUR Upper Case K</characterDefinition>
+            <characterDefinition character="&amp;#x1D50F;">MATHEMATICAL FRAKTUR Upper Case L</characterDefinition>
+            <characterDefinition character="&amp;#x1D510;">MATHEMATICAL FRAKTUR Upper Case M</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x1D511;">MATHEMATICAL FRAKTUR Upper Case N</characterDefinition>
+            <characterDefinition character="&amp;#x1D512;">MATHEMATICAL FRAKTUR Upper Case O</characterDefinition>
+            <characterDefinition character="&amp;#x1D513;">MATHEMATICAL FRAKTUR Upper Case P</characterDefinition>
+            <characterDefinition character="&amp;#x1D514;">MATHEMATICAL FRAKTUR Upper Case Q</characterDefinition>
+            <characterDefinition character="&amp;#x1D516;">MATHEMATICAL FRAKTUR Upper Case S</characterDefinition>
+            <characterDefinition character="&amp;#x1D517;">MATHEMATICAL FRAKTUR Upper Case T</characterDefinition>
+            <characterDefinition character="&amp;#x1D518;">MATHEMATICAL FRAKTUR Upper Case U</characterDefinition>
+            <characterDefinition character="&amp;#x1D519;">MATHEMATICAL FRAKTUR Upper Case V</characterDefinition>
+            <characterDefinition character="&amp;#x1D51A;">MATHEMATICAL FRAKTUR Upper Case W</characterDefinition>
+            <characterDefinition character="&amp;#x1D51B;">MATHEMATICAL FRAKTUR Upper Case X</characterDefinition>
+            <characterDefinition character="&amp;#x1D51C;">MATHEMATICAL FRAKTUR Upper Case Y</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x1D51E;">MATHEMATICAL FRAKTUR Lower Case A</characterDefinition>
+            <characterDefinition character="&amp;#x1D51F;">MATHEMATICAL FRAKTUR Lower Case B</characterDefinition>
+            <characterDefinition character="&amp;#x1D520;">MATHEMATICAL FRAKTUR Lower Case C</characterDefinition>
+            <characterDefinition character="&amp;#x1D521;">MATHEMATICAL FRAKTUR Lower Case D</characterDefinition>
+            <characterDefinition character="&amp;#x1D522;">MATHEMATICAL FRAKTUR Lower Case E</characterDefinition>
+            <characterDefinition character="&amp;#x1D523;">MATHEMATICAL FRAKTUR Lower Case F</characterDefinition>
+            <characterDefinition character="&amp;#x1D524;">MATHEMATICAL FRAKTUR Lower Case G</characterDefinition>
+            <characterDefinition character="&amp;#x1D525;">MATHEMATICAL FRAKTUR Lower Case H</characterDefinition>
+            <characterDefinition character="&amp;#x1D526;">MATHEMATICAL FRAKTUR Lower Case I</characterDefinition>
+            <characterDefinition character="&amp;#x1D527;">MATHEMATICAL FRAKTUR Lower Case J</characterDefinition>
+            <characterDefinition character="&amp;#x1D528;">MATHEMATICAL FRAKTUR Lower Case K</characterDefinition>
+            <characterDefinition character="&amp;#x1D529;">MATHEMATICAL FRAKTUR Lower Case L</characterDefinition>
+            <characterDefinition character="&amp;#x1D52A;">MATHEMATICAL FRAKTUR Lower Case M</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x1D52B;">MATHEMATICAL FRAKTUR Lower Case N</characterDefinition>
+            <characterDefinition character="&amp;#x1D52C;">MATHEMATICAL FRAKTUR Lower Case O</characterDefinition>
+            <characterDefinition character="&amp;#x1D52D;">MATHEMATICAL FRAKTUR Lower Case P</characterDefinition>
+            <characterDefinition character="&amp;#x1D52E;">MATHEMATICAL FRAKTUR Lower Case Q</characterDefinition>
+            <characterDefinition character="&amp;#x1D52F;">MATHEMATICAL FRAKTUR Lower Case R</characterDefinition>
+            <characterDefinition character="&amp;#x1D530;">MATHEMATICAL FRAKTUR Lower Case S</characterDefinition>
+            <characterDefinition character="&amp;#x1D531;">MATHEMATICAL FRAKTUR Lower Case T</characterDefinition>
+            <characterDefinition character="&amp;#x1D532;">MATHEMATICAL FRAKTUR Lower Case U</characterDefinition>
+            <characterDefinition character="&amp;#x1D533;">MATHEMATICAL FRAKTUR Lower Case V</characterDefinition>
+            <characterDefinition character="&amp;#x1D534;">MATHEMATICAL FRAKTUR Lower Case W</characterDefinition>
+            <characterDefinition character="&amp;#x1D535;">MATHEMATICAL FRAKTUR Lower Case X</characterDefinition>
+            <characterDefinition character="&amp;#x1D536;">MATHEMATICAL FRAKTUR Lower Case Y</characterDefinition>
+            <characterDefinition character="&amp;#x1D537;">MATHEMATICAL FRAKTUR Lower Case Z</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+
+    <characterSubset name="Double-Struck">
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x1D538;">MATHEMATICAL DOUBLE-STRUCK Upper Case A</characterDefinition>
+            <characterDefinition character="&amp;#x1D539;">MATHEMATICAL DOUBLE-STRUCK Upper Case B</characterDefinition>
+            <characterDefinition character="&amp;#x1D53B;">MATHEMATICAL DOUBLE-STRUCK Upper Case D</characterDefinition>
+            <characterDefinition character="&amp;#x1D53C;">MATHEMATICAL DOUBLE-STRUCK Upper Case E</characterDefinition>
+            <characterDefinition character="&amp;#x1D53D;">MATHEMATICAL DOUBLE-STRUCK Upper Case F</characterDefinition>
+            <characterDefinition character="&amp;#x1D53E;">MATHEMATICAL DOUBLE-STRUCK Upper Case G</characterDefinition>
+            <characterDefinition character="&amp;#x1D540;">MATHEMATICAL DOUBLE-STRUCK Upper Case I</characterDefinition>
+            <characterDefinition character="&amp;#x1D541;">MATHEMATICAL DOUBLE-STRUCK Upper Case J</characterDefinition>
+            <characterDefinition character="&amp;#x1D542;">MATHEMATICAL DOUBLE-STRUCK Upper Case K</characterDefinition>
+            <characterDefinition character="&amp;#x1D543;">MATHEMATICAL DOUBLE-STRUCK Upper Case L</characterDefinition>
+            <characterDefinition character="&amp;#x1D544;">MATHEMATICAL DOUBLE-STRUCK Upper Case M</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x1D546;">MATHEMATICAL DOUBLE-STRUCK Upper Case O</characterDefinition>
+            <characterDefinition character="&amp;#x1D54A;">MATHEMATICAL DOUBLE-STRUCK Upper Case S</characterDefinition>
+            <characterDefinition character="&amp;#x1D54B;">MATHEMATICAL DOUBLE-STRUCK Upper Case T</characterDefinition>
+            <characterDefinition character="&amp;#x1D54C;">MATHEMATICAL DOUBLE-STRUCK Upper Case U</characterDefinition>
+            <characterDefinition character="&amp;#x1D54D;">MATHEMATICAL DOUBLE-STRUCK Upper Case V</characterDefinition>
+            <characterDefinition character="&amp;#x1D54E;">MATHEMATICAL DOUBLE-STRUCK Upper Case W</characterDefinition>
+            <characterDefinition character="&amp;#x1D54F;">MATHEMATICAL DOUBLE-STRUCK Upper Case X</characterDefinition>
+            <characterDefinition character="&amp;#x1D550;">MATHEMATICAL DOUBLE-STRUCK Upper Case Y</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x1D552;">MATHEMATICAL DOUBLE-STRUCK Lower Case A</characterDefinition>
+            <characterDefinition character="&amp;#x1D553;">MATHEMATICAL DOUBLE-STRUCK Lower Case B</characterDefinition>
+            <characterDefinition character="&amp;#x1D554;">MATHEMATICAL DOUBLE-STRUCK Lower Case C</characterDefinition>
+            <characterDefinition character="&amp;#x1D555;">MATHEMATICAL DOUBLE-STRUCK Lower Case D</characterDefinition>
+            <characterDefinition character="&amp;#x1D556;">MATHEMATICAL DOUBLE-STRUCK Lower Case E</characterDefinition>
+            <characterDefinition character="&amp;#x1D557;">MATHEMATICAL DOUBLE-STRUCK Lower Case F</characterDefinition>
+            <characterDefinition character="&amp;#x1D558;">MATHEMATICAL DOUBLE-STRUCK Lower Case G</characterDefinition>
+            <characterDefinition character="&amp;#x1D559;">MATHEMATICAL DOUBLE-STRUCK Lower Case H</characterDefinition>
+            <characterDefinition character="&amp;#x1D55A;">MATHEMATICAL DOUBLE-STRUCK Lower Case I</characterDefinition>
+            <characterDefinition character="&amp;#x1D55B;">MATHEMATICAL DOUBLE-STRUCK Lower Case J</characterDefinition>
+            <characterDefinition character="&amp;#x1D55C;">MATHEMATICAL DOUBLE-STRUCK Lower Case K</characterDefinition>
+            <characterDefinition character="&amp;#x1D55D;">MATHEMATICAL DOUBLE-STRUCK Lower Case L</characterDefinition>
+            <characterDefinition character="&amp;#x1D55E;">MATHEMATICAL DOUBLE-STRUCK Lower Case M</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x1D55F;">MATHEMATICAL DOUBLE-STRUCK Lower Case N</characterDefinition>
+            <characterDefinition character="&amp;#x1D560;">MATHEMATICAL DOUBLE-STRUCK Lower Case O</characterDefinition>
+            <characterDefinition character="&amp;#x1D561;">MATHEMATICAL DOUBLE-STRUCK Lower Case P</characterDefinition>
+            <characterDefinition character="&amp;#x1D562;">MATHEMATICAL DOUBLE-STRUCK Lower Case Q</characterDefinition>
+            <characterDefinition character="&amp;#x1D563;">MATHEMATICAL DOUBLE-STRUCK Lower Case R</characterDefinition>
+            <characterDefinition character="&amp;#x1D564;">MATHEMATICAL DOUBLE-STRUCK Lower Case S</characterDefinition>
+            <characterDefinition character="&amp;#x1D565;">MATHEMATICAL DOUBLE-STRUCK Lower Case T</characterDefinition>
+            <characterDefinition character="&amp;#x1D566;">MATHEMATICAL DOUBLE-STRUCK Lower Case U</characterDefinition>
+            <characterDefinition character="&amp;#x1D567;">MATHEMATICAL DOUBLE-STRUCK Lower Case V</characterDefinition>
+            <characterDefinition character="&amp;#x1D568;">MATHEMATICAL DOUBLE-STRUCK Lower Case W</characterDefinition>
+            <characterDefinition character="&amp;#x1D569;">MATHEMATICAL DOUBLE-STRUCK Lower Case X</characterDefinition>
+            <characterDefinition character="&amp;#x1D56A;">MATHEMATICAL DOUBLE-STRUCK Lower Case Y</characterDefinition>
+            <characterDefinition character="&amp;#x1D56B;">MATHEMATICAL DOUBLE-STRUCK Lower Case Z</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x1D7D8;">MATHEMATICAL DOUBLE-STRUCK DIGIT ZERO</characterDefinition>
+            <characterDefinition character="&amp;#x1D7D9;">MATHEMATICAL DOUBLE-STRUCK DIGIT ONE</characterDefinition>
+            <characterDefinition character="&amp;#x1D7DA;">MATHEMATICAL DOUBLE-STRUCK DIGIT TWO</characterDefinition>
+            <characterDefinition character="&amp;#x1D7DB;">MATHEMATICAL DOUBLE-STRUCK DIGIT THREE</characterDefinition>
+            <characterDefinition character="&amp;#x1D7DC;">MATHEMATICAL DOUBLE-STRUCK DIGIT FOUR</characterDefinition>
+            <characterDefinition character="&amp;#x1D7DD;">MATHEMATICAL DOUBLE-STRUCK DIGIT FIVE</characterDefinition>
+            <characterDefinition character="&amp;#x1D7DE;">MATHEMATICAL DOUBLE-STRUCK DIGIT SIX</characterDefinition>
+            <characterDefinition character="&amp;#x1D7DF;">MATHEMATICAL DOUBLE-STRUCK DIGIT SEVEN</characterDefinition>
+            <characterDefinition character="&amp;#x1D7E0;">MATHEMATICAL DOUBLE-STRUCK DIGIT EIGHT</characterDefinition>
+            <characterDefinition character="&amp;#x1D7E1;">MATHEMATICAL DOUBLE-STRUCK DIGIT NINE</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+
+    <characterSubset name="Fraktur Bold">
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x1D56C;">MATHEMATICAL BOLD FRAKTUR Upper Case A</characterDefinition>
+            <characterDefinition character="&amp;#x1D56D;">MATHEMATICAL BOLD FRAKTUR Upper Case B</characterDefinition>
+            <characterDefinition character="&amp;#x1D56E;">MATHEMATICAL BOLD FRAKTUR Upper Case C</characterDefinition>
+            <characterDefinition character="&amp;#x1D56F;">MATHEMATICAL BOLD FRAKTUR Upper Case D</characterDefinition>
+            <characterDefinition character="&amp;#x1D570;">MATHEMATICAL BOLD FRAKTUR Upper Case E</characterDefinition>
+            <characterDefinition character="&amp;#x1D571;">MATHEMATICAL BOLD FRAKTUR Upper Case F</characterDefinition>
+            <characterDefinition character="&amp;#x1D572;">MATHEMATICAL BOLD FRAKTUR Upper Case G</characterDefinition>
+            <characterDefinition character="&amp;#x1D573;">MATHEMATICAL BOLD FRAKTUR Upper Case H</characterDefinition>
+            <characterDefinition character="&amp;#x1D574;">MATHEMATICAL BOLD FRAKTUR Upper Case I</characterDefinition>
+            <characterDefinition character="&amp;#x1D575;">MATHEMATICAL BOLD FRAKTUR Upper Case J</characterDefinition>
+            <characterDefinition character="&amp;#x1D576;">MATHEMATICAL BOLD FRAKTUR Upper Case K</characterDefinition>
+            <characterDefinition character="&amp;#x1D577;">MATHEMATICAL BOLD FRAKTUR Upper Case L</characterDefinition>
+            <characterDefinition character="&amp;#x1D578;">MATHEMATICAL BOLD FRAKTUR Upper Case M</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x1D579;">MATHEMATICAL BOLD FRAKTUR Upper Case N</characterDefinition>
+            <characterDefinition character="&amp;#x1D57A;">MATHEMATICAL BOLD FRAKTUR Upper Case O</characterDefinition>
+            <characterDefinition character="&amp;#x1D57B;">MATHEMATICAL BOLD FRAKTUR Upper Case P</characterDefinition>
+            <characterDefinition character="&amp;#x1D57C;">MATHEMATICAL BOLD FRAKTUR Upper Case Q</characterDefinition>
+            <characterDefinition character="&amp;#x1D57D;">MATHEMATICAL BOLD FRAKTUR Upper Case R</characterDefinition>
+            <characterDefinition character="&amp;#x1D57E;">MATHEMATICAL BOLD FRAKTUR Upper Case S</characterDefinition>
+            <characterDefinition character="&amp;#x1D57F;">MATHEMATICAL BOLD FRAKTUR Upper Case T</characterDefinition>
+            <characterDefinition character="&amp;#x1D580;">MATHEMATICAL BOLD FRAKTUR Upper Case U</characterDefinition>
+            <characterDefinition character="&amp;#x1D581;">MATHEMATICAL BOLD FRAKTUR Upper Case V</characterDefinition>
+            <characterDefinition character="&amp;#x1D582;">MATHEMATICAL BOLD FRAKTUR Upper Case W</characterDefinition>
+            <characterDefinition character="&amp;#x1D583;">MATHEMATICAL BOLD FRAKTUR Upper Case X</characterDefinition>
+            <characterDefinition character="&amp;#x1D584;">MATHEMATICAL BOLD FRAKTUR Upper Case Y</characterDefinition>
+            <characterDefinition character="&amp;#x1D585;">MATHEMATICAL BOLD FRAKTUR Upper Case Z</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x1D586;">MATHEMATICAL BOLD FRAKTUR Lower Case A</characterDefinition>
+            <characterDefinition character="&amp;#x1D587;">MATHEMATICAL BOLD FRAKTUR Lower Case B</characterDefinition>
+            <characterDefinition character="&amp;#x1D588;">MATHEMATICAL BOLD FRAKTUR Lower Case C</characterDefinition>
+            <characterDefinition character="&amp;#x1D589;">MATHEMATICAL BOLD FRAKTUR Lower Case D</characterDefinition>
+            <characterDefinition character="&amp;#x1D58A;">MATHEMATICAL BOLD FRAKTUR Lower Case E</characterDefinition>
+            <characterDefinition character="&amp;#x1D58B;">MATHEMATICAL BOLD FRAKTUR Lower Case F</characterDefinition>
+            <characterDefinition character="&amp;#x1D58C;">MATHEMATICAL BOLD FRAKTUR Lower Case G</characterDefinition>
+            <characterDefinition character="&amp;#x1D58D;">MATHEMATICAL BOLD FRAKTUR Lower Case H</characterDefinition>
+            <characterDefinition character="&amp;#x1D58E;">MATHEMATICAL BOLD FRAKTUR Lower Case I</characterDefinition>
+            <characterDefinition character="&amp;#x1D58F;">MATHEMATICAL BOLD FRAKTUR Lower Case J</characterDefinition>
+            <characterDefinition character="&amp;#x1D590;">MATHEMATICAL BOLD FRAKTUR Lower Case K</characterDefinition>
+            <characterDefinition character="&amp;#x1D591;">MATHEMATICAL BOLD FRAKTUR Lower Case L</characterDefinition>
+            <characterDefinition character="&amp;#x1D592;">MATHEMATICAL BOLD FRAKTUR Lower Case M</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x1D593;">MATHEMATICAL BOLD FRAKTUR Lower Case N</characterDefinition>
+            <characterDefinition character="&amp;#x1D594;">MATHEMATICAL BOLD FRAKTUR Lower Case O</characterDefinition>
+            <characterDefinition character="&amp;#x1D595;">MATHEMATICAL BOLD FRAKTUR Lower Case P</characterDefinition>
+            <characterDefinition character="&amp;#x1D596;">MATHEMATICAL BOLD FRAKTUR Lower Case Q</characterDefinition>
+            <characterDefinition character="&amp;#x1D597;">MATHEMATICAL BOLD FRAKTUR Lower Case R</characterDefinition>
+            <characterDefinition character="&amp;#x1D598;">MATHEMATICAL BOLD FRAKTUR Lower Case S</characterDefinition>
+            <characterDefinition character="&amp;#x1D599;">MATHEMATICAL BOLD FRAKTUR Lower Case T</characterDefinition>
+            <characterDefinition character="&amp;#x1D59A;">MATHEMATICAL BOLD FRAKTUR Lower Case U</characterDefinition>
+            <characterDefinition character="&amp;#x1D59B;">MATHEMATICAL BOLD FRAKTUR Lower Case V</characterDefinition>
+            <characterDefinition character="&amp;#x1D59C;">MATHEMATICAL BOLD FRAKTUR Lower Case W</characterDefinition>
+            <characterDefinition character="&amp;#x1D59D;">MATHEMATICAL BOLD FRAKTUR Lower Case X</characterDefinition>
+            <characterDefinition character="&amp;#x1D59E;">MATHEMATICAL BOLD FRAKTUR Lower Case Y</characterDefinition>
+            <characterDefinition character="&amp;#x1D59F;">MATHEMATICAL BOLD FRAKTUR Lower Case Z</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+
+    <characterSubset name="Sans-Serif">
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x1D5A0;">MATHEMATICAL SANS-SERIF Upper Case A</characterDefinition>
+            <characterDefinition character="&amp;#x1D5A1;">MATHEMATICAL SANS-SERIF Upper Case B</characterDefinition>
+            <characterDefinition character="&amp;#x1D5A2;">MATHEMATICAL SANS-SERIF Upper Case C</characterDefinition>
+            <characterDefinition character="&amp;#x1D5A3;">MATHEMATICAL SANS-SERIF Upper Case D</characterDefinition>
+            <characterDefinition character="&amp;#x1D5A4;">MATHEMATICAL SANS-SERIF Upper Case E</characterDefinition>
+            <characterDefinition character="&amp;#x1D5A5;">MATHEMATICAL SANS-SERIF Upper Case F</characterDefinition>
+            <characterDefinition character="&amp;#x1D5A6;">MATHEMATICAL SANS-SERIF Upper Case G</characterDefinition>
+            <characterDefinition character="&amp;#x1D5A7;">MATHEMATICAL SANS-SERIF Upper Case H</characterDefinition>
+            <characterDefinition character="&amp;#x1D5A8;">MATHEMATICAL SANS-SERIF Upper Case I</characterDefinition>
+            <characterDefinition character="&amp;#x1D5A9;">MATHEMATICAL SANS-SERIF Upper Case J</characterDefinition>
+            <characterDefinition character="&amp;#x1D5AA;">MATHEMATICAL SANS-SERIF Upper Case K</characterDefinition>
+            <characterDefinition character="&amp;#x1D5AB;">MATHEMATICAL SANS-SERIF Upper Case L</characterDefinition>
+            <characterDefinition character="&amp;#x1D5AC;">MATHEMATICAL SANS-SERIF Upper Case M</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x1D5AD;">MATHEMATICAL SANS-SERIF Upper Case N</characterDefinition>
+            <characterDefinition character="&amp;#x1D5AE;">MATHEMATICAL SANS-SERIF Upper Case O</characterDefinition>
+            <characterDefinition character="&amp;#x1D5AF;">MATHEMATICAL SANS-SERIF Upper Case P</characterDefinition>
+            <characterDefinition character="&amp;#x1D5B0;">MATHEMATICAL SANS-SERIF Upper Case Q</characterDefinition>
+            <characterDefinition character="&amp;#x1D5B1;">MATHEMATICAL SANS-SERIF Upper Case R</characterDefinition>
+            <characterDefinition character="&amp;#x1D5B2;">MATHEMATICAL SANS-SERIF Upper Case S</characterDefinition>
+            <characterDefinition character="&amp;#x1D5B3;">MATHEMATICAL SANS-SERIF Upper Case T</characterDefinition>
+            <characterDefinition character="&amp;#x1D5B4;">MATHEMATICAL SANS-SERIF Upper Case U</characterDefinition>
+            <characterDefinition character="&amp;#x1D5B5;">MATHEMATICAL SANS-SERIF Upper Case V</characterDefinition>
+            <characterDefinition character="&amp;#x1D5B6;">MATHEMATICAL SANS-SERIF Upper Case W</characterDefinition>
+            <characterDefinition character="&amp;#x1D5B7;">MATHEMATICAL SANS-SERIF Upper Case X</characterDefinition>
+            <characterDefinition character="&amp;#x1D5B8;">MATHEMATICAL SANS-SERIF Upper Case Y</characterDefinition>
+            <characterDefinition character="&amp;#x1D5B9;">MATHEMATICAL SANS-SERIF Upper Case Z</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x1D5BA;">MATHEMATICAL SANS-SERIF Lower Case A</characterDefinition>
+            <characterDefinition character="&amp;#x1D5BB;">MATHEMATICAL SANS-SERIF Lower Case B</characterDefinition>
+            <characterDefinition character="&amp;#x1D5BC;">MATHEMATICAL SANS-SERIF Lower Case C</characterDefinition>
+            <characterDefinition character="&amp;#x1D5BD;">MATHEMATICAL SANS-SERIF Lower Case D</characterDefinition>
+            <characterDefinition character="&amp;#x1D5BE;">MATHEMATICAL SANS-SERIF Lower Case E</characterDefinition>
+            <characterDefinition character="&amp;#x1D5BF;">MATHEMATICAL SANS-SERIF Lower Case F</characterDefinition>
+            <characterDefinition character="&amp;#x1D5C0;">MATHEMATICAL SANS-SERIF Lower Case G</characterDefinition>
+            <characterDefinition character="&amp;#x1D5C1;">MATHEMATICAL SANS-SERIF Lower Case H</characterDefinition>
+            <characterDefinition character="&amp;#x1D5C2;">MATHEMATICAL SANS-SERIF Lower Case I</characterDefinition>
+            <characterDefinition character="&amp;#x1D5C3;">MATHEMATICAL SANS-SERIF Lower Case J</characterDefinition>
+            <characterDefinition character="&amp;#x1D5C4;">MATHEMATICAL SANS-SERIF Lower Case K</characterDefinition>
+            <characterDefinition character="&amp;#x1D5C5;">MATHEMATICAL SANS-SERIF Lower Case L</characterDefinition>
+            <characterDefinition character="&amp;#x1D5C6;">MATHEMATICAL SANS-SERIF Lower Case M</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x1D5C7;">MATHEMATICAL SANS-SERIF Lower Case N</characterDefinition>
+            <characterDefinition character="&amp;#x1D5C8;">MATHEMATICAL SANS-SERIF Lower Case O</characterDefinition>
+            <characterDefinition character="&amp;#x1D5C9;">MATHEMATICAL SANS-SERIF Lower Case P</characterDefinition>
+            <characterDefinition character="&amp;#x1D5CA;">MATHEMATICAL SANS-SERIF Lower Case Q</characterDefinition>
+            <characterDefinition character="&amp;#x1D5CB;">MATHEMATICAL SANS-SERIF Lower Case R</characterDefinition>
+            <characterDefinition character="&amp;#x1D5CC;">MATHEMATICAL SANS-SERIF Lower Case S</characterDefinition>
+            <characterDefinition character="&amp;#x1D5CD;">MATHEMATICAL SANS-SERIF Lower Case T</characterDefinition>
+            <characterDefinition character="&amp;#x1D5CE;">MATHEMATICAL SANS-SERIF Lower Case U</characterDefinition>
+            <characterDefinition character="&amp;#x1D5CF;">MATHEMATICAL SANS-SERIF Lower Case V</characterDefinition>
+            <characterDefinition character="&amp;#x1D5D0;">MATHEMATICAL SANS-SERIF Lower Case W</characterDefinition>
+            <characterDefinition character="&amp;#x1D5D1;">MATHEMATICAL SANS-SERIF Lower Case X</characterDefinition>
+            <characterDefinition character="&amp;#x1D5D2;">MATHEMATICAL SANS-SERIF Lower Case Y</characterDefinition>
+            <characterDefinition character="&amp;#x1D5D3;">MATHEMATICAL SANS-SERIF Lower Case Z</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x1D7E2;">MATHEMATICAL SANS-SERIF DIGIT ZERO</characterDefinition>
+            <characterDefinition character="&amp;#x1D7E3;">MATHEMATICAL SANS-SERIF DIGIT ONE</characterDefinition>
+            <characterDefinition character="&amp;#x1D7E4;">MATHEMATICAL SANS-SERIF DIGIT TWO</characterDefinition>
+            <characterDefinition character="&amp;#x1D7E5;">MATHEMATICAL SANS-SERIF DIGIT THREE</characterDefinition>
+            <characterDefinition character="&amp;#x1D7E6;">MATHEMATICAL SANS-SERIF DIGIT FOUR</characterDefinition>
+            <characterDefinition character="&amp;#x1D7E7;">MATHEMATICAL SANS-SERIF DIGIT FIVE</characterDefinition>
+            <characterDefinition character="&amp;#x1D7E8;">MATHEMATICAL SANS-SERIF DIGIT SIX</characterDefinition>
+            <characterDefinition character="&amp;#x1D7E9;">MATHEMATICAL SANS-SERIF DIGIT SEVEN</characterDefinition>
+            <characterDefinition character="&amp;#x1D7EA;">MATHEMATICAL SANS-SERIF DIGIT EIGHT</characterDefinition>
+            <characterDefinition character="&amp;#x1D7EB;">MATHEMATICAL SANS-SERIF DIGIT NINE</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+
+    <characterSubset name="San-Serif Bold">
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x1D5D4;">MATHEMATICAL SANS-SERIF BOLD Upper Case A</characterDefinition>
+            <characterDefinition character="&amp;#x1D5D5;">MATHEMATICAL SANS-SERIF BOLD Upper Case B</characterDefinition>
+            <characterDefinition character="&amp;#x1D5D6;">MATHEMATICAL SANS-SERIF BOLD Upper Case C</characterDefinition>
+            <characterDefinition character="&amp;#x1D5D7;">MATHEMATICAL SANS-SERIF BOLD Upper Case D</characterDefinition>
+            <characterDefinition character="&amp;#x1D5D8;">MATHEMATICAL SANS-SERIF BOLD Upper Case E</characterDefinition>
+            <characterDefinition character="&amp;#x1D5D9;">MATHEMATICAL SANS-SERIF BOLD Upper Case F</characterDefinition>
+            <characterDefinition character="&amp;#x1D5DA;">MATHEMATICAL SANS-SERIF BOLD Upper Case G</characterDefinition>
+            <characterDefinition character="&amp;#x1D5DB;">MATHEMATICAL SANS-SERIF BOLD Upper Case H</characterDefinition>
+            <characterDefinition character="&amp;#x1D5DC;">MATHEMATICAL SANS-SERIF BOLD Upper Case I</characterDefinition>
+            <characterDefinition character="&amp;#x1D5DD;">MATHEMATICAL SANS-SERIF BOLD Upper Case J</characterDefinition>
+            <characterDefinition character="&amp;#x1D5DE;">MATHEMATICAL SANS-SERIF BOLD Upper Case K</characterDefinition>
+            <characterDefinition character="&amp;#x1D5DF;">MATHEMATICAL SANS-SERIF BOLD Upper Case L</characterDefinition>
+            <characterDefinition character="&amp;#x1D5E0;">MATHEMATICAL SANS-SERIF BOLD Upper Case M</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x1D5E1;">MATHEMATICAL SANS-SERIF BOLD Upper Case N</characterDefinition>
+            <characterDefinition character="&amp;#x1D5E2;">MATHEMATICAL SANS-SERIF BOLD Upper Case O</characterDefinition>
+            <characterDefinition character="&amp;#x1D5E3;">MATHEMATICAL SANS-SERIF BOLD Upper Case P</characterDefinition>
+            <characterDefinition character="&amp;#x1D5E4;">MATHEMATICAL SANS-SERIF BOLD Upper Case Q</characterDefinition>
+            <characterDefinition character="&amp;#x1D5E5;">MATHEMATICAL SANS-SERIF BOLD Upper Case R</characterDefinition>
+            <characterDefinition character="&amp;#x1D5E6;">MATHEMATICAL SANS-SERIF BOLD Upper Case S</characterDefinition>
+            <characterDefinition character="&amp;#x1D5E7;">MATHEMATICAL SANS-SERIF BOLD Upper Case T</characterDefinition>
+            <characterDefinition character="&amp;#x1D5E8;">MATHEMATICAL SANS-SERIF BOLD Upper Case U</characterDefinition>
+            <characterDefinition character="&amp;#x1D5E9;">MATHEMATICAL SANS-SERIF BOLD Upper Case V</characterDefinition>
+            <characterDefinition character="&amp;#x1D5EA;">MATHEMATICAL SANS-SERIF BOLD Upper Case W</characterDefinition>
+            <characterDefinition character="&amp;#x1D5EB;">MATHEMATICAL SANS-SERIF BOLD Upper Case X</characterDefinition>
+            <characterDefinition character="&amp;#x1D5EC;">MATHEMATICAL SANS-SERIF BOLD Upper Case Y</characterDefinition>
+            <characterDefinition character="&amp;#x1D5ED;">MATHEMATICAL SANS-SERIF BOLD Upper Case Z</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x1D5EE;">MATHEMATICAL SANS-SERIF BOLD Lower Case A</characterDefinition>
+            <characterDefinition character="&amp;#x1D5EF;">MATHEMATICAL SANS-SERIF BOLD Lower Case B</characterDefinition>
+            <characterDefinition character="&amp;#x1D5F0;">MATHEMATICAL SANS-SERIF BOLD Lower Case C</characterDefinition>
+            <characterDefinition character="&amp;#x1D5F1;">MATHEMATICAL SANS-SERIF BOLD Lower Case D</characterDefinition>
+            <characterDefinition character="&amp;#x1D5F2;">MATHEMATICAL SANS-SERIF BOLD Lower Case E</characterDefinition>
+            <characterDefinition character="&amp;#x1D5F3;">MATHEMATICAL SANS-SERIF BOLD Lower Case F</characterDefinition>
+            <characterDefinition character="&amp;#x1D5F4;">MATHEMATICAL SANS-SERIF BOLD Lower Case G</characterDefinition>
+            <characterDefinition character="&amp;#x1D5F5;">MATHEMATICAL SANS-SERIF BOLD Lower Case H</characterDefinition>
+            <characterDefinition character="&amp;#x1D5F6;">MATHEMATICAL SANS-SERIF BOLD Lower Case I</characterDefinition>
+            <characterDefinition character="&amp;#x1D5F7;">MATHEMATICAL SANS-SERIF BOLD Lower Case J</characterDefinition>
+            <characterDefinition character="&amp;#x1D5F8;">MATHEMATICAL SANS-SERIF BOLD Lower Case K</characterDefinition>
+            <characterDefinition character="&amp;#x1D5F9;">MATHEMATICAL SANS-SERIF BOLD Lower Case L</characterDefinition>
+            <characterDefinition character="&amp;#x1D5FA;">MATHEMATICAL SANS-SERIF BOLD Lower Case M</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x1D5FB;">MATHEMATICAL SANS-SERIF BOLD Lower Case N</characterDefinition>
+            <characterDefinition character="&amp;#x1D5FC;">MATHEMATICAL SANS-SERIF BOLD Lower Case O</characterDefinition>
+            <characterDefinition character="&amp;#x1D5FD;">MATHEMATICAL SANS-SERIF BOLD Lower Case P</characterDefinition>
+            <characterDefinition character="&amp;#x1D5FE;">MATHEMATICAL SANS-SERIF BOLD Lower Case Q</characterDefinition>
+            <characterDefinition character="&amp;#x1D5FF;">MATHEMATICAL SANS-SERIF BOLD Lower Case R</characterDefinition>
+            <characterDefinition character="&amp;#x1D600;">MATHEMATICAL SANS-SERIF BOLD Lower Case S</characterDefinition>
+            <characterDefinition character="&amp;#x1D601;">MATHEMATICAL SANS-SERIF BOLD Lower Case T</characterDefinition>
+            <characterDefinition character="&amp;#x1D602;">MATHEMATICAL SANS-SERIF BOLD Lower Case U</characterDefinition>
+            <characterDefinition character="&amp;#x1D603;">MATHEMATICAL SANS-SERIF BOLD Lower Case V</characterDefinition>
+            <characterDefinition character="&amp;#x1D604;">MATHEMATICAL SANS-SERIF BOLD Lower Case W</characterDefinition>
+            <characterDefinition character="&amp;#x1D605;">MATHEMATICAL SANS-SERIF BOLD Lower Case X</characterDefinition>
+            <characterDefinition character="&amp;#x1D606;">MATHEMATICAL SANS-SERIF BOLD Lower Case Y</characterDefinition>
+            <characterDefinition character="&amp;#x1D607;">MATHEMATICAL SANS-SERIF BOLD Lower Case Z</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+
+    <characterSubset name="Sans-Serif Italic">
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x1D608;">MATHEMATICAL SANS-SERIF ITALIC Upper Case A</characterDefinition>
+            <characterDefinition character="&amp;#x1D609;">MATHEMATICAL SANS-SERIF ITALIC Upper Case B</characterDefinition>
+            <characterDefinition character="&amp;#x1D60A;">MATHEMATICAL SANS-SERIF ITALIC Upper Case C</characterDefinition>
+            <characterDefinition character="&amp;#x1D60B;">MATHEMATICAL SANS-SERIF ITALIC Upper Case D</characterDefinition>
+            <characterDefinition character="&amp;#x1D60C;">MATHEMATICAL SANS-SERIF ITALIC Upper Case E</characterDefinition>
+            <characterDefinition character="&amp;#x1D60D;">MATHEMATICAL SANS-SERIF ITALIC Upper Case F</characterDefinition>
+            <characterDefinition character="&amp;#x1D60E;">MATHEMATICAL SANS-SERIF ITALIC Upper Case G</characterDefinition>
+            <characterDefinition character="&amp;#x1D60F;">MATHEMATICAL SANS-SERIF ITALIC Upper Case H</characterDefinition>
+            <characterDefinition character="&amp;#x1D610;">MATHEMATICAL SANS-SERIF ITALIC Upper Case I</characterDefinition>
+            <characterDefinition character="&amp;#x1D611;">MATHEMATICAL SANS-SERIF ITALIC Upper Case J</characterDefinition>
+            <characterDefinition character="&amp;#x1D612;">MATHEMATICAL SANS-SERIF ITALIC Upper Case K</characterDefinition>
+            <characterDefinition character="&amp;#x1D613;">MATHEMATICAL SANS-SERIF ITALIC Upper Case L</characterDefinition>
+            <characterDefinition character="&amp;#x1D614;">MATHEMATICAL SANS-SERIF ITALIC Upper Case M</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x1D615;">MATHEMATICAL SANS-SERIF ITALIC Upper Case N</characterDefinition>
+            <characterDefinition character="&amp;#x1D616;">MATHEMATICAL SANS-SERIF ITALIC Upper Case O</characterDefinition>
+            <characterDefinition character="&amp;#x1D617;">MATHEMATICAL SANS-SERIF ITALIC Upper Case P</characterDefinition>
+            <characterDefinition character="&amp;#x1D618;">MATHEMATICAL SANS-SERIF ITALIC Upper Case Q</characterDefinition>
+            <characterDefinition character="&amp;#x1D619;">MATHEMATICAL SANS-SERIF ITALIC Upper Case R</characterDefinition>
+            <characterDefinition character="&amp;#x1D61A;">MATHEMATICAL SANS-SERIF ITALIC Upper Case S</characterDefinition>
+            <characterDefinition character="&amp;#x1D61B;">MATHEMATICAL SANS-SERIF ITALIC Upper Case T</characterDefinition>
+            <characterDefinition character="&amp;#x1D61C;">MATHEMATICAL SANS-SERIF ITALIC Upper Case U</characterDefinition>
+            <characterDefinition character="&amp;#x1D61D;">MATHEMATICAL SANS-SERIF ITALIC Upper Case V</characterDefinition>
+            <characterDefinition character="&amp;#x1D61E;">MATHEMATICAL SANS-SERIF ITALIC Upper Case W</characterDefinition>
+            <characterDefinition character="&amp;#x1D61F;">MATHEMATICAL SANS-SERIF ITALIC Upper Case X</characterDefinition>
+            <characterDefinition character="&amp;#x1D620;">MATHEMATICAL SANS-SERIF ITALIC Upper Case Y</characterDefinition>
+            <characterDefinition character="&amp;#x1D621;">MATHEMATICAL SANS-SERIF ITALIC Upper Case Z</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x1D622;">MATHEMATICAL SANS-SERIF ITALIC Lower Case A</characterDefinition>
+            <characterDefinition character="&amp;#x1D623;">MATHEMATICAL SANS-SERIF ITALIC Lower Case B</characterDefinition>
+            <characterDefinition character="&amp;#x1D624;">MATHEMATICAL SANS-SERIF ITALIC Lower Case C</characterDefinition>
+            <characterDefinition character="&amp;#x1D625;">MATHEMATICAL SANS-SERIF ITALIC Lower Case D</characterDefinition>
+            <characterDefinition character="&amp;#x1D626;">MATHEMATICAL SANS-SERIF ITALIC Lower Case E</characterDefinition>
+            <characterDefinition character="&amp;#x1D627;">MATHEMATICAL SANS-SERIF ITALIC Lower Case F</characterDefinition>
+            <characterDefinition character="&amp;#x1D628;">MATHEMATICAL SANS-SERIF ITALIC Lower Case G</characterDefinition>
+            <characterDefinition character="&amp;#x1D629;">MATHEMATICAL SANS-SERIF ITALIC Lower Case H</characterDefinition>
+            <characterDefinition character="&amp;#x1D62A;">MATHEMATICAL SANS-SERIF ITALIC Lower Case I</characterDefinition>
+            <characterDefinition character="&amp;#x1D62B;">MATHEMATICAL SANS-SERIF ITALIC Lower Case J</characterDefinition>
+            <characterDefinition character="&amp;#x1D62C;">MATHEMATICAL SANS-SERIF ITALIC Lower Case K</characterDefinition>
+            <characterDefinition character="&amp;#x1D62D;">MATHEMATICAL SANS-SERIF ITALIC Lower Case L</characterDefinition>
+            <characterDefinition character="&amp;#x1D62E;">MATHEMATICAL SANS-SERIF ITALIC Lower Case M</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x1D62F;">MATHEMATICAL SANS-SERIF ITALIC Lower Case N</characterDefinition>
+            <characterDefinition character="&amp;#x1D630;">MATHEMATICAL SANS-SERIF ITALIC Lower Case O</characterDefinition>
+            <characterDefinition character="&amp;#x1D631;">MATHEMATICAL SANS-SERIF ITALIC Lower Case P</characterDefinition>
+            <characterDefinition character="&amp;#x1D632;">MATHEMATICAL SANS-SERIF ITALIC Lower Case Q</characterDefinition>
+            <characterDefinition character="&amp;#x1D633;">MATHEMATICAL SANS-SERIF ITALIC Lower Case R</characterDefinition>
+            <characterDefinition character="&amp;#x1D634;">MATHEMATICAL SANS-SERIF ITALIC Lower Case S</characterDefinition>
+            <characterDefinition character="&amp;#x1D635;">MATHEMATICAL SANS-SERIF ITALIC Lower Case T</characterDefinition>
+            <characterDefinition character="&amp;#x1D636;">MATHEMATICAL SANS-SERIF ITALIC Lower Case U</characterDefinition>
+            <characterDefinition character="&amp;#x1D637;">MATHEMATICAL SANS-SERIF ITALIC Lower Case V</characterDefinition>
+            <characterDefinition character="&amp;#x1D638;">MATHEMATICAL SANS-SERIF ITALIC Lower Case W</characterDefinition>
+            <characterDefinition character="&amp;#x1D639;">MATHEMATICAL SANS-SERIF ITALIC Lower Case X</characterDefinition>
+            <characterDefinition character="&amp;#x1D63A;">MATHEMATICAL SANS-SERIF ITALIC Lower Case Y</characterDefinition>
+            <characterDefinition character="&amp;#x1D63B;">MATHEMATICAL SANS-SERIF ITALIC Lower Case Z</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+
+    <characterSubset name="Sans-Serif Bold Italic">
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x1D63C;">MATHEMATICAL SANS-SERIF BOLD ITALIC Upper Case A</characterDefinition>
+            <characterDefinition character="&amp;#x1D63D;">MATHEMATICAL SANS-SERIF BOLD ITALIC Upper Case B</characterDefinition>
+            <characterDefinition character="&amp;#x1D63E;">MATHEMATICAL SANS-SERIF BOLD ITALIC Upper Case C</characterDefinition>
+            <characterDefinition character="&amp;#x1D63F;">MATHEMATICAL SANS-SERIF BOLD ITALIC Upper Case D</characterDefinition>
+            <characterDefinition character="&amp;#x1D640;">MATHEMATICAL SANS-SERIF BOLD ITALIC Upper Case E</characterDefinition>
+            <characterDefinition character="&amp;#x1D641;">MATHEMATICAL SANS-SERIF BOLD ITALIC Upper Case F</characterDefinition>
+            <characterDefinition character="&amp;#x1D642;">MATHEMATICAL SANS-SERIF BOLD ITALIC Upper Case G</characterDefinition>
+            <characterDefinition character="&amp;#x1D643;">MATHEMATICAL SANS-SERIF BOLD ITALIC Upper Case H</characterDefinition>
+            <characterDefinition character="&amp;#x1D644;">MATHEMATICAL SANS-SERIF BOLD ITALIC Upper Case I</characterDefinition>
+            <characterDefinition character="&amp;#x1D645;">MATHEMATICAL SANS-SERIF BOLD ITALIC Upper Case J</characterDefinition>
+            <characterDefinition character="&amp;#x1D646;">MATHEMATICAL SANS-SERIF BOLD ITALIC Upper Case K</characterDefinition>
+            <characterDefinition character="&amp;#x1D647;">MATHEMATICAL SANS-SERIF BOLD ITALIC Upper Case L</characterDefinition>
+            <characterDefinition character="&amp;#x1D648;">MATHEMATICAL SANS-SERIF BOLD ITALIC Upper Case M</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x1D649;">MATHEMATICAL SANS-SERIF BOLD ITALIC Upper Case N</characterDefinition>
+            <characterDefinition character="&amp;#x1D64A;">MATHEMATICAL SANS-SERIF BOLD ITALIC Upper Case O</characterDefinition>
+            <characterDefinition character="&amp;#x1D64B;">MATHEMATICAL SANS-SERIF BOLD ITALIC Upper Case P</characterDefinition>
+            <characterDefinition character="&amp;#x1D64C;">MATHEMATICAL SANS-SERIF BOLD ITALIC Upper Case Q</characterDefinition>
+            <characterDefinition character="&amp;#x1D64D;">MATHEMATICAL SANS-SERIF BOLD ITALIC Upper Case R</characterDefinition>
+            <characterDefinition character="&amp;#x1D64E;">MATHEMATICAL SANS-SERIF BOLD ITALIC Upper Case S</characterDefinition>
+            <characterDefinition character="&amp;#x1D64F;">MATHEMATICAL SANS-SERIF BOLD ITALIC Upper Case T</characterDefinition>
+            <characterDefinition character="&amp;#x1D650;">MATHEMATICAL SANS-SERIF BOLD ITALIC Upper Case U</characterDefinition>
+            <characterDefinition character="&amp;#x1D651;">MATHEMATICAL SANS-SERIF BOLD ITALIC Upper Case V</characterDefinition>
+            <characterDefinition character="&amp;#x1D652;">MATHEMATICAL SANS-SERIF BOLD ITALIC Upper Case W</characterDefinition>
+            <characterDefinition character="&amp;#x1D653;">MATHEMATICAL SANS-SERIF BOLD ITALIC Upper Case X</characterDefinition>
+            <characterDefinition character="&amp;#x1D654;">MATHEMATICAL SANS-SERIF BOLD ITALIC Upper Case Y</characterDefinition>
+            <characterDefinition character="&amp;#x1D655;">MATHEMATICAL SANS-SERIF BOLD ITALIC Upper Case Z</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x1D656;">MATHEMATICAL SANS-SERIF BOLD ITALIC Lower Case A</characterDefinition>
+            <characterDefinition character="&amp;#x1D657;">MATHEMATICAL SANS-SERIF BOLD ITALIC Lower Case B</characterDefinition>
+            <characterDefinition character="&amp;#x1D658;">MATHEMATICAL SANS-SERIF BOLD ITALIC Lower Case C</characterDefinition>
+            <characterDefinition character="&amp;#x1D659;">MATHEMATICAL SANS-SERIF BOLD ITALIC Lower Case D</characterDefinition>
+            <characterDefinition character="&amp;#x1D65A;">MATHEMATICAL SANS-SERIF BOLD ITALIC Lower Case E</characterDefinition>
+            <characterDefinition character="&amp;#x1D65B;">MATHEMATICAL SANS-SERIF BOLD ITALIC Lower Case F</characterDefinition>
+            <characterDefinition character="&amp;#x1D65C;">MATHEMATICAL SANS-SERIF BOLD ITALIC Lower Case G</characterDefinition>
+            <characterDefinition character="&amp;#x1D65D;">MATHEMATICAL SANS-SERIF BOLD ITALIC Lower Case H</characterDefinition>
+            <characterDefinition character="&amp;#x1D65E;">MATHEMATICAL SANS-SERIF BOLD ITALIC Lower Case I</characterDefinition>
+            <characterDefinition character="&amp;#x1D65F;">MATHEMATICAL SANS-SERIF BOLD ITALIC Lower Case J</characterDefinition>
+            <characterDefinition character="&amp;#x1D660;">MATHEMATICAL SANS-SERIF BOLD ITALIC Lower Case K</characterDefinition>
+            <characterDefinition character="&amp;#x1D661;">MATHEMATICAL SANS-SERIF BOLD ITALIC Lower Case L</characterDefinition>
+            <characterDefinition character="&amp;#x1D662;">MATHEMATICAL SANS-SERIF BOLD ITALIC Lower Case M</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x1D663;">MATHEMATICAL SANS-SERIF BOLD ITALIC Lower Case N</characterDefinition>
+            <characterDefinition character="&amp;#x1D664;">MATHEMATICAL SANS-SERIF BOLD ITALIC Lower Case O</characterDefinition>
+            <characterDefinition character="&amp;#x1D665;">MATHEMATICAL SANS-SERIF BOLD ITALIC Lower Case P</characterDefinition>
+            <characterDefinition character="&amp;#x1D666;">MATHEMATICAL SANS-SERIF BOLD ITALIC Lower Case Q</characterDefinition>
+            <characterDefinition character="&amp;#x1D667;">MATHEMATICAL SANS-SERIF BOLD ITALIC Lower Case R</characterDefinition>
+            <characterDefinition character="&amp;#x1D668;">MATHEMATICAL SANS-SERIF BOLD ITALIC Lower Case S</characterDefinition>
+            <characterDefinition character="&amp;#x1D669;">MATHEMATICAL SANS-SERIF BOLD ITALIC Lower Case T</characterDefinition>
+            <characterDefinition character="&amp;#x1D66A;">MATHEMATICAL SANS-SERIF BOLD ITALIC Lower Case U</characterDefinition>
+            <characterDefinition character="&amp;#x1D66B;">MATHEMATICAL SANS-SERIF BOLD ITALIC Lower Case V</characterDefinition>
+            <characterDefinition character="&amp;#x1D66C;">MATHEMATICAL SANS-SERIF BOLD ITALIC Lower Case W</characterDefinition>
+            <characterDefinition character="&amp;#x1D66D;">MATHEMATICAL SANS-SERIF BOLD ITALIC Lower Case X</characterDefinition>
+            <characterDefinition character="&amp;#x1D66E;">MATHEMATICAL SANS-SERIF BOLD ITALIC Lower Case Y</characterDefinition>
+            <characterDefinition character="&amp;#x1D66F;">MATHEMATICAL SANS-SERIF BOLD ITALIC Lower Case Z</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+
+    <characterSubset name="Monospace">
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x1D670;">MATHEMATICAL MONOSPACE Upper Case A</characterDefinition>
+            <characterDefinition character="&amp;#x1D671;">MATHEMATICAL MONOSPACE Upper Case B</characterDefinition>
+            <characterDefinition character="&amp;#x1D672;">MATHEMATICAL MONOSPACE Upper Case C</characterDefinition>
+            <characterDefinition character="&amp;#x1D673;">MATHEMATICAL MONOSPACE Upper Case D</characterDefinition>
+            <characterDefinition character="&amp;#x1D674;">MATHEMATICAL MONOSPACE Upper Case E</characterDefinition>
+            <characterDefinition character="&amp;#x1D675;">MATHEMATICAL MONOSPACE Upper Case F</characterDefinition>
+            <characterDefinition character="&amp;#x1D676;">MATHEMATICAL MONOSPACE Upper Case G</characterDefinition>
+            <characterDefinition character="&amp;#x1D677;">MATHEMATICAL MONOSPACE Upper Case H</characterDefinition>
+            <characterDefinition character="&amp;#x1D678;">MATHEMATICAL MONOSPACE Upper Case I</characterDefinition>
+            <characterDefinition character="&amp;#x1D679;">MATHEMATICAL MONOSPACE Upper Case J</characterDefinition>
+            <characterDefinition character="&amp;#x1D67A;">MATHEMATICAL MONOSPACE Upper Case K</characterDefinition>
+            <characterDefinition character="&amp;#x1D67B;">MATHEMATICAL MONOSPACE Upper Case L</characterDefinition>
+            <characterDefinition character="&amp;#x1D67C;">MATHEMATICAL MONOSPACE Upper Case M</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x1D67D;">MATHEMATICAL MONOSPACE Upper Case N</characterDefinition>
+            <characterDefinition character="&amp;#x1D67E;">MATHEMATICAL MONOSPACE Upper Case O</characterDefinition>
+            <characterDefinition character="&amp;#x1D67F;">MATHEMATICAL MONOSPACE Upper Case P</characterDefinition>
+            <characterDefinition character="&amp;#x1D680;">MATHEMATICAL MONOSPACE Upper Case Q</characterDefinition>
+            <characterDefinition character="&amp;#x1D681;">MATHEMATICAL MONOSPACE Upper Case R</characterDefinition>
+            <characterDefinition character="&amp;#x1D682;">MATHEMATICAL MONOSPACE Upper Case S</characterDefinition>
+            <characterDefinition character="&amp;#x1D683;">MATHEMATICAL MONOSPACE Upper Case T</characterDefinition>
+            <characterDefinition character="&amp;#x1D684;">MATHEMATICAL MONOSPACE Upper Case U</characterDefinition>
+            <characterDefinition character="&amp;#x1D685;">MATHEMATICAL MONOSPACE Upper Case V</characterDefinition>
+            <characterDefinition character="&amp;#x1D686;">MATHEMATICAL MONOSPACE Upper Case W</characterDefinition>
+            <characterDefinition character="&amp;#x1D687;">MATHEMATICAL MONOSPACE Upper Case X</characterDefinition>
+            <characterDefinition character="&amp;#x1D688;">MATHEMATICAL MONOSPACE Upper Case Y</characterDefinition>
+            <characterDefinition character="&amp;#x1D689;">MATHEMATICAL MONOSPACE Upper Case Z</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x1D68A;">MATHEMATICAL MONOSPACE Lower Case A</characterDefinition>
+            <characterDefinition character="&amp;#x1D68B;">MATHEMATICAL MONOSPACE Lower Case B</characterDefinition>
+            <characterDefinition character="&amp;#x1D68C;">MATHEMATICAL MONOSPACE Lower Case C</characterDefinition>
+            <characterDefinition character="&amp;#x1D68D;">MATHEMATICAL MONOSPACE Lower Case D</characterDefinition>
+            <characterDefinition character="&amp;#x1D68E;">MATHEMATICAL MONOSPACE Lower Case E</characterDefinition>
+            <characterDefinition character="&amp;#x1D68F;">MATHEMATICAL MONOSPACE Lower Case F</characterDefinition>
+            <characterDefinition character="&amp;#x1D690;">MATHEMATICAL MONOSPACE Lower Case G</characterDefinition>
+            <characterDefinition character="&amp;#x1D691;">MATHEMATICAL MONOSPACE Lower Case H</characterDefinition>
+            <characterDefinition character="&amp;#x1D692;">MATHEMATICAL MONOSPACE Lower Case I</characterDefinition>
+            <characterDefinition character="&amp;#x1D693;">MATHEMATICAL MONOSPACE Lower Case J</characterDefinition>
+            <characterDefinition character="&amp;#x1D694;">MATHEMATICAL MONOSPACE Lower Case K</characterDefinition>
+            <characterDefinition character="&amp;#x1D695;">MATHEMATICAL MONOSPACE Lower Case L</characterDefinition>
+            <characterDefinition character="&amp;#x1D696;">MATHEMATICAL MONOSPACE Lower Case M</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x1D697;">MATHEMATICAL MONOSPACE Lower Case N</characterDefinition>
+            <characterDefinition character="&amp;#x1D698;">MATHEMATICAL MONOSPACE Lower Case O</characterDefinition>
+            <characterDefinition character="&amp;#x1D699;">MATHEMATICAL MONOSPACE Lower Case P</characterDefinition>
+            <characterDefinition character="&amp;#x1D69A;">MATHEMATICAL MONOSPACE Lower Case Q</characterDefinition>
+            <characterDefinition character="&amp;#x1D69B;">MATHEMATICAL MONOSPACE Lower Case R</characterDefinition>
+            <characterDefinition character="&amp;#x1D69C;">MATHEMATICAL MONOSPACE Lower Case S</characterDefinition>
+            <characterDefinition character="&amp;#x1D69D;">MATHEMATICAL MONOSPACE Lower Case T</characterDefinition>
+            <characterDefinition character="&amp;#x1D69E;">MATHEMATICAL MONOSPACE Lower Case U</characterDefinition>
+            <characterDefinition character="&amp;#x1D69F;">MATHEMATICAL MONOSPACE Lower Case V</characterDefinition>
+            <characterDefinition character="&amp;#x1D6A0;">MATHEMATICAL MONOSPACE Lower Case W</characterDefinition>
+            <characterDefinition character="&amp;#x1D6A1;">MATHEMATICAL MONOSPACE Lower Case X</characterDefinition>
+            <characterDefinition character="&amp;#x1D6A2;">MATHEMATICAL MONOSPACE Lower Case Y</characterDefinition>
+            <characterDefinition character="&amp;#x1D6A3;">MATHEMATICAL MONOSPACE Lower Case Z</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x1D7F6;">MATHEMATICAL MONOSPACE DIGIT ZERO</characterDefinition>
+            <characterDefinition character="&amp;#x1D7F7;">MATHEMATICAL MONOSPACE DIGIT ONE</characterDefinition>
+            <characterDefinition character="&amp;#x1D7F8;">MATHEMATICAL MONOSPACE DIGIT TWO</characterDefinition>
+            <characterDefinition character="&amp;#x1D7F9;">MATHEMATICAL MONOSPACE DIGIT THREE</characterDefinition>
+            <characterDefinition character="&amp;#x1D7FA;">MATHEMATICAL MONOSPACE DIGIT FOUR</characterDefinition>
+            <characterDefinition character="&amp;#x1D7FB;">MATHEMATICAL MONOSPACE DIGIT FIVE</characterDefinition>
+            <characterDefinition character="&amp;#x1D7FC;">MATHEMATICAL MONOSPACE DIGIT SIX</characterDefinition>
+            <characterDefinition character="&amp;#x1D7FD;">MATHEMATICAL MONOSPACE DIGIT SEVEN</characterDefinition>
+            <characterDefinition character="&amp;#x1D7FE;">MATHEMATICAL MONOSPACE DIGIT EIGHT</characterDefinition>
+            <characterDefinition character="&amp;#x1D7FF;">MATHEMATICAL MONOSPACE DIGIT NINE</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+
+    <characterSubset name="Greek Bold">
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x1D6A8;">MATHEMATICAL BOLD Upper Case ALPHA</characterDefinition>
+            <characterDefinition character="&amp;#x1D6A9;">MATHEMATICAL BOLD Upper Case BETA</characterDefinition>
+            <characterDefinition character="&amp;#x1D6AA;">MATHEMATICAL BOLD Upper Case GAMMA</characterDefinition>
+            <characterDefinition character="&amp;#x1D6AB;">MATHEMATICAL BOLD Upper Case DELTA</characterDefinition>
+            <characterDefinition character="&amp;#x1D6AC;">MATHEMATICAL BOLD Upper Case EPSILON</characterDefinition>
+            <characterDefinition character="&amp;#x1D6AD;">MATHEMATICAL BOLD Upper Case ZETA</characterDefinition>
+            <characterDefinition character="&amp;#x1D6AE;">MATHEMATICAL BOLD Upper Case ETA</characterDefinition>
+            <characterDefinition character="&amp;#x1D6AF;">MATHEMATICAL BOLD Upper Case THETA</characterDefinition>
+            <characterDefinition character="&amp;#x1D6B0;">MATHEMATICAL BOLD Upper Case IOTA</characterDefinition>
+            <characterDefinition character="&amp;#x1D6B1;">MATHEMATICAL BOLD Upper Case KAPPA</characterDefinition>
+            <characterDefinition character="&amp;#x1D6B2;">MATHEMATICAL BOLD Upper Case LAMDA</characterDefinition>
+            <characterDefinition character="&amp;#x1D6B3;">MATHEMATICAL BOLD Upper Case MU</characterDefinition>
+            <characterDefinition character="&amp;#x1D6B4;">MATHEMATICAL BOLD Upper Case NU</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x1D6B5;">MATHEMATICAL BOLD Upper Case XI</characterDefinition>
+            <characterDefinition character="&amp;#x1D6B6;">MATHEMATICAL BOLD Upper Case OMICRON</characterDefinition>
+            <characterDefinition character="&amp;#x1D6B7;">MATHEMATICAL BOLD Upper Case PI</characterDefinition>
+            <characterDefinition character="&amp;#x1D6B8;">MATHEMATICAL BOLD Upper Case RHO</characterDefinition>
+            <characterDefinition character="&amp;#x1D6B9;">MATHEMATICAL BOLD Upper Case THETA SYMBOL</characterDefinition>
+            <characterDefinition character="&amp;#x1D6BA;">MATHEMATICAL BOLD Upper Case SIGMA</characterDefinition>
+            <characterDefinition character="&amp;#x1D6BB;">MATHEMATICAL BOLD Upper Case TAU</characterDefinition>
+            <characterDefinition character="&amp;#x1D6BC;">MATHEMATICAL BOLD Upper Case UPSILON</characterDefinition>
+            <characterDefinition character="&amp;#x1D6BD;">MATHEMATICAL BOLD Upper Case PHI</characterDefinition>
+            <characterDefinition character="&amp;#x1D6BE;">MATHEMATICAL BOLD Upper Case CHI</characterDefinition>
+            <characterDefinition character="&amp;#x1D6BF;">MATHEMATICAL BOLD Upper Case PSI</characterDefinition>
+            <characterDefinition character="&amp;#x1D6C0;">MATHEMATICAL BOLD Upper Case OMEGA</characterDefinition>
+            <characterDefinition character="&amp;#x1D6C1;">MATHEMATICAL BOLD NABLA</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x1D7CA;">MATHEMATICAL BOLD Upper Case DIGAMMA</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x1D6C2;">MATHEMATICAL BOLD Lower Case ALPHA</characterDefinition>
+            <characterDefinition character="&amp;#x1D6C3;">MATHEMATICAL BOLD Lower Case BETA</characterDefinition>
+            <characterDefinition character="&amp;#x1D6C4;">MATHEMATICAL BOLD Lower Case GAMMA</characterDefinition>
+            <characterDefinition character="&amp;#x1D6C5;">MATHEMATICAL BOLD Lower Case DELTA</characterDefinition>
+            <characterDefinition character="&amp;#x1D6C6;">MATHEMATICAL BOLD Lower Case EPSILON</characterDefinition>
+            <characterDefinition character="&amp;#x1D6C7;">MATHEMATICAL BOLD Lower Case ZETA</characterDefinition>
+            <characterDefinition character="&amp;#x1D6C8;">MATHEMATICAL BOLD Lower Case ETA</characterDefinition>
+            <characterDefinition character="&amp;#x1D6C9;">MATHEMATICAL BOLD Lower Case THETA</characterDefinition>
+            <characterDefinition character="&amp;#x1D6CA;">MATHEMATICAL BOLD Lower Case IOTA</characterDefinition>
+            <characterDefinition character="&amp;#x1D6CB;">MATHEMATICAL BOLD Lower Case KAPPA</characterDefinition>
+            <characterDefinition character="&amp;#x1D6CC;">MATHEMATICAL BOLD Lower Case LAMDA</characterDefinition>
+            <characterDefinition character="&amp;#x1D6CD;">MATHEMATICAL BOLD Lower Case MU</characterDefinition>
+            <characterDefinition character="&amp;#x1D6CE;">MATHEMATICAL BOLD Lower Case NU</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x1D6CF;">MATHEMATICAL BOLD Lower Case XI</characterDefinition>
+            <characterDefinition character="&amp;#x1D6D0;">MATHEMATICAL BOLD Lower Case OMICRON</characterDefinition>
+            <characterDefinition character="&amp;#x1D6D1;">MATHEMATICAL BOLD Lower Case PI</characterDefinition>
+            <characterDefinition character="&amp;#x1D6D2;">MATHEMATICAL BOLD Lower Case RHO</characterDefinition>
+            <characterDefinition character="&amp;#x1D6D3;">MATHEMATICAL BOLD Lower Case FINAL SIGMA</characterDefinition>
+            <characterDefinition character="&amp;#x1D6D4;">MATHEMATICAL BOLD Lower Case SIGMA</characterDefinition>
+            <characterDefinition character="&amp;#x1D6D5;">MATHEMATICAL BOLD Lower Case TAU</characterDefinition>
+            <characterDefinition character="&amp;#x1D6D6;">MATHEMATICAL BOLD Lower Case UPSILON</characterDefinition>
+            <characterDefinition character="&amp;#x1D6D7;">MATHEMATICAL BOLD Lower Case PHI</characterDefinition>
+            <characterDefinition character="&amp;#x1D6D8;">MATHEMATICAL BOLD Lower Case CHI</characterDefinition>
+            <characterDefinition character="&amp;#x1D6D9;">MATHEMATICAL BOLD Lower Case PSI</characterDefinition>
+            <characterDefinition character="&amp;#x1D6DA;">MATHEMATICAL BOLD Lower Case OMEGA</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x1D7CB;">MATHEMATICAL BOLD Lower Case DIGAMMA</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x1D6DB;">MATHEMATICAL BOLD PARTIAL DIFFERENTIAL</characterDefinition>
+            <characterDefinition character="&amp;#x1D6DC;">MATHEMATICAL BOLD EPSILON SYMBOL</characterDefinition>
+            <characterDefinition character="&amp;#x1D6DD;">MATHEMATICAL BOLD THETA SYMBOL</characterDefinition>
+            <characterDefinition character="&amp;#x1D6DE;">MATHEMATICAL BOLD KAPPA SYMBOL</characterDefinition>
+            <characterDefinition character="&amp;#x1D6DF;">MATHEMATICAL BOLD PHI SYMBOL</characterDefinition>
+            <characterDefinition character="&amp;#x1D6E0;">MATHEMATICAL BOLD RHO SYMBOL</characterDefinition>
+            <characterDefinition character="&amp;#x1D6E1;">MATHEMATICAL BOLD PI SYMBOL</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+
+    <characterSubset name="Greek Italic">
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x1D6E2;">MATHEMATICAL ITALIC Upper Case ALPHA</characterDefinition>
+            <characterDefinition character="&amp;#x1D6E3;">MATHEMATICAL ITALIC Upper Case BETA</characterDefinition>
+            <characterDefinition character="&amp;#x1D6E4;">MATHEMATICAL ITALIC Upper Case GAMMA</characterDefinition>
+            <characterDefinition character="&amp;#x1D6E5;">MATHEMATICAL ITALIC Upper Case DELTA</characterDefinition>
+            <characterDefinition character="&amp;#x1D6E6;">MATHEMATICAL ITALIC Upper Case EPSILON</characterDefinition>
+            <characterDefinition character="&amp;#x1D6E7;">MATHEMATICAL ITALIC Upper Case ZETA</characterDefinition>
+            <characterDefinition character="&amp;#x1D6E8;">MATHEMATICAL ITALIC Upper Case ETA</characterDefinition>
+            <characterDefinition character="&amp;#x1D6E9;">MATHEMATICAL ITALIC Upper Case THETA</characterDefinition>
+            <characterDefinition character="&amp;#x1D6EA;">MATHEMATICAL ITALIC Upper Case IOTA</characterDefinition>
+            <characterDefinition character="&amp;#x1D6EB;">MATHEMATICAL ITALIC Upper Case KAPPA</characterDefinition>
+            <characterDefinition character="&amp;#x1D6EC;">MATHEMATICAL ITALIC Upper Case LAMDA</characterDefinition>
+            <characterDefinition character="&amp;#x1D6ED;">MATHEMATICAL ITALIC Upper Case MU</characterDefinition>
+            <characterDefinition character="&amp;#x1D6EE;">MATHEMATICAL ITALIC Upper Case NU</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x1D6EF;">MATHEMATICAL ITALIC Upper Case XI</characterDefinition>
+            <characterDefinition character="&amp;#x1D6F0;">MATHEMATICAL ITALIC Upper Case OMICRON</characterDefinition>
+            <characterDefinition character="&amp;#x1D6F1;">MATHEMATICAL ITALIC Upper Case PI</characterDefinition>
+            <characterDefinition character="&amp;#x1D6F2;">MATHEMATICAL ITALIC Upper Case RHO</characterDefinition>
+            <characterDefinition character="&amp;#x1D6F3;">MATHEMATICAL ITALIC Upper Case THETA SYMBOL</characterDefinition>
+            <characterDefinition character="&amp;#x1D6F4;">MATHEMATICAL ITALIC Upper Case SIGMA</characterDefinition>
+            <characterDefinition character="&amp;#x1D6F5;">MATHEMATICAL ITALIC Upper Case TAU</characterDefinition>
+            <characterDefinition character="&amp;#x1D6F6;">MATHEMATICAL ITALIC Upper Case UPSILON</characterDefinition>
+            <characterDefinition character="&amp;#x1D6F7;">MATHEMATICAL ITALIC Upper Case PHI</characterDefinition>
+            <characterDefinition character="&amp;#x1D6F8;">MATHEMATICAL ITALIC Upper Case CHI</characterDefinition>
+            <characterDefinition character="&amp;#x1D6F9;">MATHEMATICAL ITALIC Upper Case PSI</characterDefinition>
+            <characterDefinition character="&amp;#x1D6FA;">MATHEMATICAL ITALIC Upper Case OMEGA</characterDefinition>
+            <characterDefinition character="&amp;#x1D6FB;">MATHEMATICAL ITALIC NABLA</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x1D6FC;">MATHEMATICAL ITALIC Lower Case ALPHA</characterDefinition>
+            <characterDefinition character="&amp;#x1D6FD;">MATHEMATICAL ITALIC Lower Case BETA</characterDefinition>
+            <characterDefinition character="&amp;#x1D6FE;">MATHEMATICAL ITALIC Lower Case GAMMA</characterDefinition>
+            <characterDefinition character="&amp;#x1D6FF;">MATHEMATICAL ITALIC Lower Case DELTA</characterDefinition>
+            <characterDefinition character="&amp;#x1D700;">MATHEMATICAL ITALIC Lower Case EPSILON</characterDefinition>
+            <characterDefinition character="&amp;#x1D701;">MATHEMATICAL ITALIC Lower Case ZETA</characterDefinition>
+            <characterDefinition character="&amp;#x1D702;">MATHEMATICAL ITALIC Lower Case ETA</characterDefinition>
+            <characterDefinition character="&amp;#x1D703;">MATHEMATICAL ITALIC Lower Case THETA</characterDefinition>
+            <characterDefinition character="&amp;#x1D704;">MATHEMATICAL ITALIC Lower Case IOTA</characterDefinition>
+            <characterDefinition character="&amp;#x1D705;">MATHEMATICAL ITALIC Lower Case KAPPA</characterDefinition>
+            <characterDefinition character="&amp;#x1D706;">MATHEMATICAL ITALIC Lower Case LAMDA</characterDefinition>
+            <characterDefinition character="&amp;#x1D707;">MATHEMATICAL ITALIC Lower Case MU</characterDefinition>
+            <characterDefinition character="&amp;#x1D708;">MATHEMATICAL ITALIC Lower Case NU</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x1D709;">MATHEMATICAL ITALIC Lower Case XI</characterDefinition>
+            <characterDefinition character="&amp;#x1D70A;">MATHEMATICAL ITALIC Lower Case OMICRON</characterDefinition>
+            <characterDefinition character="&amp;#x1D70B;">MATHEMATICAL ITALIC Lower Case PI</characterDefinition>
+            <characterDefinition character="&amp;#x1D70C;">MATHEMATICAL ITALIC Lower Case RHO</characterDefinition>
+            <characterDefinition character="&amp;#x1D70D;">MATHEMATICAL ITALIC Lower Case FINAL SIGMA</characterDefinition>
+            <characterDefinition character="&amp;#x1D70E;">MATHEMATICAL ITALIC Lower Case SIGMA</characterDefinition>
+            <characterDefinition character="&amp;#x1D70F;">MATHEMATICAL ITALIC Lower Case TAU</characterDefinition>
+            <characterDefinition character="&amp;#x1D710;">MATHEMATICAL ITALIC Lower Case UPSILON</characterDefinition>
+            <characterDefinition character="&amp;#x1D711;">MATHEMATICAL ITALIC Lower Case PHI</characterDefinition>
+            <characterDefinition character="&amp;#x1D712;">MATHEMATICAL ITALIC Lower Case CHI</characterDefinition>
+            <characterDefinition character="&amp;#x1D713;">MATHEMATICAL ITALIC Lower Case PSI</characterDefinition>
+            <characterDefinition character="&amp;#x1D714;">MATHEMATICAL ITALIC Lower Case OMEGA</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x1D715;">MATHEMATICAL ITALIC PARTIAL DIFFERENTIAL</characterDefinition>
+            <characterDefinition character="&amp;#x1D716;">MATHEMATICAL ITALIC EPSILON SYMBOL</characterDefinition>
+            <characterDefinition character="&amp;#x1D717;">MATHEMATICAL ITALIC THETA SYMBOL</characterDefinition>
+            <characterDefinition character="&amp;#x1D718;">MATHEMATICAL ITALIC KAPPA SYMBOL</characterDefinition>
+            <characterDefinition character="&amp;#x1D719;">MATHEMATICAL ITALIC PHI SYMBOL</characterDefinition>
+            <characterDefinition character="&amp;#x1D71A;">MATHEMATICAL ITALIC RHO SYMBOL</characterDefinition>
+            <characterDefinition character="&amp;#x1D71B;">MATHEMATICAL ITALIC PI SYMBOL</characterDefinition>
+         </characterSubsetArray>
+    </characterSubset>
+
+    <characterSubset name="Greek Bold Italic">
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x1D71C;">MATHEMATICAL BOLD ITALIC Upper Case ALPHA</characterDefinition>
+            <characterDefinition character="&amp;#x1D71D;">MATHEMATICAL BOLD ITALIC Upper Case BETA</characterDefinition>
+            <characterDefinition character="&amp;#x1D71E;">MATHEMATICAL BOLD ITALIC Upper Case GAMMA</characterDefinition>
+            <characterDefinition character="&amp;#x1D71F;">MATHEMATICAL BOLD ITALIC Upper Case DELTA</characterDefinition>
+            <characterDefinition character="&amp;#x1D720;">MATHEMATICAL BOLD ITALIC Upper Case EPSILON</characterDefinition>
+            <characterDefinition character="&amp;#x1D721;">MATHEMATICAL BOLD ITALIC Upper Case ZETA</characterDefinition>
+            <characterDefinition character="&amp;#x1D722;">MATHEMATICAL BOLD ITALIC Upper Case ETA</characterDefinition>
+            <characterDefinition character="&amp;#x1D723;">MATHEMATICAL BOLD ITALIC Upper Case THETA</characterDefinition>
+            <characterDefinition character="&amp;#x1D724;">MATHEMATICAL BOLD ITALIC Upper Case IOTA</characterDefinition>
+            <characterDefinition character="&amp;#x1D725;">MATHEMATICAL BOLD ITALIC Upper Case KAPPA</characterDefinition>
+            <characterDefinition character="&amp;#x1D726;">MATHEMATICAL BOLD ITALIC Upper Case LAMDA</characterDefinition>
+            <characterDefinition character="&amp;#x1D727;">MATHEMATICAL BOLD ITALIC Upper Case MU</characterDefinition>
+            <characterDefinition character="&amp;#x1D728;">MATHEMATICAL BOLD ITALIC Upper Case NU</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x1D729;">MATHEMATICAL BOLD ITALIC Upper Case XI</characterDefinition>
+            <characterDefinition character="&amp;#x1D72A;">MATHEMATICAL BOLD ITALIC Upper Case OMICRON</characterDefinition>
+            <characterDefinition character="&amp;#x1D72B;">MATHEMATICAL BOLD ITALIC Upper Case PI</characterDefinition>
+            <characterDefinition character="&amp;#x1D72C;">MATHEMATICAL BOLD ITALIC Upper Case RHO</characterDefinition>
+            <characterDefinition character="&amp;#x1D72D;">MATHEMATICAL BOLD ITALIC Upper Case THETA SYMBOL</characterDefinition>
+            <characterDefinition character="&amp;#x1D72E;">MATHEMATICAL BOLD ITALIC Upper Case SIGMA</characterDefinition>
+            <characterDefinition character="&amp;#x1D72F;">MATHEMATICAL BOLD ITALIC Upper Case TAU</characterDefinition>
+            <characterDefinition character="&amp;#x1D730;">MATHEMATICAL BOLD ITALIC Upper Case UPSILON</characterDefinition>
+            <characterDefinition character="&amp;#x1D731;">MATHEMATICAL BOLD ITALIC Upper Case PHI</characterDefinition>
+            <characterDefinition character="&amp;#x1D732;">MATHEMATICAL BOLD ITALIC Upper Case CHI</characterDefinition>
+            <characterDefinition character="&amp;#x1D733;">MATHEMATICAL BOLD ITALIC Upper Case PSI</characterDefinition>
+            <characterDefinition character="&amp;#x1D734;">MATHEMATICAL BOLD ITALIC Upper Case OMEGA</characterDefinition>
+            <characterDefinition character="&amp;#x1D735;">MATHEMATICAL BOLD ITALIC NABLA</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x1D736;">MATHEMATICAL BOLD ITALIC Lower Case ALPHA</characterDefinition>
+            <characterDefinition character="&amp;#x1D737;">MATHEMATICAL BOLD ITALIC Lower Case BETA</characterDefinition>
+            <characterDefinition character="&amp;#x1D738;">MATHEMATICAL BOLD ITALIC Lower Case GAMMA</characterDefinition>
+            <characterDefinition character="&amp;#x1D739;">MATHEMATICAL BOLD ITALIC Lower Case DELTA</characterDefinition>
+            <characterDefinition character="&amp;#x1D73A;">MATHEMATICAL BOLD ITALIC Lower Case EPSILON</characterDefinition>
+            <characterDefinition character="&amp;#x1D73B;">MATHEMATICAL BOLD ITALIC Lower Case ZETA</characterDefinition>
+            <characterDefinition character="&amp;#x1D73C;">MATHEMATICAL BOLD ITALIC Lower Case ETA</characterDefinition>
+            <characterDefinition character="&amp;#x1D73D;">MATHEMATICAL BOLD ITALIC Lower Case THETA</characterDefinition>
+            <characterDefinition character="&amp;#x1D73E;">MATHEMATICAL BOLD ITALIC Lower Case IOTA</characterDefinition>
+            <characterDefinition character="&amp;#x1D73F;">MATHEMATICAL BOLD ITALIC Lower Case KAPPA</characterDefinition>
+            <characterDefinition character="&amp;#x1D740;">MATHEMATICAL BOLD ITALIC Lower Case LAMDA</characterDefinition>
+            <characterDefinition character="&amp;#x1D741;">MATHEMATICAL BOLD ITALIC Lower Case MU</characterDefinition>
+            <characterDefinition character="&amp;#x1D742;">MATHEMATICAL BOLD ITALIC Lower Case NU</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x1D743;">MATHEMATICAL BOLD ITALIC Lower Case XI</characterDefinition>
+            <characterDefinition character="&amp;#x1D744;">MATHEMATICAL BOLD ITALIC Lower Case OMICRON</characterDefinition>
+            <characterDefinition character="&amp;#x1D745;">MATHEMATICAL BOLD ITALIC Lower Case PI</characterDefinition>
+            <characterDefinition character="&amp;#x1D746;">MATHEMATICAL BOLD ITALIC Lower Case RHO</characterDefinition>
+            <characterDefinition character="&amp;#x1D747;">MATHEMATICAL BOLD ITALIC Lower Case FINAL SIGMA</characterDefinition>
+            <characterDefinition character="&amp;#x1D748;">MATHEMATICAL BOLD ITALIC Lower Case SIGMA</characterDefinition>
+            <characterDefinition character="&amp;#x1D749;">MATHEMATICAL BOLD ITALIC Lower Case TAU</characterDefinition>
+            <characterDefinition character="&amp;#x1D74A;">MATHEMATICAL BOLD ITALIC Lower Case UPSILON</characterDefinition>
+            <characterDefinition character="&amp;#x1D74B;">MATHEMATICAL BOLD ITALIC Lower Case PHI</characterDefinition>
+            <characterDefinition character="&amp;#x1D74C;">MATHEMATICAL BOLD ITALIC Lower Case CHI</characterDefinition>
+            <characterDefinition character="&amp;#x1D74D;">MATHEMATICAL BOLD ITALIC Lower Case PSI</characterDefinition>
+            <characterDefinition character="&amp;#x1D74E;">MATHEMATICAL BOLD ITALIC Lower Case OMEGA</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x1D74F;">MATHEMATICAL BOLD ITALIC PARTIAL DIFFERENTIAL</characterDefinition>
+            <characterDefinition character="&amp;#x1D750;">MATHEMATICAL BOLD ITALIC EPSILON SYMBOL</characterDefinition>
+            <characterDefinition character="&amp;#x1D751;">MATHEMATICAL BOLD ITALIC THETA SYMBOL</characterDefinition>
+            <characterDefinition character="&amp;#x1D752;">MATHEMATICAL BOLD ITALIC KAPPA SYMBOL</characterDefinition>
+            <characterDefinition character="&amp;#x1D753;">MATHEMATICAL BOLD ITALIC PHI SYMBOL</characterDefinition>
+            <characterDefinition character="&amp;#x1D754;">MATHEMATICAL BOLD ITALIC RHO SYMBOL</characterDefinition>
+            <characterDefinition character="&amp;#x1D755;">MATHEMATICAL BOLD ITALIC PI SYMBOL</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+
+    <characterSubset name="Greek Sans-Serif Bold">
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x1D756;">MATHEMATICAL SANS-SERIF BOLD Upper Case ALPHA</characterDefinition>
+            <characterDefinition character="&amp;#x1D757;">MATHEMATICAL SANS-SERIF BOLD Upper Case BETA</characterDefinition>
+            <characterDefinition character="&amp;#x1D758;">MATHEMATICAL SANS-SERIF BOLD Upper Case GAMMA</characterDefinition>
+            <characterDefinition character="&amp;#x1D759;">MATHEMATICAL SANS-SERIF BOLD Upper Case DELTA</characterDefinition>
+            <characterDefinition character="&amp;#x1D75A;">MATHEMATICAL SANS-SERIF BOLD Upper Case EPSILON</characterDefinition>
+            <characterDefinition character="&amp;#x1D75B;">MATHEMATICAL SANS-SERIF BOLD Upper Case ZETA</characterDefinition>
+            <characterDefinition character="&amp;#x1D75C;">MATHEMATICAL SANS-SERIF BOLD Upper Case ETA</characterDefinition>
+            <characterDefinition character="&amp;#x1D75D;">MATHEMATICAL SANS-SERIF BOLD Upper Case THETA</characterDefinition>
+            <characterDefinition character="&amp;#x1D75E;">MATHEMATICAL SANS-SERIF BOLD Upper Case IOTA</characterDefinition>
+            <characterDefinition character="&amp;#x1D75F;">MATHEMATICAL SANS-SERIF BOLD Upper Case KAPPA</characterDefinition>
+            <characterDefinition character="&amp;#x1D760;">MATHEMATICAL SANS-SERIF BOLD Upper Case LAMDA</characterDefinition>
+            <characterDefinition character="&amp;#x1D761;">MATHEMATICAL SANS-SERIF BOLD Upper Case MU</characterDefinition>
+            <characterDefinition character="&amp;#x1D762;">MATHEMATICAL SANS-SERIF BOLD Upper Case NU</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x1D763;">MATHEMATICAL SANS-SERIF BOLD Upper Case XI</characterDefinition>
+            <characterDefinition character="&amp;#x1D764;">MATHEMATICAL SANS-SERIF BOLD Upper Case OMICRON</characterDefinition>
+            <characterDefinition character="&amp;#x1D765;">MATHEMATICAL SANS-SERIF BOLD Upper Case PI</characterDefinition>
+            <characterDefinition character="&amp;#x1D766;">MATHEMATICAL SANS-SERIF BOLD Upper Case RHO</characterDefinition>
+            <characterDefinition character="&amp;#x1D767;">MATHEMATICAL SANS-SERIF BOLD Upper Case THETA SYMBOL</characterDefinition>
+            <characterDefinition character="&amp;#x1D768;">MATHEMATICAL SANS-SERIF BOLD Upper Case SIGMA</characterDefinition>
+            <characterDefinition character="&amp;#x1D769;">MATHEMATICAL SANS-SERIF BOLD Upper Case TAU</characterDefinition>
+            <characterDefinition character="&amp;#x1D76A;">MATHEMATICAL SANS-SERIF BOLD Upper Case UPSILON</characterDefinition>
+            <characterDefinition character="&amp;#x1D76B;">MATHEMATICAL SANS-SERIF BOLD Upper Case PHI</characterDefinition>
+            <characterDefinition character="&amp;#x1D76C;">MATHEMATICAL SANS-SERIF BOLD Upper Case CHI</characterDefinition>
+            <characterDefinition character="&amp;#x1D76D;">MATHEMATICAL SANS-SERIF BOLD Upper Case PSI</characterDefinition>
+            <characterDefinition character="&amp;#x1D76E;">MATHEMATICAL SANS-SERIF BOLD Upper Case OMEGA</characterDefinition>
+            <characterDefinition character="&amp;#x1D76F;">MATHEMATICAL SANS-SERIF BOLD NABLA</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x1D770;">MATHEMATICAL SANS-SERIF BOLD Lower Case ALPHA</characterDefinition>
+            <characterDefinition character="&amp;#x1D771;">MATHEMATICAL SANS-SERIF BOLD Lower Case BETA</characterDefinition>
+            <characterDefinition character="&amp;#x1D772;">MATHEMATICAL SANS-SERIF BOLD Lower Case GAMMA</characterDefinition>
+            <characterDefinition character="&amp;#x1D773;">MATHEMATICAL SANS-SERIF BOLD Lower Case DELTA</characterDefinition>
+            <characterDefinition character="&amp;#x1D774;">MATHEMATICAL SANS-SERIF BOLD Lower Case EPSILON</characterDefinition>
+            <characterDefinition character="&amp;#x1D775;">MATHEMATICAL SANS-SERIF BOLD Lower Case ZETA</characterDefinition>
+            <characterDefinition character="&amp;#x1D776;">MATHEMATICAL SANS-SERIF BOLD Lower Case ETA</characterDefinition>
+            <characterDefinition character="&amp;#x1D777;">MATHEMATICAL SANS-SERIF BOLD Lower Case THETA</characterDefinition>
+            <characterDefinition character="&amp;#x1D778;">MATHEMATICAL SANS-SERIF BOLD Lower Case IOTA</characterDefinition>
+            <characterDefinition character="&amp;#x1D779;">MATHEMATICAL SANS-SERIF BOLD Lower Case KAPPA</characterDefinition>
+            <characterDefinition character="&amp;#x1D77A;">MATHEMATICAL SANS-SERIF BOLD Lower Case LAMDA</characterDefinition>
+            <characterDefinition character="&amp;#x1D77B;">MATHEMATICAL SANS-SERIF BOLD Lower Case MU</characterDefinition>
+            <characterDefinition character="&amp;#x1D77C;">MATHEMATICAL SANS-SERIF BOLD Lower Case NU</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x1D77D;">MATHEMATICAL SANS-SERIF BOLD Lower Case XI</characterDefinition>
+            <characterDefinition character="&amp;#x1D77E;">MATHEMATICAL SANS-SERIF BOLD Lower Case OMICRON</characterDefinition>
+            <characterDefinition character="&amp;#x1D77F;">MATHEMATICAL SANS-SERIF BOLD Lower Case PI</characterDefinition>
+            <characterDefinition character="&amp;#x1D780;">MATHEMATICAL SANS-SERIF BOLD Lower Case RHO</characterDefinition>
+            <characterDefinition character="&amp;#x1D781;">MATHEMATICAL SANS-SERIF BOLD Lower Case FINAL SIGMA</characterDefinition>
+            <characterDefinition character="&amp;#x1D782;">MATHEMATICAL SANS-SERIF BOLD Lower Case SIGMA</characterDefinition>
+            <characterDefinition character="&amp;#x1D783;">MATHEMATICAL SANS-SERIF BOLD Lower Case TAU</characterDefinition>
+            <characterDefinition character="&amp;#x1D784;">MATHEMATICAL SANS-SERIF BOLD Lower Case UPSILON</characterDefinition>
+            <characterDefinition character="&amp;#x1D785;">MATHEMATICAL SANS-SERIF BOLD Lower Case PHI</characterDefinition>
+            <characterDefinition character="&amp;#x1D786;">MATHEMATICAL SANS-SERIF BOLD Lower Case CHI</characterDefinition>
+            <characterDefinition character="&amp;#x1D787;">MATHEMATICAL SANS-SERIF BOLD Lower Case PSI</characterDefinition>
+            <characterDefinition character="&amp;#x1D788;">MATHEMATICAL SANS-SERIF BOLD Lower Case OMEGA</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x1D789;">MATHEMATICAL SANS-SERIF BOLD PARTIAL DIFFERENTIAL</characterDefinition>
+            <characterDefinition character="&amp;#x1D78A;">MATHEMATICAL SANS-SERIF BOLD EPSILON SYMBOL</characterDefinition>
+            <characterDefinition character="&amp;#x1D78B;">MATHEMATICAL SANS-SERIF BOLD THETA SYMBOL</characterDefinition>
+            <characterDefinition character="&amp;#x1D78C;">MATHEMATICAL SANS-SERIF BOLD KAPPA SYMBOL</characterDefinition>
+            <characterDefinition character="&amp;#x1D78D;">MATHEMATICAL SANS-SERIF BOLD PHI SYMBOL</characterDefinition>
+            <characterDefinition character="&amp;#x1D78E;">MATHEMATICAL SANS-SERIF BOLD RHO SYMBOL</characterDefinition>
+            <characterDefinition character="&amp;#x1D78F;">MATHEMATICAL SANS-SERIF BOLD PI SYMBOL</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x1D7EC;">MATHEMATICAL SANS-SERIF BOLD DIGIT ZERO</characterDefinition>
+            <characterDefinition character="&amp;#x1D7ED;">MATHEMATICAL SANS-SERIF BOLD DIGIT ONE</characterDefinition>
+            <characterDefinition character="&amp;#x1D7EE;">MATHEMATICAL SANS-SERIF BOLD DIGIT TWO</characterDefinition>
+            <characterDefinition character="&amp;#x1D7EF;">MATHEMATICAL SANS-SERIF BOLD DIGIT THREE</characterDefinition>
+            <characterDefinition character="&amp;#x1D7F0;">MATHEMATICAL SANS-SERIF BOLD DIGIT FOUR</characterDefinition>
+            <characterDefinition character="&amp;#x1D7F1;">MATHEMATICAL SANS-SERIF BOLD DIGIT FIVE</characterDefinition>
+            <characterDefinition character="&amp;#x1D7F2;">MATHEMATICAL SANS-SERIF BOLD DIGIT SIX</characterDefinition>
+            <characterDefinition character="&amp;#x1D7F3;">MATHEMATICAL SANS-SERIF BOLD DIGIT SEVEN</characterDefinition>
+            <characterDefinition character="&amp;#x1D7F4;">MATHEMATICAL SANS-SERIF BOLD DIGIT EIGHT</characterDefinition>
+            <characterDefinition character="&amp;#x1D7F5;">MATHEMATICAL SANS-SERIF BOLD DIGIT NINE</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+
+    <characterSubset name="Greek Sans-Serif Bold Italic">
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x1D790;">MATHEMATICAL SANS-SERIF BOLD ITALIC Upper Case ALPHA</characterDefinition>
+            <characterDefinition character="&amp;#x1D791;">MATHEMATICAL SANS-SERIF BOLD ITALIC Upper Case BETA</characterDefinition>
+            <characterDefinition character="&amp;#x1D792;">MATHEMATICAL SANS-SERIF BOLD ITALIC Upper Case GAMMA</characterDefinition>
+            <characterDefinition character="&amp;#x1D793;">MATHEMATICAL SANS-SERIF BOLD ITALIC Upper Case DELTA</characterDefinition>
+            <characterDefinition character="&amp;#x1D794;">MATHEMATICAL SANS-SERIF BOLD ITALIC Upper Case EPSILON</characterDefinition>
+            <characterDefinition character="&amp;#x1D795;">MATHEMATICAL SANS-SERIF BOLD ITALIC Upper Case ZETA</characterDefinition>
+            <characterDefinition character="&amp;#x1D796;">MATHEMATICAL SANS-SERIF BOLD ITALIC Upper Case ETA</characterDefinition>
+            <characterDefinition character="&amp;#x1D797;">MATHEMATICAL SANS-SERIF BOLD ITALIC Upper Case THETA</characterDefinition>
+            <characterDefinition character="&amp;#x1D798;">MATHEMATICAL SANS-SERIF BOLD ITALIC Upper Case IOTA</characterDefinition>
+            <characterDefinition character="&amp;#x1D799;">MATHEMATICAL SANS-SERIF BOLD ITALIC Upper Case KAPPA</characterDefinition>
+            <characterDefinition character="&amp;#x1D79A;">MATHEMATICAL SANS-SERIF BOLD ITALIC Upper Case LAMDA</characterDefinition>
+            <characterDefinition character="&amp;#x1D79B;">MATHEMATICAL SANS-SERIF BOLD ITALIC Upper Case MU</characterDefinition>
+            <characterDefinition character="&amp;#x1D79C;">MATHEMATICAL SANS-SERIF BOLD ITALIC Upper Case NU</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x1D79D;">MATHEMATICAL SANS-SERIF BOLD ITALIC Upper Case XI</characterDefinition>
+            <characterDefinition character="&amp;#x1D79E;">MATHEMATICAL SANS-SERIF BOLD ITALIC Upper Case OMICRON</characterDefinition>
+            <characterDefinition character="&amp;#x1D79F;">MATHEMATICAL SANS-SERIF BOLD ITALIC Upper Case PI</characterDefinition>
+            <characterDefinition character="&amp;#x1D7A0;">MATHEMATICAL SANS-SERIF BOLD ITALIC Upper Case RHO</characterDefinition>
+            <characterDefinition character="&amp;#x1D7A1;">MATHEMATICAL SANS-SERIF BOLD ITALIC Upper Case THETA SYMBOL</characterDefinition>
+            <characterDefinition character="&amp;#x1D7A2;">MATHEMATICAL SANS-SERIF BOLD ITALIC Upper Case SIGMA</characterDefinition>
+            <characterDefinition character="&amp;#x1D7A3;">MATHEMATICAL SANS-SERIF BOLD ITALIC Upper Case TAU</characterDefinition>
+            <characterDefinition character="&amp;#x1D7A4;">MATHEMATICAL SANS-SERIF BOLD ITALIC Upper Case UPSILON</characterDefinition>
+            <characterDefinition character="&amp;#x1D7A5;">MATHEMATICAL SANS-SERIF BOLD ITALIC Upper Case PHI</characterDefinition>
+            <characterDefinition character="&amp;#x1D7A6;">MATHEMATICAL SANS-SERIF BOLD ITALIC Upper Case CHI</characterDefinition>
+            <characterDefinition character="&amp;#x1D7A7;">MATHEMATICAL SANS-SERIF BOLD ITALIC Upper Case PSI</characterDefinition>
+            <characterDefinition character="&amp;#x1D7A8;">MATHEMATICAL SANS-SERIF BOLD ITALIC Upper Case OMEGA</characterDefinition>
+            <characterDefinition character="&amp;#x1D7A9;">MATHEMATICAL SANS-SERIF BOLD ITALIC NABLA</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x1D7AA;">MATHEMATICAL SANS-SERIF BOLD ITALIC Lower Case ALPHA</characterDefinition>
+            <characterDefinition character="&amp;#x1D7AB;">MATHEMATICAL SANS-SERIF BOLD ITALIC Lower Case BETA</characterDefinition>
+            <characterDefinition character="&amp;#x1D7AC;">MATHEMATICAL SANS-SERIF BOLD ITALIC Lower Case GAMMA</characterDefinition>
+            <characterDefinition character="&amp;#x1D7AD;">MATHEMATICAL SANS-SERIF BOLD ITALIC Lower Case DELTA</characterDefinition>
+            <characterDefinition character="&amp;#x1D7AE;">MATHEMATICAL SANS-SERIF BOLD ITALIC Lower Case EPSILON</characterDefinition>
+            <characterDefinition character="&amp;#x1D7AF;">MATHEMATICAL SANS-SERIF BOLD ITALIC Lower Case ZETA</characterDefinition>
+            <characterDefinition character="&amp;#x1D7B0;">MATHEMATICAL SANS-SERIF BOLD ITALIC Lower Case ETA</characterDefinition>
+            <characterDefinition character="&amp;#x1D7B1;">MATHEMATICAL SANS-SERIF BOLD ITALIC Lower Case THETA</characterDefinition>
+            <characterDefinition character="&amp;#x1D7B2;">MATHEMATICAL SANS-SERIF BOLD ITALIC Lower Case IOTA</characterDefinition>
+            <characterDefinition character="&amp;#x1D7B3;">MATHEMATICAL SANS-SERIF BOLD ITALIC Lower Case KAPPA</characterDefinition>
+            <characterDefinition character="&amp;#x1D7B4;">MATHEMATICAL SANS-SERIF BOLD ITALIC Lower Case LAMDA</characterDefinition>
+            <characterDefinition character="&amp;#x1D7B5;">MATHEMATICAL SANS-SERIF BOLD ITALIC Lower Case MU</characterDefinition>
+            <characterDefinition character="&amp;#x1D7B6;">MATHEMATICAL SANS-SERIF BOLD ITALIC Lower Case NU</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x1D7B7;">MATHEMATICAL SANS-SERIF BOLD ITALIC Lower Case XI</characterDefinition>
+            <characterDefinition character="&amp;#x1D7B8;">MATHEMATICAL SANS-SERIF BOLD ITALIC Lower Case OMICRON</characterDefinition>
+            <characterDefinition character="&amp;#x1D7B9;">MATHEMATICAL SANS-SERIF BOLD ITALIC Lower Case PI</characterDefinition>
+            <characterDefinition character="&amp;#x1D7BA;">MATHEMATICAL SANS-SERIF BOLD ITALIC Lower Case RHO</characterDefinition>
+            <characterDefinition character="&amp;#x1D7BB;">MATHEMATICAL SANS-SERIF BOLD ITALIC Lower Case FINAL SIGMA</characterDefinition>
+            <characterDefinition character="&amp;#x1D7BC;">MATHEMATICAL SANS-SERIF BOLD ITALIC Lower Case SIGMA</characterDefinition>
+            <characterDefinition character="&amp;#x1D7BD;">MATHEMATICAL SANS-SERIF BOLD ITALIC Lower Case TAU</characterDefinition>
+            <characterDefinition character="&amp;#x1D7BE;">MATHEMATICAL SANS-SERIF BOLD ITALIC Lower Case UPSILON</characterDefinition>
+            <characterDefinition character="&amp;#x1D7BF;">MATHEMATICAL SANS-SERIF BOLD ITALIC Lower Case PHI</characterDefinition>
+            <characterDefinition character="&amp;#x1D7C0;">MATHEMATICAL SANS-SERIF BOLD ITALIC Lower Case CHI</characterDefinition>
+            <characterDefinition character="&amp;#x1D7C1;">MATHEMATICAL SANS-SERIF BOLD ITALIC Lower Case PSI</characterDefinition>
+            <characterDefinition character="&amp;#x1D7C2;">MATHEMATICAL SANS-SERIF BOLD ITALIC Lower Case OMEGA</characterDefinition>
+        </characterSubsetArray>
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#x1D7C3;">MATHEMATICAL SANS-SERIF BOLD ITALIC PARTIAL DIFFERENTIAL</characterDefinition>
+            <characterDefinition character="&amp;#x1D7C4;">MATHEMATICAL SANS-SERIF BOLD ITALIC EPSILON SYMBOL</characterDefinition>
+            <characterDefinition character="&amp;#x1D7C5;">MATHEMATICAL SANS-SERIF BOLD ITALIC THETA SYMBOL</characterDefinition>
+            <characterDefinition character="&amp;#x1D7C6;">MATHEMATICAL SANS-SERIF BOLD ITALIC KAPPA SYMBOL</characterDefinition>
+            <characterDefinition character="&amp;#x1D7C7;">MATHEMATICAL SANS-SERIF BOLD ITALIC PHI SYMBOL</characterDefinition>
+            <characterDefinition character="&amp;#x1D7C8;">MATHEMATICAL SANS-SERIF BOLD ITALIC RHO SYMBOL</characterDefinition>
+            <characterDefinition character="&amp;#x1D7C9;">MATHEMATICAL SANS-SERIF BOLD ITALIC PI SYMBOL</characterDefinition>
+        </characterSubsetArray>
+    </characterSubset>
+
+</characterSet>
